@@ -7,7 +7,7 @@ Dead Estate 的完整简体中文汉化补丁。最终版本 **v3g**。
 **直接下载（解压到游戏根目录即完成安装）：**
 
 ```
-https://github.com/Cyclin15/dead-estate-chs/releases/latest/download/死亡庄园汉化补丁v3g.zip
+https://github.com/Cyclin15/dead-estate-chs/releases/latest/download/DeadEstate-CHS-v3g.zip
 ```
 
 或到 [Releases 页面](https://github.com/Cyclin15/dead-estate-chs/releases) 下载。
@@ -42,8 +42,8 @@ Release 附件：
 
 | 附件 | 说明 |
 |---|---|
-| `死亡庄园汉化补丁v3g.zip` | **补丁本体**，解压到游戏根目录即安装 |
-| `data_v3g_win.zip` / `data_v3g.win` | 最终版 data.win |
+| `DeadEstate-CHS-v3g.zip` | **补丁本体**，解压到游戏根目录即安装 |
+| `data_v3g.win` | 最终版 data.win |
 | `data_base_1001.win` | 构建基底（10.1 版），BuildV3 的加载起点 |
 | `project_all.zip` | 全部工程文件（字体源、工具、导出、截图等） |
 | `original_backup_data.win` | 原版英文 data.win 备份 |
