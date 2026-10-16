@@ -1,0 +1,36 @@
+﻿fnt_gm_15: orig=191 new=2334 lost=0 gainedCJK=2138
+fnt_gm_20: orig=96 new=2240 lost=0 gainedCJK=2138
+fnt_gm_30: orig=96 new=2240 lost=0 gainedCJK=2138
+fntCryptic: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFont: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBigger: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBiggerBold: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBiggerBoldItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBiggerItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBiggest: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBiggestBold: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBiggestBoldItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBiggestItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBold: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontBoldItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontItalicsBigger: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontNormal: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontNormalBold: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontNormalBoldItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntGameFontNormalItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntSmall: orig=98 new=2242 lost=0 gainedCJK=2138
+fntSmallBold: orig=96 new=2240 lost=0 gainedCJK=2138
+fntSmallBoldItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntSmaller: orig=98 new=2242 lost=0 gainedCJK=2138
+fntSmallerBold: orig=98 new=2242 lost=0 gainedCJK=2138
+fntSmallerBoldItalics: orig=98 new=2242 lost=0 gainedCJK=2138
+fntSmallerItalics: orig=98 new=2242 lost=0 gainedCJK=2138
+fntSmallItalics: orig=96 new=2240 lost=0 gainedCJK=2138
+fntTiny: orig=97 new=2241 lost=0 gainedCJK=2138
+fntWeirdo: orig=96 new=2240 lost=0 gainedCJK=2138
+Font_YoYo_20: orig=96 new=2240 lost=0 gainedCJK=2138
+Font_YoYo_30: orig=96 new=2240 lost=0 gainedCJK=2138
+Font_YoYo_50: orig=96 new=2240 lost=0 gainedCJK=2138
+fntAnyaFancyCN: NOT IN ORIGINAL
+fntAnyaTypewriterCN: NOT IN ORIGINAL

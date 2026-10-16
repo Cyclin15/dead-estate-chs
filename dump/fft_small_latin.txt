@@ -1,0 +1,52 @@
+region y193-214 ink=201
+fntGameFontBiggest x1: no matches
+fntGameFontBiggest x1 MIRROR: no matches
+fntGameFontBiggest x2: no matches
+fntGameFontBiggest x2 MIRROR: no matches
+fntGameFontBiggestBold x1: no matches
+fntGameFontBiggestBold x1 MIRROR: no matches
+fntGameFontBiggestBold x2: no matches
+fntGameFontBiggestBold x2 MIRROR: no matches
+fntGameFontBiggestBoldItalics x1: no matches
+fntGameFontBiggestBoldItalics x1 MIRROR: no matches
+fntGameFontBiggestBoldItalics x2: no matches
+fntGameFontBiggestBoldItalics x2 MIRROR: no matches
+Font_YoYo_50 x1: no matches
+Font_YoYo_50 x1 MIRROR: no matches
+Font_YoYo_50 x2: no matches
+Font_YoYo_50 x2 MIRROR: no matches
+Font_YoYo_30 x1: no matches
+Font_YoYo_30 x1 MIRROR: no matches
+Font_YoYo_30 x2: no matches
+Font_YoYo_30 x2 MIRROR: no matches
+fnt_gm_30 x1: no matches
+fnt_gm_30 x1 MIRROR: no matches
+fnt_gm_30 x2: no matches
+fnt_gm_30 x2 MIRROR: no matches
+fntGameFontBigger x1: no matches
+fntGameFontBigger x1 MIRROR: no matches
+fntGameFontBigger x2: no matches
+fntGameFontBigger x2 MIRROR: no matches
+fntGameFontBiggerBold x1: no matches
+fntGameFontBiggerBold x1 MIRROR: no matches
+fntGameFontBiggerBold x2: no matches
+fntGameFontBiggerBold x2 MIRROR: no matches
+typewriter ds=3: no matches
+typewriter ds=3 MIRROR: no matches
+typewriter ds=4: no matches
+typewriter ds=4 MIRROR: no matches
+typewriter ds=5: no matches
+typewriter ds=5 MIRROR: no matches
+typewriter ds=6: no matches
+typewriter ds=6 MIRROR: no matches
+typewriter ds=2: no matches
+typewriter ds=2 MIRROR: no matches
+fancy ds=2: no matches
+fancy ds=2 MIRROR: no matches
+fancy ds=3: no matches
+fancy ds=3 MIRROR: no matches
+fancy ds=4: no matches
+fancy ds=4 MIRROR: no matches
+review ds=6: no matches
+review ds=7: no matches
+review ds=8: no matches

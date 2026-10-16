@@ -1,0 +1,38 @@
+strings replaced: 4615 / 4615
+font fntCryptic: 2204 glyphs (2109 CJK), atlas 8192x184
+font fntGameFont: 2204 glyphs (2109 CJK), atlas 8192x192
+font fntGameFontBigger: 2204 glyphs (2109 CJK), atlas 8192x388
+font fntGameFontBiggerBold: 2204 glyphs (2109 CJK), atlas 8192x394
+font fntGameFontBiggerBoldItalics: 2204 glyphs (2109 CJK), atlas 8192x394
+font fntGameFontBiggerItalics: 2204 glyphs (2109 CJK), atlas 8192x394
+font fntGameFontBiggest: 2204 glyphs (2109 CJK), atlas 8192x1004
+font fntGameFontBiggestBold: 2204 glyphs (2109 CJK), atlas 8192x1004
+font fntGameFontBiggestBoldItalics: 2204 glyphs (2109 CJK), atlas 8192x1004
+font fntGameFontBiggestItalics: 2204 glyphs (2109 CJK), atlas 8192x1004
+font fntGameFontBold: 2204 glyphs (2109 CJK), atlas 8192x192
+font fntGameFontBoldItalics: 2204 glyphs (2109 CJK), atlas 8192x192
+font fntGameFontItalics: 2204 glyphs (2109 CJK), atlas 8192x192
+font fntGameFontItalicsBigger: 2204 glyphs (2109 CJK), atlas 8192x394
+font fntGameFontNormal: 2204 glyphs (2109 CJK), atlas 8192x184
+font fntGameFontNormalBold: 2204 glyphs (2109 CJK), atlas 8192x192
+font fntGameFontNormalBoldItalics: 2204 glyphs (2109 CJK), atlas 8192x192
+font fntGameFontNormalItalics: 2204 glyphs (2109 CJK), atlas 8192x184
+font fntSmall: 2206 glyphs (2111 CJK), atlas 8192x180
+font fntSmallBold: 2204 glyphs (2109 CJK), atlas 8192x180
+font fntSmallBoldItalics: 2204 glyphs (2109 CJK), atlas 8192x180
+font fntSmaller: 2206 glyphs (2111 CJK), atlas 8192x158
+font fntSmallerBold: 2206 glyphs (2111 CJK), atlas 8192x158
+font fntSmallerBoldItalics: 2206 glyphs (2111 CJK), atlas 8192x158
+font fntSmallerItalics: 2206 glyphs (2111 CJK), atlas 8192x158
+font fntSmallItalics: 2204 glyphs (2109 CJK), atlas 8192x180
+font fntTiny: 2205 glyphs (2109 CJK), atlas 8192x78
+font fntWeirdo: 2204 glyphs (2109 CJK), atlas 8192x346
+font fnt_gm_15: 2299 glyphs (2204 CJK), atlas 8192x341
+font fnt_gm_20: 2204 glyphs (2109 CJK), atlas 8192x388
+font fnt_gm_30: 2204 glyphs (2109 CJK), atlas 8192x544
+font Font_YoYo_20: 2204 glyphs (2109 CJK), atlas 8192x388
+font Font_YoYo_30: 2204 glyphs (2109 CJK), atlas 8192x544
+font Font_YoYo_50: 2204 glyphs (2109 CJK), atlas 8192x1277
+
+fontsDone=34 cjkGlyphsAdded=71811
+saved D:\Steam\steamapps\common\Dead Estate\_loc_work\out\data.win (100702124 bytes)

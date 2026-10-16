@@ -1,0 +1,40 @@
+total instructions: 6133
+6000: pop.v.b builtin.lockCursor
+6001: pushi.e 1
+6002: conv.i.v
+6003: pushi.e 1
+6004: conv.b.v
+6005: push.s "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ?' "@7999
+6006: conv.s.v
+6007: pushref.i 16777897
+6008: call.i font_add_sprite_ext(argc=4)
+6009: pop.v.v global.fntAnyaFancy
+6010: pushi.e 1
+6011: conv.i.v
+---
+6009: pop.v.v global.fntAnyaFancy
+6010: pushi.e 1
+6011: conv.i.v
+6012: pushi.e 1
+6013: conv.b.v
+6014: push.s "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.!?,'\"-:;()[]/\\<>+-=*_1234567890%& "@8001
+6015: conv.s.v
+6016: pushref.i 16778228
+6017: call.i font_add_sprite_ext(argc=4)
+6018: pop.v.v global.fntAnyaTypewriter
+6019: pushi.e 0
+6020: pop.v.i builtin.storeWindowMouseX
+---
+6028: pop.v.s global.challengeRoom
+6029: pushi.e 1
+6030: conv.i.v
+6031: pushi.e 1
+6032: conv.b.v
+6033: push.s "0123456789secABCDEFGHIJKLMNOPQRSTUVWXYZ."@8004
+6034: conv.s.v
+6035: pushref.i 16779542
+6036: call.i font_add_sprite_ext(argc=4)
+6037: pop.v.v global.fntDigitalDisplay
+6038: pushi.e -4
+6039: pop.v.i builtin.currentTrackInstance
+---

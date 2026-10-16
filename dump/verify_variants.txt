@@ -1,0 +1,38 @@
+file: Dead_Estate  strings=30154 fonts=34 textures=146
+strings with Chinese: 4554
+
+font / scale / glyphs:
+  fnt_gm_15                        Em=15  Scale=2 cjk= 2204 maxGlyph=19x25
+  fnt_gm_20                        Em=20  Scale=2 cjk= 2109 maxGlyph=22x31
+  fnt_gm_30                        Em=30  Scale=2 cjk= 2109 maxGlyph=33x46
+  fntCryptic                       Em=12  Scale=2 cjk= 2109 maxGlyph=13x19
+  fntGameFont                      Em=12  Scale=2 cjk= 2109 maxGlyph=26x27
+  fntGameFontBigger                Em=20  Scale=2 cjk= 2109 maxGlyph=44x41
+  fntGameFontBiggerBold            Em=20  Scale=2 cjk= 2109 maxGlyph=43x41
+  fntGameFontBiggerBoldItalics     Em=20  Scale=2 cjk= 2109 maxGlyph=43x41
+  fntGameFontBiggerItalics         Em=20  Scale=2 cjk= 2109 maxGlyph=43x41
+  fntGameFontBiggest               Em=39  Scale=2 cjk= 2109 maxGlyph=43x63
+  fntGameFontBiggestBold           Em=39  Scale=2 cjk= 2109 maxGlyph=42x63
+  fntGameFontBiggestBoldItalics    Em=39  Scale=2 cjk= 2109 maxGlyph=42x63
+  fntGameFontBiggestItalics        Em=39  Scale=2 cjk= 2109 maxGlyph=43x63
+  fntGameFontBold                  Em=12  Scale=2 cjk= 2109 maxGlyph=26x27
+  fntGameFontBoldItalics           Em=12  Scale=2 cjk= 2109 maxGlyph=26x27
+  fntGameFontItalics               Em=12  Scale=2 cjk= 2109 maxGlyph=26x27
+  fntGameFontItalicsBigger         Em=20  Scale=2 cjk= 2109 maxGlyph=43x41
+  fntGameFontNormal                Em=12  Scale=2 cjk= 2109 maxGlyph=26x25
+  fntGameFontNormalBold            Em=12  Scale=2 cjk= 2109 maxGlyph=26x27
+  fntGameFontNormalBoldItalics     Em=12  Scale=2 cjk= 2109 maxGlyph=26x27
+  fntGameFontNormalItalics         Em=12  Scale=2 cjk= 2109 maxGlyph=26x25
+  fntSmall                         Em=10  Scale=2 cjk= 2111 maxGlyph=22x21
+  fntSmallBold                     Em=10  Scale=2 cjk= 2109 maxGlyph=22x22
+  fntSmallBoldItalics              Em=10  Scale=2 cjk= 2109 maxGlyph=22x22
+  fntSmaller                       Em=8   Scale=2 cjk= 2111 maxGlyph=18x17
+  fntSmallerBold                   Em=8   Scale=2 cjk= 2111 maxGlyph=17x19
+  fntSmallerBoldItalics            Em=8   Scale=2 cjk= 2111 maxGlyph=17x19
+  fntSmallerItalics                Em=8   Scale=2 cjk= 2111 maxGlyph=18x17
+  fntSmallItalics                  Em=10  Scale=2 cjk= 2109 maxGlyph=22x21
+  fntTiny                          Em=5   Scale=2 cjk= 2109 maxGlyph=6x7
+  fntWeirdo                        Em=16  Scale=2 cjk= 2109 maxGlyph=18x25
+  Font_YoYo_20                     Em=20  Scale=2 cjk= 2109 maxGlyph=22x31
+  Font_YoYo_30                     Em=30  Scale=2 cjk= 2109 maxGlyph=33x46
+  Font_YoYo_50                     Em=50  Scale=2 cjk= 2109 maxGlyph=54x77

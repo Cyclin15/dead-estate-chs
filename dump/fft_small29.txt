@@ -1,0 +1,69 @@
+region y193-214 ink=201
+fntSmall x1: no matches
+fntSmall x1 MIRROR: no matches
+fntSmall x2: no matches
+fntSmall x2 MIRROR: no matches
+fntSmallBold x1: no matches
+fntSmallBold x1 MIRROR: no matches
+fntSmallBold x2: no matches
+fntSmallBold x2 MIRROR: no matches
+fntSmaller x1: no matches
+fntSmaller x1 MIRROR: no matches
+fntSmaller x2: no matches
+fntSmaller x2 MIRROR: no matches
+fntSmallerBold x1: no matches
+fntSmallerBold x1 MIRROR: no matches
+fntSmallerBold x2: no matches
+fntSmallerBold x2 MIRROR: no matches
+fntCryptic x1: no matches
+fntCryptic x1 MIRROR: no matches
+fntCryptic x2: no matches
+fntCryptic x2 MIRROR: no matches
+fntGameFont x1: no matches
+fntGameFont x1 MIRROR: no matches
+fntGameFont x2: no matches
+fntGameFont x2 MIRROR: no matches
+fntGameFontBold x1: no matches
+fntGameFontBold x1 MIRROR: no matches
+fntGameFontBold x2: no matches
+fntGameFontBold x2 MIRROR: no matches
+fntWeirdo x1: no matches
+fntWeirdo x1 MIRROR: no matches
+fntWeirdo x2: no matches
+fntWeirdo x2 MIRROR: no matches
+fntTiny x1: 3/400 chars matched: 儿了下
+   iou=0.71 '儿' at x236 y194
+   iou=0.71 '了' at x225 y193
+   iou=0.71 '下' at x225 y193
+fntTiny x1 MIRROR: 2/400 chars matched: 了下
+   iou=0.81 '了' at x225 y193
+   iou=0.71 '下' at x225 y193
+fntTiny x2: no matches
+fntTiny x2 MIRROR: no matches
+fntGameFontNormal x1: no matches
+fntGameFontNormal x1 MIRROR: no matches
+fntGameFontNormal x2: no matches
+fntGameFontNormal x2 MIRROR: no matches
+fntGameFontNormalBold x1: no matches
+fntGameFontNormalBold x1 MIRROR: no matches
+fntGameFontNormalBold x2: no matches
+fntGameFontNormalBold x2 MIRROR: no matches
+typewriter ds=3: no matches
+typewriter ds=3 MIRROR: no matches
+typewriter ds=4: no matches
+typewriter ds=4 MIRROR: no matches
+typewriter ds=5: no matches
+typewriter ds=5 MIRROR: no matches
+typewriter ds=6: no matches
+typewriter ds=6 MIRROR: no matches
+typewriter ds=2: no matches
+typewriter ds=2 MIRROR: no matches
+fancy ds=2: no matches
+fancy ds=2 MIRROR: no matches
+fancy ds=3: no matches
+fancy ds=3 MIRROR: no matches
+fancy ds=4: no matches
+fancy ds=4 MIRROR: no matches
+review ds=6: no matches
+review ds=7: no matches
+review ds=8: no matches

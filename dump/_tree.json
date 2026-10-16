@@ -1,0 +1,4041 @@
+{
+  "sha": "f43e12c445c37d50dc6244caa12ccab232983f3f",
+  "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/f43e12c445c37d50dc6244caa12ccab232983f3f",
+  "tree": [
+    {
+      "path": ".gitattributes",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bf0233e3d005ee427742f062eb0abd0c47aa511a",
+      "size": 55,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bf0233e3d005ee427742f062eb0abd0c47aa511a"
+    },
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "92973cf8c85e047f5e599a5fb84dd3b2cb0fe8be",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/92973cf8c85e047f5e599a5fb84dd3b2cb0fe8be"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cdde90f9685f3349a547adf7005caeace7e2fa12",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/cdde90f9685f3349a547adf7005caeace7e2fa12"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/bug_report.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61c1cff67f9a4684aefbd7b81b6d6f22fbc35817",
+      "size": 1115,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/61c1cff67f9a4684aefbd7b81b6d6f22fbc35817"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/config.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c7d52d7d099b96fa5e30f5fc627e09d726a2ddfd",
+      "size": 188,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c7d52d7d099b96fa5e30f5fc627e09d726a2ddfd"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "deb7c78a85d8af82996163af286b2e965049c31c",
+      "size": 902,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/deb7c78a85d8af82996163af286b2e965049c31c"
+    },
+    {
+      "path": ".github/PULL_REQUEST_TEMPLATE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b29d6121993f64d95c47c204274dcd1666a31cf",
+      "size": 259,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7b29d6121993f64d95c47c204274dcd1666a31cf"
+    },
+    {
+      "path": ".github/dependabot.yaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d1a6b3e96367f5a0a2fb38b176de36d09ec7665",
+      "size": 677,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2d1a6b3e96367f5a0a2fb38b176de36d09ec7665"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "857d109ecdb42fe2308ea1f55f7b5901526af559",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/857d109ecdb42fe2308ea1f55f7b5901526af559"
+    },
+    {
+      "path": ".github/workflows/pr_artifacts.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fcbe7f072066eaca8e60a76aca6ab5cc2085a509",
+      "size": 3028,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/fcbe7f072066eaca8e60a76aca6ab5cc2085a509"
+    },
+    {
+      "path": ".github/workflows/publish_cli.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45a9bdead6192a5ab1459257a328d366bbb16a8d",
+      "size": 1880,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/45a9bdead6192a5ab1459257a328d366bbb16a8d"
+    },
+    {
+      "path": ".github/workflows/publish_gui.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9e037ea8f94f4a362ca292db13233869fd1aa4f9",
+      "size": 1574,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9e037ea8f94f4a362ca292db13233869fd1aa4f9"
+    },
+    {
+      "path": ".github/workflows/publish_gui_nightly.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31139aa6f909fcf28c2fb7d11aff972ac2a38902",
+      "size": 5111,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/31139aa6f909fcf28c2fb7d11aff972ac2a38902"
+    },
+    {
+      "path": ".github/workflows/publish_gui_release.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "26bcbde9f034ca02a2c3a603f1888427c4421410",
+      "size": 3883,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/26bcbde9f034ca02a2c3a603f1888427c4421410"
+    },
+    {
+      "path": ".github/workflows/publish_pr.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "668a0092cf93f7921a6a2273736f6f7d67cf2f47",
+      "size": 3403,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/668a0092cf93f7921a6a2273736f6f7d67cf2f47"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c07a502a4eee4f54f9510d3431d27c826c667ad",
+      "size": 5784,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7c07a502a4eee4f54f9510d3431d27c826c667ad"
+    },
+    {
+      "path": ".gitmodules",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af38bac3888daecc26f412bc0c859054f512b0f2",
+      "size": 110,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/af38bac3888daecc26f412bc0c859054f512b0f2"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f258b826272957f2c60f393f321184c4f0cbdb83",
+      "size": 2219,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f258b826272957f2c60f393f321184c4f0cbdb83"
+    },
+    {
+      "path": "LICENSE.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94a9ed024d3859793618152ea559a168bbcbb5e2",
+      "size": 35147,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/94a9ed024d3859793618152ea559a168bbcbb5e2"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94e8d96145676076e563cfe3746ee263c34fda1f",
+      "size": 8383,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/94e8d96145676076e563cfe3746ee263c34fda1f"
+    },
+    {
+      "path": "SCRIPTS.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "692d3f70c6362ce6015e18d8fef1bd79e4ad211f",
+      "size": 13544,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/692d3f70c6362ce6015e18d8fef1bd79e4ad211f"
+    },
+    {
+      "path": "SECURITY.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "70ec0b17391036616a59e5b927ae9ecd131119d0",
+      "size": 1215,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/70ec0b17391036616a59e5b927ae9ecd131119d0"
+    },
+    {
+      "path": "Underanalyzer",
+      "mode": "160000",
+      "type": "commit",
+      "sha": "4ff50a866b4c1a7acee8cebe6a56d6a48709b453"
+    },
+    {
+      "path": "UndertaleModCli",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9eb4d16813e294432814b2830c9a9edfb01efff3",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/9eb4d16813e294432814b2830c9a9edfb01efff3"
+    },
+    {
+      "path": "UndertaleModCli/CommandOptions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c8052cfa77465a5a7fe6ef58fb81d748f9527b1e",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/c8052cfa77465a5a7fe6ef58fb81d748f9527b1e"
+    },
+    {
+      "path": "UndertaleModCli/CommandOptions/DumpOptions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e4f9578dd076151e3aae682189871375e1477fd9",
+      "size": 972,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e4f9578dd076151e3aae682189871375e1477fd9"
+    },
+    {
+      "path": "UndertaleModCli/CommandOptions/InfoOptions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9432cf60e0da9e18125b4a75e237e15f1298d310",
+      "size": 373,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9432cf60e0da9e18125b4a75e237e15f1298d310"
+    },
+    {
+      "path": "UndertaleModCli/CommandOptions/LoadOptions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cbe927ca27a145ca2fad2aec08dd82b4a8bc356",
+      "size": 1040,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6cbe927ca27a145ca2fad2aec08dd82b4a8bc356"
+    },
+    {
+      "path": "UndertaleModCli/CommandOptions/NewOptions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "018bb14cb2dd2af3abf996c81fdf84b52cfab668",
+      "size": 664,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/018bb14cb2dd2af3abf996c81fdf84b52cfab668"
+    },
+    {
+      "path": "UndertaleModCli/CommandOptions/ProjectBuildOptions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75fd3f32daa56e38a9ba230f9361651088be6a6c",
+      "size": 649,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/75fd3f32daa56e38a9ba230f9361651088be6a6c"
+    },
+    {
+      "path": "UndertaleModCli/CommandOptions/ReplaceOptions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6408ed0e8cfdca53f637e4e43e7bfe327955e29b",
+      "size": 890,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6408ed0e8cfdca53f637e4e43e7bfe327955e29b"
+    },
+    {
+      "path": "UndertaleModCli/Program.UMTLibInherited.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec2792af4b1b4892e6e876f1662e7c00a475407b",
+      "size": 28592,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ec2792af4b1b4892e6e876f1662e7c00a475407b"
+    },
+    {
+      "path": "UndertaleModCli/Program.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7d22454ee10cce0540796e679386c6131be96a3",
+      "size": 55634,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b7d22454ee10cce0540796e679386c6131be96a3"
+    },
+    {
+      "path": "UndertaleModCli/UndertaleModCli.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9ed4e7b7043e5dcc576ce7558796781d49fb8c4",
+      "size": 1488,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e9ed4e7b7043e5dcc576ce7558796781d49fb8c4"
+    },
+    {
+      "path": "UndertaleModCli/runtimeconfig.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40b04a77d08aeec87e4b52cb97478092ad3a4d60",
+      "size": 76,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/40b04a77d08aeec87e4b52cb97478092ad3a4d60"
+    },
+    {
+      "path": "UndertaleModLib",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0c98ced389d1dfee3209b749111cf8b26e45f5cc",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/0c98ced389d1dfee3209b749111cf8b26e45f5cc"
+    },
+    {
+      "path": "UndertaleModLib/Compiler",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7feb871cc2e13a8ebf21d7426efa017ccf44c91f",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/7feb871cc2e13a8ebf21d7426efa017ccf44c91f"
+    },
+    {
+      "path": "UndertaleModLib/Compiler/BuiltinList.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30dae8eb8a9403dc9171ba5067b478d9a3ae3bfe",
+      "size": 232048,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/30dae8eb8a9403dc9171ba5067b478d9a3ae3bfe"
+    },
+    {
+      "path": "UndertaleModLib/Compiler/CodeBuilder.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "834de7e1fa7c6905cad95acd8a78c5fff3910c2c",
+      "size": 16736,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/834de7e1fa7c6905cad95acd8a78c5fff3910c2c"
+    },
+    {
+      "path": "UndertaleModLib/Compiler/CodeImportGroup.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c95a69fd23d560ef7c04bd783b698370b376ce15",
+      "size": 28166,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c95a69fd23d560ef7c04bd783b698370b376ce15"
+    },
+    {
+      "path": "UndertaleModLib/Compiler/CompileGroup.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49973cb3a198944720b6dc38414968a86a71177d",
+      "size": 51298,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/49973cb3a198944720b6dc38414968a86a71177d"
+    },
+    {
+      "path": "UndertaleModLib/Compiler/CompileResult.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "623dbb66daea40773b2d8654d9edac2f2c5e5f24",
+      "size": 5036,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/623dbb66daea40773b2d8654d9edac2f2c5e5f24"
+    },
+    {
+      "path": "UndertaleModLib/Compiler/ICodeImportOperation.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2cd615b082d67cee17e25edfd3bc8225872f88a",
+      "size": 7472,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d2cd615b082d67cee17e25edfd3bc8225872f88a"
+    },
+    {
+      "path": "UndertaleModLib/Decompiler",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "99469167029e4f733b8cc5f993740e0fc5bc067c",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/99469167029e4f733b8cc5f993740e0fc5bc067c"
+    },
+    {
+      "path": "UndertaleModLib/Decompiler/Assembler.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "585dfe66f53f7a7c1e1e4f03d212a71585a0fd76",
+      "size": 31324,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/585dfe66f53f7a7c1e1e4f03d212a71585a0fd76"
+    },
+    {
+      "path": "UndertaleModLib/Decompiler/Disassembler.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e882c12876d886ec50b72c80644ede2a02e97c1e",
+      "size": 6647,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e882c12876d886ec50b72c80644ede2a02e97c1e"
+    },
+    {
+      "path": "UndertaleModLib/Decompiler/GameSpecificResolver.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4aa5db72f76827c610d026f2d2d216ff554106fa",
+      "size": 7174,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4aa5db72f76827c610d026f2d2d216ff554106fa"
+    },
+    {
+      "path": "UndertaleModLib/Decompiler/GlobalDecompileContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a0bf75028ed1db5d7902de0cde8b21778d3ca42",
+      "size": 20607,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9a0bf75028ed1db5d7902de0cde8b21778d3ca42"
+    },
+    {
+      "path": "UndertaleModLib/FodyWeavers.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5abfed81fcac0702f896f399e128b5456b2e601",
+      "size": 147,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d5abfed81fcac0702f896f399e128b5456b2e601"
+    },
+    {
+      "path": "UndertaleModLib/FodyWeavers.xsd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69dbe488cee79454bf999f336aa11c7dd4321892",
+      "size": 4040,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/69dbe488cee79454bf999f336aa11c7dd4321892"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "38d5658f44b4531be17c27b10b097e29e05e45c6",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/38d5658f44b4531be17c27b10b097e29e05e45c6"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Definitions",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3aef68d6d1a185009fe4b8ad9552ac988e382a21",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/3aef68d6d1a185009fe4b8ad9552ac988e382a21"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Definitions/deltarune.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56d243e0146fa39653c8484a4b32475ec5dd09a5",
+      "size": 353,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/56d243e0146fa39653c8484a4b32475ec5dd09a5"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Definitions/gamemaker.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dcf9cae1eb9cfb93d9fdf86bf6d8fb3cfe14a22c",
+      "size": 132,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/dcf9cae1eb9cfb93d9fdf86bf6d8fb3cfe14a22c"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Definitions/undertale.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f63150ee45781a9ec8d48372a753b1d186a163b",
+      "size": 176,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3f63150ee45781a9ec8d48372a753b1d186a163b"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/README.txt",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d29b42d13e616c50ca543d7c526821e50fb1a6f5",
+      "size": 456,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d29b42d13e616c50ca543d7c526821e50fb1a6f5"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Underanalyzer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "479cc1c7dd3c27744e54c9af9cc94bffd6761a19",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/479cc1c7dd3c27744e54c9af9cc94bffd6761a19"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Underanalyzer/deltarune.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "670db1231d8e3319f0ea0cecdab4f6ebf2711c5b",
+      "size": 45606,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/670db1231d8e3319f0ea0cecdab4f6ebf2711c5b"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Underanalyzer/gamemaker.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "431cd3f8c233b77a3f5d04041476a3e5e963ca13",
+      "size": 59030,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/431cd3f8c233b77a3f5d04041476a3e5e963ca13"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Underanalyzer/template.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8b89cd6dfaaa50c4a2e8bd2d168addba456b8b2",
+      "size": 232,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f8b89cd6dfaaa50c4a2e8bd2d168addba456b8b2"
+    },
+    {
+      "path": "UndertaleModLib/GameSpecificData/Underanalyzer/undertale.json",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "faac0374d728caacf21350eb436df0341ef5bab9",
+      "size": 6793,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/faac0374d728caacf21350eb436df0341ef5bab9"
+    },
+    {
+      "path": "UndertaleModLib/Models",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8ea10c9e00bd119da7b52616d7d5d601f337d75d",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/8ea10c9e00bd119da7b52616d7d5d601f337d75d"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleAnimationCurve.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0cc64de7f9dea5e35842e2f477cb177bf0cc0c31",
+      "size": 11186,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0cc64de7f9dea5e35842e2f477cb177bf0cc0c31"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleAudioGroup.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46cd3720bc39db8f7577797290040680ef0ae09c",
+      "size": 2055,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/46cd3720bc39db8f7577797290040680ef0ae09c"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleBackground.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ac1e1408a15bb23f67d61024118c6799d1a5d37",
+      "size": 9461,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5ac1e1408a15bb23f67d61024118c6799d1a5d37"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleCode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ec3ca9596c2f90c82d153acc8e0d2e34d7f34be7",
+      "size": 73564,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ec3ca9596c2f90c82d153acc8e0d2e34d7f34be7"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleEmbeddedAudio.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "991c5ca59d4c07bfdac28ef152a136ecfeee36a1",
+      "size": 1971,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/991c5ca59d4c07bfdac28ef152a136ecfeee36a1"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleEmbeddedImage.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bc232dc666a9546b3b15453a3cd9892499bb0b23",
+      "size": 2153,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bc232dc666a9546b3b15453a3cd9892499bb0b23"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleEmbeddedTexture.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddc6428e421fbec1a067f00d509ad8b979e91001",
+      "size": 15419,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ddc6428e421fbec1a067f00d509ad8b979e91001"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleExtension.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc718a9a618d498a429998ecebaa6db6d5edb6b9",
+      "size": 14420,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cc718a9a618d498a429998ecebaa6db6d5edb6b9"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleFeatureFlags.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e7e6d0ae198cc4c90a03419ad863ada35d61a9e",
+      "size": 1081,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4e7e6d0ae198cc4c90a03419ad863ada35d61a9e"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleFilterEffect.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "afdf485113ea34fb0c2f2f9628a0492ebfee01bb",
+      "size": 1352,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/afdf485113ea34fb0c2f2f9628a0492ebfee01bb"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleFont.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "da3d4a482e978dc73c7c777f5e2bc136c08b277a",
+      "size": 14123,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/da3d4a482e978dc73c7c777f5e2bc136c08b277a"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleFunction.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef2627d16c904ebdbf661aa433f1ca1dff167565",
+      "size": 7539,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ef2627d16c904ebdbf661aa433f1ca1dff167565"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleGameObject.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b9fcc0a3788a289ac6b6bc21e01368efcf85594",
+      "size": 53409,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7b9fcc0a3788a289ac6b6bc21e01368efcf85594"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleGeneralInfo.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "297efc37412c1659c5733cb6a1c808b858a9082d",
+      "size": 43614,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/297efc37412c1659c5733cb6a1c808b858a9082d"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleGlobalInit.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c833ab887fa559513145eb747283d5549e97a79",
+      "size": 1414,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3c833ab887fa559513145eb747283d5549e97a79"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleParticleSystem.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ba6d2ce7b376b3a062995a5a0879d0c517fc1da",
+      "size": 19425,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5ba6d2ce7b376b3a062995a5a0879d0c517fc1da"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertalePath.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5718313cb26ad5e2475c4fcf695e35b353bc5862",
+      "size": 4905,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5718313cb26ad5e2475c4fcf695e35b353bc5862"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleRoom.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "119ebeb503b75ae011cba251279d23b0b40185e4",
+      "size": 110121,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/119ebeb503b75ae011cba251279d23b0b40185e4"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleScript.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf34a388b772e630926e4f3ffe49cc4eac140b46",
+      "size": 2684,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cf34a388b772e630926e4f3ffe49cc4eac140b46"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleSequence.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f81566fda74de7eac0625f91202af5f2fcd9df27",
+      "size": 46771,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f81566fda74de7eac0625f91202af5f2fcd9df27"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleShader.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39580c2af76c006260d3acd6200efd50f1d973ea",
+      "size": 19591,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/39580c2af76c006260d3acd6200efd50f1d973ea"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleSound.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41e0df310aaf11370d3ece6069148e089cba5ac9",
+      "size": 11304,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/41e0df310aaf11370d3ece6069148e089cba5ac9"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleSprite.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9886bc00565dbe360edd7ab39a26cde871ff639",
+      "size": 74740,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b9886bc00565dbe360edd7ab39a26cde871ff639"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleString.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e86c8180cb512f43fed6b7ad98e343b71a98eee",
+      "size": 4326,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7e86c8180cb512f43fed6b7ad98e343b71a98eee"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleTags.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8ccffe9f29eea773a7dbeebeb7070ff11e617f8",
+      "size": 3974,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f8ccffe9f29eea773a7dbeebeb7070ff11e617f8"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleTextureGroupInfo.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7862831c632609d52ce5eed08e39e44ae2e38f21",
+      "size": 9108,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7862831c632609d52ce5eed08e39e44ae2e38f21"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleTexturePageItem.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7cfcc3e7800bb34d80c9f85e5d24e9ea72efb96c",
+      "size": 6073,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7cfcc3e7800bb34d80c9f85e5d24e9ea72efb96c"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleTimeline.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c649903a93906f01bff57aefe9111185e6fec9e5",
+      "size": 5095,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c649903a93906f01bff57aefe9111185e6fec9e5"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleUINode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb05b25f84dbd0f9ed2c8bdc88d44eede2984122",
+      "size": 28088,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bb05b25f84dbd0f9ed2c8bdc88d44eede2984122"
+    },
+    {
+      "path": "UndertaleModLib/Models/UndertaleVariable.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8b5a43439ce463b5e20a037629f3116f5b3a89e0",
+      "size": 3070,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/8b5a43439ce463b5e20a037629f3116f5b3a89e0"
+    },
+    {
+      "path": "UndertaleModLib/ModelsDebug",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b1af9896f656604f7ae4dc29cdd2d04fadd3590c",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/b1af9896f656604f7ae4dc29cdd2d04fadd3590c"
+    },
+    {
+      "path": "UndertaleModLib/ModelsDebug/UndertaleDebugInfo.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2809323398509fde05d30c3652de47fb67a7214b",
+      "size": 1055,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2809323398509fde05d30c3652de47fb67a7214b"
+    },
+    {
+      "path": "UndertaleModLib/ModelsDebug/UndertaleInstanceVars.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a46ceed615f0b3ab9f5e13b94db6a73d9d85031",
+      "size": 380,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2a46ceed615f0b3ab9f5e13b94db6a73d9d85031"
+    },
+    {
+      "path": "UndertaleModLib/ModelsDebug/UndertaleScriptSource.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab315f4809c880470344bba3e5d3f5f55b2fb50d",
+      "size": 535,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ab315f4809c880470344bba3e5d3f5f55b2fb50d"
+    },
+    {
+      "path": "UndertaleModLib/Project",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "257c9d47eaf41b9b17e42228aa29378abc60ef5d",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/257c9d47eaf41b9b17e42228aa29378abc60ef5d"
+    },
+    {
+      "path": "UndertaleModLib/Project/GameFileBackup.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d2e80713ab7de63bbd5adae7feea4c2f497022bb",
+      "size": 20029,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d2e80713ab7de63bbd5adae7feea4c2f497022bb"
+    },
+    {
+      "path": "UndertaleModLib/Project/IProjectAsset.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "accbf5734cee0ce75efdc7022ad09bd8cbbfc9df",
+      "size": 1026,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/accbf5734cee0ce75efdc7022ad09bd8cbbfc9df"
+    },
+    {
+      "path": "UndertaleModLib/Project/ISerializableProjectAsset.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "191d52f926ed99e6ea4ec374b0b065b0233106e5",
+      "size": 6037,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/191d52f926ed99e6ea4ec374b0b065b0233106e5"
+    },
+    {
+      "path": "UndertaleModLib/Project/Json",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d4de5e0e2ebc7bc57a3e173efa126805542c8954",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/d4de5e0e2ebc7bc57a3e173efa126805542c8954"
+    },
+    {
+      "path": "UndertaleModLib/Project/Json/NoPrettyPrintJsonConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bab39d8246491f43a39ad380e6610815dd4dea43",
+      "size": 1011,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bab39d8246491f43a39ad380e6610815dd4dea43"
+    },
+    {
+      "path": "UndertaleModLib/Project/ProjectContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e6020c4958760be286a68ddb0c8a93e676ba2b6",
+      "size": 25236,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0e6020c4958760be286a68ddb0c8a93e676ba2b6"
+    },
+    {
+      "path": "UndertaleModLib/Project/ProjectContextAssets.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "305a580b893fc1940b5bfe530d27c7267353f5a1",
+      "size": 18112,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/305a580b893fc1940b5bfe530d27c7267353f5a1"
+    },
+    {
+      "path": "UndertaleModLib/Project/ProjectContextIO.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "82ce80681afd3939416a8a103955918fd804b23f",
+      "size": 10432,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/82ce80681afd3939416a8a103955918fd804b23f"
+    },
+    {
+      "path": "UndertaleModLib/Project/ProjectContextImportSteps.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3a046c1dff78b09c28e0b2161afb4fc5c8e510f7",
+      "size": 9343,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3a046c1dff78b09c28e0b2161afb4fc5c8e510f7"
+    },
+    {
+      "path": "UndertaleModLib/Project/ProjectContextScriptInterface.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be17e52d84db5340b200abd054dbbb84d3481dda",
+      "size": 7241,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/be17e52d84db5340b200abd054dbbb84d3481dda"
+    },
+    {
+      "path": "UndertaleModLib/Project/ProjectContextScripts.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab6fbd97871a6236df17a982abed9552c3a85429",
+      "size": 4341,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ab6fbd97871a6236df17a982abed9552c3a85429"
+    },
+    {
+      "path": "UndertaleModLib/Project/ProjectException.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27e97045f0916b0072353d39cafbd2a2b1571cd9",
+      "size": 664,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/27e97045f0916b0072353d39cafbd2a2b1571cd9"
+    },
+    {
+      "path": "UndertaleModLib/Project/ProjectMainOptions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f1febeb4784a4dc56759cfe434eaad4ec3f96fea",
+      "size": 13406,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f1febeb4784a4dc56759cfe434eaad4ec3f96fea"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "364b67e82bf309b9ede63b241c99c157c9294344",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/364b67e82bf309b9ede63b241c99c157c9294344"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableAnimationCurve.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "717172ccb838f16df248b225a143dfa26d2afc68",
+      "size": 6333,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/717172ccb838f16df248b225a143dfa26d2afc68"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableBackground.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88ac22dd4b86d7056760bbd76f2a0e250c1271ae",
+      "size": 8119,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/88ac22dd4b86d7056760bbd76f2a0e250c1271ae"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableCode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2f7274e8f3a7a410fb55c6e9b61292e67a103c0c",
+      "size": 5778,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2f7274e8f3a7a410fb55c6e9b61292e67a103c0c"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableFont.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34d10d32500d09d1cf9489f18d9e55f14efe6f55",
+      "size": 10070,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/34d10d32500d09d1cf9489f18d9e55f14efe6f55"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableGameObject.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a07c22c5b43d9fa9d340a64f034c411558a588e",
+      "size": 13098,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4a07c22c5b43d9fa9d340a64f034c411558a588e"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableGeneralInfoOptions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0677bd7f1ceb15c7526e263cc6fa76bbf137c1e1",
+      "size": 3309,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0677bd7f1ceb15c7526e263cc6fa76bbf137c1e1"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializablePath.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4489fdbb8f6c3bdbd358b4a142ba3c199b3e9e19",
+      "size": 3657,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4489fdbb8f6c3bdbd358b4a142ba3c199b3e9e19"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableRoom.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41b6e467099a5c406a2f9267ed9aee35e51a4d77",
+      "size": 55629,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/41b6e467099a5c406a2f9267ed9aee35e51a4d77"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableScript.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d11b1a53986cb03f92e6a9715ca3cc497227b87",
+      "size": 2438,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6d11b1a53986cb03f92e6a9715ca3cc497227b87"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableSequence.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd1670193f11685cdef229f9f25623f7a19ce32a",
+      "size": 36567,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/dd1670193f11685cdef229f9f25623f7a19ce32a"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableShader.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ba09d3d645a83a541fb9ef5ff1903cf5b102c2ce",
+      "size": 8600,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ba09d3d645a83a541fb9ef5ff1903cf5b102c2ce"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableSound.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2e65b2b711e3de015e2bab9ab02d23401a7a0d5e",
+      "size": 12888,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2e65b2b711e3de015e2bab9ab02d23401a7a0d5e"
+    },
+    {
+      "path": "UndertaleModLib/Project/SerializableAssets/SerializableSprite.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ab42fc32c0b0c39e3f056c526375a8be6a77d4c",
+      "size": 15191,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6ab42fc32c0b0c39e3f056c526375a8be6a77d4c"
+    },
+    {
+      "path": "UndertaleModLib/Scripting",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e4a339dbd6fe8009108843f88307a88842864913",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/e4a339dbd6fe8009108843f88307a88842864913"
+    },
+    {
+      "path": "UndertaleModLib/Scripting/IScriptInterface.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e624f194b789655dbb304c655ada3e74c65c2c9a",
+      "size": 21366,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e624f194b789655dbb304c655ada3e74c65c2c9a"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleBaseTypes.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0529cd3d9c200583cad649d09b8a52abe4dcc44",
+      "size": 4071,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d0529cd3d9c200583cad649d09b8a52abe4dcc44"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleChunkTypes.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ad04eac9f37ef5f0c95aa55007a244980b241e28",
+      "size": 15016,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ad04eac9f37ef5f0c95aa55007a244980b241e28"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleChunks.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6ef9d25193a090d7e8b0abb8810833eaa5cb892",
+      "size": 109545,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c6ef9d25193a090d7e8b0abb8810833eaa5cb892"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleData.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e05791052176ed64993bc7acd30f90879db21cf7",
+      "size": 33898,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e05791052176ed64993bc7acd30f90879db21cf7"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleDataExtensionMethods.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7321ed7fd72cd35a332048127b4a1f9512498563",
+      "size": 14198,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7321ed7fd72cd35a332048127b4a1f9512498563"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleDebugChunks.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bff7bf9afb4c122085f067da69b699348ad04abc",
+      "size": 2471,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bff7bf9afb4c122085f067da69b699348ad04abc"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleDebugData.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcdd776b31af0a3fe51eb6de747c97fc185af4e5",
+      "size": 1141,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bcdd776b31af0a3fe51eb6de747c97fc185af4e5"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleIO.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d48f6616f81291e4789fcfbd0ead2c60d8a66101",
+      "size": 37751,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d48f6616f81291e4789fcfbd0ead2c60d8a66101"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleLists.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d8145c1b27ace92658b84f184b0f5f7efa3f5aa",
+      "size": 24311,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6d8145c1b27ace92658b84f184b0f5f7efa3f5aa"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleModLib.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4db33e9c84ab299d3c7b13d0196020abb3ebabdd",
+      "size": 5552,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4db33e9c84ab299d3c7b13d0196020abb3ebabdd"
+    },
+    {
+      "path": "UndertaleModLib/UndertaleSerializationException.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8ec32c5099db486d269cb2878db756bb029a87ca",
+      "size": 452,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/8ec32c5099db486d269cb2878db756bb029a87ca"
+    },
+    {
+      "path": "UndertaleModLib/Util",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "22ba3ea495dba123adaf888221cd7cb49286e814",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/22ba3ea495dba123adaf888221cd7cb49286e814"
+    },
+    {
+      "path": "UndertaleModLib/Util/AdaptiveBinaryReader.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42392484d4dee26322a03940961a2a73d34a5d7e",
+      "size": 8476,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/42392484d4dee26322a03940961a2a73d34a5d7e"
+    },
+    {
+      "path": "UndertaleModLib/Util/AssetReferenceTypes.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15f11c43b8cc924536bbb179807eff49c79cf2b5",
+      "size": 3584,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/15f11c43b8cc924536bbb179807eff49c79cf2b5"
+    },
+    {
+      "path": "UndertaleModLib/Util/BPS.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4dd8fc1a81e3ade1dc50c6e58a6ab762c29a95d1",
+      "size": 15474,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4dd8fc1a81e3ade1dc50c6e58a6ab762c29a95d1"
+    },
+    {
+      "path": "UndertaleModLib/Util/BufferBinaryReader.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f133739e570b767ea5e23e5053fdf310fc57a047",
+      "size": 9678,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f133739e570b767ea5e23e5053fdf310fc57a047"
+    },
+    {
+      "path": "UndertaleModLib/Util/BufferBinaryWriter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97ab09b32c801d9d45a77098dfc35cf9b036216e",
+      "size": 7119,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/97ab09b32c801d9d45a77098dfc35cf9b036216e"
+    },
+    {
+      "path": "UndertaleModLib/Util/CombinedPrimitives.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d840052b89b8ac1cf014b6bfae5171a9275902a1",
+      "size": 2392,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d840052b89b8ac1cf014b6bfae5171a9275902a1"
+    },
+    {
+      "path": "UndertaleModLib/Util/DebugUtil.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "74086507de9c4d4b6f4aabd3f1fd1597e993bbfe",
+      "size": 643,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/74086507de9c4d4b6f4aabd3f1fd1597e993bbfe"
+    },
+    {
+      "path": "UndertaleModLib/Util/FileBinaryReader.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10b6f6dc3f40215bf95130b82df90a8aa57a12b6",
+      "size": 7090,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/10b6f6dc3f40215bf95130b82df90a8aa57a12b6"
+    },
+    {
+      "path": "UndertaleModLib/Util/FileBinaryWriter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d56b7325101e3746f706398b0c5348b4910203e2",
+      "size": 2118,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d56b7325101e3746f706398b0c5348b4910203e2"
+    },
+    {
+      "path": "UndertaleModLib/Util/GMImage.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb06b67038d365275f5d42616e6ccda2c319f9f9",
+      "size": 42882,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/fb06b67038d365275f5d42616e6ccda2c319f9f9"
+    },
+    {
+      "path": "UndertaleModLib/Util/GitVersion.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e15577ac6db178f86d94a381dbbde385eea48724",
+      "size": 1495,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e15577ac6db178f86d94a381dbbde385eea48724"
+    },
+    {
+      "path": "UndertaleModLib/Util/MurmurHash.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3b07b6656a5a6bb48fa38010efb8a6ea18d6e7ff",
+      "size": 2851,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3b07b6656a5a6bb48fa38010efb8a6ea18d6e7ff"
+    },
+    {
+      "path": "UndertaleModLib/Util/Paths.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "384a76118726d3d03757f08ab543fd20e5fd1e2b",
+      "size": 4747,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/384a76118726d3d03757f08ab543fd20e5fd1e2b"
+    },
+    {
+      "path": "UndertaleModLib/Util/QoiConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51b51247604b8366f89db3eae6bb862d605b3456",
+      "size": 13289,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/51b51247604b8366f89db3eae6bb862d605b3456"
+    },
+    {
+      "path": "UndertaleModLib/Util/ScriptingUtil.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2f9bdf02044b9e29097b3c9d9536f93280c109e",
+      "size": 7587,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f2f9bdf02044b9e29097b3c9d9536f93280c109e"
+    },
+    {
+      "path": "UndertaleModLib/Util/StringBuilderHelper.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9e2bd33a049ff58d2dee50d3e8a4255f491a278",
+      "size": 4602,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d9e2bd33a049ff58d2dee50d3e8a4255f491a278"
+    },
+    {
+      "path": "UndertaleModLib/Util/TextureGroupPacker.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d79c287d1a64aef2b4f9bb46e881b9c0706260e8",
+      "size": 26111,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d79c287d1a64aef2b4f9bb46e881b9c0706260e8"
+    },
+    {
+      "path": "UndertaleModLib/Util/TextureWorker.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e727bcdc5ca0b8b2135b8df5a2252dc2d17d357e",
+      "size": 14463,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e727bcdc5ca0b8b2135b8df5a2252dc2d17d357e"
+    },
+    {
+      "path": "UndertaleModLibTests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c7c640b828495e9e59d2005f4e9c1ad80d7239b1",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/c7c640b828495e9e59d2005f4e9c1ad80d7239b1"
+    },
+    {
+      "path": "UndertaleModLibTests/LocalGameListTest.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebc85dc9326ea6bc880103aae8f2adf684f7a0d7",
+      "size": 3043,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ebc85dc9326ea6bc880103aae8f2adf684f7a0d7"
+    },
+    {
+      "path": "UndertaleModLibTests/Models",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "245c1a317e188e2c952289fdf3904de354f10a9a",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/245c1a317e188e2c952289fdf3904de354f10a9a"
+    },
+    {
+      "path": "UndertaleModLibTests/Models/EmbeddedAudioTest.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a77f28a60e0f822574e2ed34130daf68c27f539",
+      "size": 1228,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4a77f28a60e0f822574e2ed34130daf68c27f539"
+    },
+    {
+      "path": "UndertaleModLibTests/Models/StringTest.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c36dd6a548091b83882866cc3f861ef75018394",
+      "size": 5872,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1c36dd6a548091b83882866cc3f861ef75018394"
+    },
+    {
+      "path": "UndertaleModLibTests/UndertaleModLibTests.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c61ae7c84f11be0e82bb3c64d5a823dd809462c1",
+      "size": 1071,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c61ae7c84f11be0e82bb3c64d5a823dd809462c1"
+    },
+    {
+      "path": "UndertaleModLibTests/Util",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "028e111dfb57603261e817cd28d74e9c4db4c6ed",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/028e111dfb57603261e817cd28d74e9c4db4c6ed"
+    },
+    {
+      "path": "UndertaleModLibTests/Util/MurmurHashTest.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7044294b6b8e4274c3013db065bcb9f4a33b754e",
+      "size": 809,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7044294b6b8e4274c3013db065bcb9f4a33b754e"
+    },
+    {
+      "path": "UndertaleModTests",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "52e9ff0e252e4648013ba1f581ffa08e992a03e6",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/52e9ff0e252e4648013ba1f581ffa08e992a03e6"
+    },
+    {
+      "path": "UndertaleModTests/GameLoadingTests.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a7b21e51f06df0e4f68421ecfc515671dea86ce",
+      "size": 6631,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0a7b21e51f06df0e4f68421ecfc515671dea86ce"
+    },
+    {
+      "path": "UndertaleModTests/GamePaths.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4335170c891545ecca7ba234e5bf3cd7433daeb1",
+      "size": 2103,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4335170c891545ecca7ba234e5bf3cd7433daeb1"
+    },
+    {
+      "path": "UndertaleModTests/GameScriptTests.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6bd0daa7003f4a6878cff960f4256cb896a5355e",
+      "size": 14275,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6bd0daa7003f4a6878cff960f4256cb896a5355e"
+    },
+    {
+      "path": "UndertaleModTests/UndertaleModTests.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a35cf64730c3c471a14b7d7aa66bee439767b52",
+      "size": 878,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9a35cf64730c3c471a14b7d7aa66bee439767b52"
+    },
+    {
+      "path": "UndertaleModTool.sln",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "18e2bfe07e9b5f764c85c589dbb55cbc15bcb919",
+      "size": 6320,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/18e2bfe07e9b5f764c85c589dbb55cbc15bcb919"
+    },
+    {
+      "path": "UndertaleModTool",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "7219eeca3903b5cb4ebe35722689cccbfbd013e9",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/7219eeca3903b5cb4ebe35722689cccbfbd013e9"
+    },
+    {
+      "path": "UndertaleModTool/App.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8b41a45055ecbcb21ac81c677302a0dfcff4ae3",
+      "size": 791,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f8b41a45055ecbcb21ac81c677302a0dfcff4ae3"
+    },
+    {
+      "path": "UndertaleModTool/App.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "50fce98dc7f87f6afda60100688056a2091b9628",
+      "size": 395,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/50fce98dc7f87f6afda60100688056a2091b9628"
+    },
+    {
+      "path": "UndertaleModTool/Controls",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "9c208f7740e93548f9ef9d9c23447d8b23531872",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/9c208f7740e93548f9ef9d9c23447d8b23531872"
+    },
+    {
+      "path": "UndertaleModTool/Controls/AudioFileReference.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4659c643eaafbcc0010a61cfd974f8583670e278",
+      "size": 5376,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4659c643eaafbcc0010a61cfd974f8583670e278"
+    },
+    {
+      "path": "UndertaleModTool/Controls/AudioFileReference.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "021a8aef4584de911b51da29f217048732bc96cd",
+      "size": 5799,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/021a8aef4584de911b51da29f217048732bc96cd"
+    },
+    {
+      "path": "UndertaleModTool/Controls/ColorPicker.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5f63ef3d46ce0e9376813f16c2e08e216cbc011",
+      "size": 1506,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f5f63ef3d46ce0e9376813f16c2e08e216cbc011"
+    },
+    {
+      "path": "UndertaleModTool/Controls/ColorPicker.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cfd330b0042e8cbcfb0fe704f18c318fa214797",
+      "size": 5241,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2cfd330b0042e8cbcfb0fe704f18c318fa214797"
+    },
+    {
+      "path": "UndertaleModTool/Controls/DataUserControl.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1256b359696449e6f6b13d771f04aa5412b7ff73",
+      "size": 577,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1256b359696449e6f6b13d771f04aa5412b7ff73"
+    },
+    {
+      "path": "UndertaleModTool/Controls/FlagsBox.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a6c541bce8931dbd238ef0a039e730f3ff587ee",
+      "size": 1991,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0a6c541bce8931dbd238ef0a039e730f3ff587ee"
+    },
+    {
+      "path": "UndertaleModTool/Controls/FlagsBox.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af0c3c1c154334bdf4da724c13472f52319c81c6",
+      "size": 2203,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/af0c3c1c154334bdf4da724c13472f52319c81c6"
+    },
+    {
+      "path": "UndertaleModTool/Controls/ResourceListTreeViewItem.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c96cda95df6b10b9343b4aafe642993d992ee2ba",
+      "size": 2747,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c96cda95df6b10b9343b4aafe642993d992ee2ba"
+    },
+    {
+      "path": "UndertaleModTool/Controls/ResourceListTreeViewItem.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9580b9679b4c3472f7689428242426e023b1e9e7",
+      "size": 5409,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9580b9679b4c3472f7689428242426e023b1e9e7"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "e3ff94d45f779ae90f43599984958b06bcc4d71b",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/e3ff94d45f779ae90f43599984958b06bcc4d71b"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System/ButtonDark.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75d5fd9c91295219ee84a9ce5a93ef60ed3d77c8",
+      "size": 1241,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/75d5fd9c91295219ee84a9ce5a93ef60ed3d77c8"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System/ComboBoxDark.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "164383a2282f892645e4dec144fef92d032c282b",
+      "size": 1796,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/164383a2282f892645e4dec144fef92d032c282b"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System/ContextMenuDark.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "acf9e67b40a611210cdb99cc3dffaa8b758971a3",
+      "size": 3551,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/acf9e67b40a611210cdb99cc3dffaa8b758971a3"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System/DataGridDark.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c21f8153f7aacbdb0f83a60d3e761434636d9cf",
+      "size": 2263,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7c21f8153f7aacbdb0f83a60d3e761434636d9cf"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System/MenuItemDark.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7fba888e01c5b6d120907b880c881379d80ce66",
+      "size": 1204,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e7fba888e01c5b6d120907b880c881379d80ce66"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System/RepeatButtonDark.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "39a0edef977a2e49485985a5d329b0ca4d42ca3d",
+      "size": 1277,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/39a0edef977a2e49485985a5d329b0ca4d42ca3d"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System/TabControlDark.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30818c5829c8f3d90de4773bddfd2c7e7e621a56",
+      "size": 3984,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/30818c5829c8f3d90de4773bddfd2c7e7e621a56"
+    },
+    {
+      "path": "UndertaleModTool/Controls/System/TextBoxDark.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e24f512034757dd2f6ed67e851ed2f9fa7d29c7",
+      "size": 428,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1e24f512034757dd2f6ed67e851ed2f9fa7d29c7"
+    },
+    {
+      "path": "UndertaleModTool/Controls/TileLayerImage.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cd28a227611bf78664754731b5b42419de425ac",
+      "size": 2633,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2cd28a227611bf78664754731b5b42419de425ac"
+    },
+    {
+      "path": "UndertaleModTool/Controls/TransparencyGridBrush.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1023b67151d02ee2afac324d81d00eb9c1391150",
+      "size": 1299,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1023b67151d02ee2afac324d81d00eb9c1391150"
+    },
+    {
+      "path": "UndertaleModTool/Controls/UndertaleObjectReference.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1b5a72305202ebd7ded52715498acd13f33fbc13",
+      "size": 5421,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1b5a72305202ebd7ded52715498acd13f33fbc13"
+    },
+    {
+      "path": "UndertaleModTool/Controls/UndertaleObjectReference.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "412a43c8d6d6d0ee4804c61c25c7b80e0ee2b03d",
+      "size": 14479,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/412a43c8d6d6d0ee4804c61c25c7b80e0ee2b03d"
+    },
+    {
+      "path": "UndertaleModTool/Controls/UndertaleRoomRenderer.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fc2b22532b6336a8f75ca9daa6d9e2e5ebb5de8",
+      "size": 29866,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5fc2b22532b6336a8f75ca9daa6d9e2e5ebb5de8"
+    },
+    {
+      "path": "UndertaleModTool/Controls/UndertaleRoomRenderer.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60ae220f285609fdf073fd1a82a734e7e6fac503",
+      "size": 5448,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/60ae220f285609fdf073fd1a82a734e7e6fac503"
+    },
+    {
+      "path": "UndertaleModTool/Controls/UndertaleStringReference.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "128830474e171b8afe753694d2a5bbf56225425b",
+      "size": 4103,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/128830474e171b8afe753694d2a5bbf56225425b"
+    },
+    {
+      "path": "UndertaleModTool/Controls/UndertaleStringReference.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e2831eb3cbf34085cc3e5ba396434321147d72e",
+      "size": 6773,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7e2831eb3cbf34085cc3e5ba396434321147d72e"
+    },
+    {
+      "path": "UndertaleModTool/Controls/UndertaleTexturePageItemDisplay.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b76f2c001fa345097880990fccccd9ee59cd2c74",
+      "size": 1701,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b76f2c001fa345097880990fccccd9ee59cd2c74"
+    },
+    {
+      "path": "UndertaleModTool/Controls/UndertaleTexturePageItemDisplay.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c372b6ebf3e93283fff3f4543e8273493b64941e",
+      "size": 1676,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c372b6ebf3e93283fff3f4543e8273493b64941e"
+    },
+    {
+      "path": "UndertaleModTool/Converters",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6fa50d111f6776011d399c69189bd1c11dfe5f88",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/6fa50d111f6776011d399c69189bd1c11dfe5f88"
+    },
+    {
+      "path": "UndertaleModTool/Converters/BooleanToVisibilityConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03fd4182fde2648d43c8c721fa4c0e27e295de8b",
+      "size": 693,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/03fd4182fde2648d43c8c721fa4c0e27e295de8b"
+    },
+    {
+      "path": "UndertaleModTool/Converters/ByteArrayConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e2d44ca32966f16a1d2a937b60823ab8b1613b2",
+      "size": 1567,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5e2d44ca32966f16a1d2a937b60823ab8b1613b2"
+    },
+    {
+      "path": "UndertaleModTool/Converters/ByteGUIDArrayConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c17c82b3f0947206c89164e8eb11f0ff769862b2",
+      "size": 2680,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c17c82b3f0947206c89164e8eb11f0ff769862b2"
+    },
+    {
+      "path": "UndertaleModTool/Converters/CompareNumbersConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dabc3af3bde762e340583582fdc00f889c46219",
+      "size": 1453,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1dabc3af3bde762e340583582fdc00f889c46219"
+    },
+    {
+      "path": "UndertaleModTool/Converters/DataFieldOneTimeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "502ec5160e2858e8c4cb33f1f9ba29c5a9d1b03f",
+      "size": 1017,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/502ec5160e2858e8c4cb33f1f9ba29c5a9d1b03f"
+    },
+    {
+      "path": "UndertaleModTool/Converters/EqualityConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab353c9e5ffa208496c36590d25dc0fd6371a2d0",
+      "size": 832,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ab353c9e5ffa208496c36590d25dc0fd6371a2d0"
+    },
+    {
+      "path": "UndertaleModTool/Converters/EventNameConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32d3c26be12a1d94dad409aeee385f2ce39e2315",
+      "size": 917,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/32d3c26be12a1d94dad409aeee385f2ce39e2315"
+    },
+    {
+      "path": "UndertaleModTool/Converters/FilteredViewConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "465217f141aa7e75ddb8f5ade633d05461218789",
+      "size": 2200,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/465217f141aa7e75ddb8f5ade633d05461218789"
+    },
+    {
+      "path": "UndertaleModTool/Converters/ForwardButtonEnabledConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46b124b9d07726e6c72b81f45c2712b14cec2b08",
+      "size": 628,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/46b124b9d07726e6c72b81f45c2712b14cec2b08"
+    },
+    {
+      "path": "UndertaleModTool/Converters/GameObjectByIdConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "381ad3c07e70c7186ca070138c7339cd9fda83ba",
+      "size": 1207,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/381ad3c07e70c7186ca070138c7339cd9fda83ba"
+    },
+    {
+      "path": "UndertaleModTool/Converters/GameObjectToStringConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c57bce69551bfde665ed43dbb59877b3c4d6aaf3",
+      "size": 679,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c57bce69551bfde665ed43dbb59877b3c4d6aaf3"
+    },
+    {
+      "path": "UndertaleModTool/Converters/GridConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91ba29f2b84da5a8106e3e3e114c51d48768e0e7",
+      "size": 647,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/91ba29f2b84da5a8106e3e3e114c51d48768e0e7"
+    },
+    {
+      "path": "UndertaleModTool/Converters/ImplementsInterfaceConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "813facc4719baab5af3e4aa5d188e94de88d5946",
+      "size": 757,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/813facc4719baab5af3e4aa5d188e94de88d5946"
+    },
+    {
+      "path": "UndertaleModTool/Converters/InvertBooleanConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bab55c4b47605d894114fb793a0d2348a1d3e7f",
+      "size": 542,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9bab55c4b47605d894114fb793a0d2348a1d3e7f"
+    },
+    {
+      "path": "UndertaleModTool/Converters/IsNullConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ced3400cf36be08a3784e6c14297bd0352287b5d",
+      "size": 594,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ced3400cf36be08a3784e6c14297bd0352287b5d"
+    },
+    {
+      "path": "UndertaleModTool/Converters/IsVersionAtLeastConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "894d0bd20dd22340ffdc3157ca1962d2d369b24f",
+      "size": 1915,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/894d0bd20dd22340ffdc3157ca1962d2d369b24f"
+    },
+    {
+      "path": "UndertaleModTool/Converters/MaskImageConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e73d91251feebbd2b09e6fe1a1367fd47c15d08b",
+      "size": 1222,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e73d91251feebbd2b09e6fe1a1367fd47c15d08b"
+    },
+    {
+      "path": "UndertaleModTool/Converters/NegateNumberConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6ce57ce34139fa05d72bd23cfb04059b8e2267f",
+      "size": 1328,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f6ce57ce34139fa05d72bd23cfb04059b8e2267f"
+    },
+    {
+      "path": "UndertaleModTool/Converters/NullToVisibilityConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c4875830c040778b838d7797d79e3e70d98abe9",
+      "size": 767,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3c4875830c040778b838d7797d79e3e70d98abe9"
+    },
+    {
+      "path": "UndertaleModTool/Converters/RectConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3634b0bbecd77230d102ee174dc658b3ac2fe4d4",
+      "size": 1010,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3634b0bbecd77230d102ee174dc658b3ac2fe4d4"
+    },
+    {
+      "path": "UndertaleModTool/Converters/ResourceTreeFilteredViewConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2296cc9dc0886233afc3742cdae04eba92a0a0b",
+      "size": 611,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a2296cc9dc0886233afc3742cdae04eba92a0a0b"
+    },
+    {
+      "path": "UndertaleModTool/Converters/StringTitleConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d66285cc13b7408301d48512b7ba2d9583b5a9f1",
+      "size": 965,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d66285cc13b7408301d48512b7ba2d9583b5a9f1"
+    },
+    {
+      "path": "UndertaleModTool/Converters/SumRectConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1a600473a9a8a2b5642cddd23d199f10d8b1d70",
+      "size": 860,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b1a600473a9a8a2b5642cddd23d199f10d8b1d70"
+    },
+    {
+      "path": "UndertaleModTool/Converters/UndertaleCachedImageLoader.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb072b14192ba8cdbdfc856aba8aec12a2b74451",
+      "size": 24025,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/fb072b14192ba8cdbdfc856aba8aec12a2b74451"
+    },
+    {
+      "path": "UndertaleModTool/Editors",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b329e669ef06be794decb1957e6bc91a063a1f3b",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/b329e669ef06be794decb1957e6bc91a063a1f3b"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleAudioGroupEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48f2041064a0b7976a6824fac99b97288a02771b",
+      "size": 1434,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/48f2041064a0b7976a6824fac99b97288a02771b"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleAudioGroupEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2cff8c73f0a6025e258bc0d914f7b190f9c92636",
+      "size": 700,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2cff8c73f0a6025e258bc0d914f7b190f9c92636"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleBackgroundEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bfade89a1078c2248637c471617b30eb21c92a4d",
+      "size": 11876,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bfade89a1078c2248637c471617b30eb21c92a4d"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleBackgroundEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac07d94f1a88d8e9670ef7f5eb883b41dc8cbe1b",
+      "size": 7722,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ac07d94f1a88d8e9670ef7f5eb883b41dc8cbe1b"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleCodeEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b5974be3d6d87e18f6d9901dac700315e674335a",
+      "size": 5087,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b5974be3d6d87e18f6d9901dac700315e674335a"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleCodeEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34d22ac1c802a887ac7a0b06700cbd857f7da45d",
+      "size": 71515,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/34d22ac1c802a887ac7a0b06700cbd857f7da45d"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleCodeLocalsEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3846adde40f853c9273314c744d949bb8f405af9",
+      "size": 4141,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3846adde40f853c9273314c744d949bb8f405af9"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleCodeLocalsEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a0775f8597e373c67457242912b54250e3ad600b",
+      "size": 1059,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a0775f8597e373c67457242912b54250e3ad600b"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleEmbeddedAudioEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7430a53cb888d5e47b703b42511a960dd175ece6",
+      "size": 2534,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7430a53cb888d5e47b703b42511a960dd175ece6"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleEmbeddedAudioEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7ea31f94cf574ea193a60c2bc9f3baef10a7aef9",
+      "size": 6780,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7ea31f94cf574ea193a60c2bc9f3baef10a7aef9"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleEmbeddedImageEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dc59173fa33b0b835d6646f7e38cc6ed996de87",
+      "size": 1494,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5dc59173fa33b0b835d6646f7e38cc6ed996de87"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleEmbeddedImageEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae74941a2b31a62d589c2a1c9ae66959f971ce7b",
+      "size": 358,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ae74941a2b31a62d589c2a1c9ae66959f971ce7b"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleEmbeddedTextureEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eee2f883e69c052c4e899a1b0ef578094f39e4c1",
+      "size": 6173,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/eee2f883e69c052c4e899a1b0ef578094f39e4c1"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleEmbeddedTextureEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0c0192e4402474019346bbc94c5a6b1a4933f4a",
+      "size": 15403,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d0c0192e4402474019346bbc94c5a6b1a4933f4a"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleExtensionEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78e5a5be1c64bd47d49e8562927b4ed2cbfb40eb",
+      "size": 10350,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/78e5a5be1c64bd47d49e8562927b4ed2cbfb40eb"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleExtensionEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fa9cacfc73efa996d526ea7abe155554f8d3dba",
+      "size": 6616,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2fa9cacfc73efa996d526ea7abe155554f8d3dba"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleExtensionFileEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75df129d2578294139c1dad5e259ceb1907712d5",
+      "size": 5100,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/75df129d2578294139c1dad5e259ceb1907712d5"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleExtensionFileEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "797ad2a54fd521552046bbb56de5395f98f18bd3",
+      "size": 1689,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/797ad2a54fd521552046bbb56de5395f98f18bd3"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleExtensionFunctionEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e452c637112f54983a9fe8c1b9f3fad7a04fba1",
+      "size": 5549,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7e452c637112f54983a9fe8c1b9f3fad7a04fba1"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleExtensionFunctionEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a125081bee034f9a5c8c9c4dcafcbcc7763b191d",
+      "size": 742,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a125081bee034f9a5c8c9c4dcafcbcc7763b191d"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleFontEditor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1f722ceb935e59ea4aa0ac50237b4d3928fbe95d",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/1f722ceb935e59ea4aa0ac50237b4d3928fbe95d"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleFontEditor/EditGlyphRectangleWindow.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "600c0eb8ebe05ce169ea83b4e5d3d883e7dbd47f",
+      "size": 12733,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/600c0eb8ebe05ce169ea83b4e5d3d883e7dbd47f"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleFontEditor/EditGlyphRectangleWindow.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aa3d14266626773b99dae3c3c17586592c9bd0e6",
+      "size": 19620,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/aa3d14266626773b99dae3c3c17586592c9bd0e6"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleFontEditor/UndertaleFontEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a19f1874319336f3224afe91dc3f066987fa9801",
+      "size": 30654,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a19f1874319336f3224afe91dc3f066987fa9801"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleFontEditor/UndertaleFontEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3b0a2b230cd3bf09ad8c778aba567f416daae67",
+      "size": 8599,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d3b0a2b230cd3bf09ad8c778aba567f416daae67"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleFunctionEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d006fec48c99db3aea097e8610954cd17bfad12a",
+      "size": 1410,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d006fec48c99db3aea097e8610954cd17bfad12a"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleFunctionEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0061a35acd5f36fe9ec79bfbb0024b781a162915",
+      "size": 694,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0061a35acd5f36fe9ec79bfbb0024b781a162915"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleGameEndEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "351fd6570f4b9626c3e2e92eb0ec38fc57049b44",
+      "size": 3332,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/351fd6570f4b9626c3e2e92eb0ec38fc57049b44"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleGameEndEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c6eb4b148d55595858f57fa0984538a5d3feb98d",
+      "size": 712,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c6eb4b148d55595858f57fa0984538a5d3feb98d"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleGameObjectEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ad153572d9f73cf76d726474657d3d05a4341b4",
+      "size": 32930,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6ad153572d9f73cf76d726474657d3d05a4341b4"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleGameObjectEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fc15e09a4bbd1a07c05d34a143336f1d67a0c6c",
+      "size": 9411,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3fc15e09a4bbd1a07c05d34a143336f1d67a0c6c"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleGeneralInfoEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6de2049cff1472f64a54119391fd3d05cef8a653",
+      "size": 24895,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6de2049cff1472f64a54119391fd3d05cef8a653"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleGeneralInfoEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea84c7aee78962c9b2e587194546e0caae2ad1b2",
+      "size": 3093,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ea84c7aee78962c9b2e587194546e0caae2ad1b2"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleGlobalInitEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f687440edbb1a690aaf743f482c339bea75003d5",
+      "size": 3793,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f687440edbb1a690aaf743f482c339bea75003d5"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleGlobalInitEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3a8a0808ea2b191ccb41772e90f9856757d9be4",
+      "size": 1614,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a3a8a0808ea2b191ccb41772e90f9856757d9be4"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleParticleSystemEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0880d2992e979127b7890ea2eca52227b5beb5f7",
+      "size": 5073,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0880d2992e979127b7890ea2eca52227b5beb5f7"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleParticleSystemEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a30af4193ba11bd655859c10b641b9cdc28cd77",
+      "size": 338,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7a30af4193ba11bd655859c10b641b9cdc28cd77"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleParticleSystemEmitterEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19fe5c8ba3a6fc35af085efa5d3f86d7be239074",
+      "size": 21376,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/19fe5c8ba3a6fc35af085efa5d3f86d7be239074"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleParticleSystemEmitterEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a953e48369bfe80539652ed05c8116c7de7cad1",
+      "size": 359,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1a953e48369bfe80539652ed05c8116c7de7cad1"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertalePathEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef42b50e001f87457b8b3e18bc3da1a42b0c8103",
+      "size": 7416,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ef42b50e001f87457b8b3e18bc3da1a42b0c8103"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertalePathEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9675bdfe8a394a5518fd0f81c1c455e41c9e871d",
+      "size": 8228,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9675bdfe8a394a5518fd0f81c1c455e41c9e871d"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleRoomEditor",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cb2363034f8cd66c718384e8668a6172825c53f8",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/cb2363034f8cd66c718384e8668a6172825c53f8"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleRoomEditor/UndertaleRoomEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccd1d9bf98cabdd472072858179e368bd4d36814",
+      "size": 124786,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ccd1d9bf98cabdd472072858179e368bd4d36814"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleRoomEditor/UndertaleRoomEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7659e97a98430064bdb85fec56e7b2f67cae13a0",
+      "size": 132257,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7659e97a98430064bdb85fec56e7b2f67cae13a0"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleRoomEditor/UndertaleTileEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1774d941ae26223b6451a6732fc793cdc8bfd4c0",
+      "size": 21650,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1774d941ae26223b6451a6732fc793cdc8bfd4c0"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleRoomEditor/UndertaleTileEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0dbce7eddd04ddd905aa00ec64b1b3c3e8da8f56",
+      "size": 43564,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0dbce7eddd04ddd905aa00ec64b1b3c3e8da8f56"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleScriptEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ea1720254b036766c71b4ce0a3abbbd74aa8c4a",
+      "size": 1458,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1ea1720254b036766c71b4ce0a3abbbd74aa8c4a"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleScriptEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1e24e33913d45acd87108ddcd43bb64548982eb8",
+      "size": 2157,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1e24e33913d45acd87108ddcd43bb64548982eb8"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleShaderEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fd969884d3015bbd82929f322d5dec1b794bb74",
+      "size": 9894,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2fd969884d3015bbd82929f322d5dec1b794bb74"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleShaderEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4458519c4bf91e570423637fe057cfec31135bbd",
+      "size": 2731,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4458519c4bf91e570423637fe057cfec31135bbd"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleSoundEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd76c595853374d06f8df0b62d4ec37b9417b99b",
+      "size": 4076,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cd76c595853374d06f8df0b62d4ec37b9417b99b"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleSoundEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "722fc914ad9176c5cc8389a1e2376a5efb982f65",
+      "size": 8710,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/722fc914ad9176c5cc8389a1e2376a5efb982f65"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleSpriteEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ee33f635b41bd4a5cb61d6fe9cf446d82eca74ce",
+      "size": 19952,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ee33f635b41bd4a5cb61d6fe9cf446d82eca74ce"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleSpriteEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1c2cc35d44fa227f63252f6bbb9b0c467f64092",
+      "size": 12559,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d1c2cc35d44fa227f63252f6bbb9b0c467f64092"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleStringEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8611efc77058b13f0c83aa4bd4d8d5f04c59e1e",
+      "size": 1159,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f8611efc77058b13f0c83aa4bd4d8d5f04c59e1e"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleStringEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d047167cba4763d9908fc896a662d46172a0276a",
+      "size": 688,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d047167cba4763d9908fc896a662d46172a0276a"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleTextureGroupInfoEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bb7db11c588a2a73085db897d65161977deb7cda",
+      "size": 18399,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bb7db11c588a2a73085db897d65161977deb7cda"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleTextureGroupInfoEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff6e4ce8f4407e952324831350e04e9b30dcc7b2",
+      "size": 1317,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ff6e4ce8f4407e952324831350e04e9b30dcc7b2"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleTexturePageItemEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8d32cec5bf9c21efc544e3320393b21df040ea1",
+      "size": 6520,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f8d32cec5bf9c21efc544e3320393b21df040ea1"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleTexturePageItemEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a0c1b640bc462cd7b1acc41ba0787781f19f89d",
+      "size": 8220,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7a0c1b640bc462cd7b1acc41ba0787781f19f89d"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleTimelineEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b380794adacbf7629365ea90d48c777151d17b66",
+      "size": 5124,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b380794adacbf7629365ea90d48c777151d17b66"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleTimelineEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc4ad85ebf884c845739b36dc204c0f839fdd841",
+      "size": 1582,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/fc4ad85ebf884c845739b36dc204c0f839fdd841"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleVariableChunkEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d1b738d707bc6b677de91634ace92c3ce147cdb",
+      "size": 2025,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6d1b738d707bc6b677de91634ace92c3ce147cdb"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleVariableChunkEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12134fc335bf87ef9db3235ddeb185bc699c37d9",
+      "size": 709,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/12134fc335bf87ef9db3235ddeb185bc699c37d9"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleVariableEditor.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d54bdf854a6b4b1ad28a2e7804cd43d3a971942b",
+      "size": 2365,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d54bdf854a6b4b1ad28a2e7804cd43d3a971942b"
+    },
+    {
+      "path": "UndertaleModTool/Editors/UndertaleVariableEditor.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "53cbee566e00f56f7bb466e3eb511a23ce3cc116",
+      "size": 694,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/53cbee566e00f56f7bb466e3eb511a23ce3cc116"
+    },
+    {
+      "path": "UndertaleModTool/FileAssociations.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f85720be7dffe3bbbcfe264f6e88fd24eb0b62f",
+      "size": 4482,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7f85720be7dffe3bbbcfe264f6e88fd24eb0b62f"
+    },
+    {
+      "path": "UndertaleModTool/FodyWeavers.xml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5abfed81fcac0702f896f399e128b5456b2e601",
+      "size": 147,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d5abfed81fcac0702f896f399e128b5456b2e601"
+    },
+    {
+      "path": "UndertaleModTool/FodyWeavers.xsd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "69dbe488cee79454bf999f336aa11c7dd4321892",
+      "size": 4040,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/69dbe488cee79454bf999f336aa11c7dd4321892"
+    },
+    {
+      "path": "UndertaleModTool/MainWindow.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b55f4d2cc599f3700591fd23f6276b0343634184",
+      "size": 57675,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b55f4d2cc599f3700591fd23f6276b0343634184"
+    },
+    {
+      "path": "UndertaleModTool/MainWindow.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e59bcfbb8b5206a1d2f50bf239a817789e737c0",
+      "size": 171166,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6e59bcfbb8b5206a1d2f50bf239a817789e737c0"
+    },
+    {
+      "path": "UndertaleModTool/NullConditionalDataTemplateSelector.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e83d6507a6b4ab3075d051efc323acc920595411",
+      "size": 953,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e83d6507a6b4ab3075d051efc323acc920595411"
+    },
+    {
+      "path": "UndertaleModTool/Program.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c996c600d33648537b418612a588967abdc2ed76",
+      "size": 2449,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c996c600d33648537b418612a588967abdc2ed76"
+    },
+    {
+      "path": "UndertaleModTool/Properties",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "1941c9f490d284c053c5187ec9b16379bf9026bd",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/1941c9f490d284c053c5187ec9b16379bf9026bd"
+    },
+    {
+      "path": "UndertaleModTool/Properties/AssemblyInfo.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "759c7fd9ec502523e347d76b3950f211eb8a1e05",
+      "size": 2602,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/759c7fd9ec502523e347d76b3950f211eb8a1e05"
+    },
+    {
+      "path": "UndertaleModTool/Properties/Resources.Designer.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0879054648d9e655ffea1eb3861bb9800c7dbb61",
+      "size": 2798,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0879054648d9e655ffea1eb3861bb9800c7dbb61"
+    },
+    {
+      "path": "UndertaleModTool/Properties/Resources.resx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af7dbebbacef595e3089c01c05671016c21a8304",
+      "size": 5496,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/af7dbebbacef595e3089c01c05671016c21a8304"
+    },
+    {
+      "path": "UndertaleModTool/Properties/Settings.Designer.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9242a9463b1d1dbc0a88f67b06c3c7cd31a41e1d",
+      "size": 1074,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9242a9463b1d1dbc0a88f67b06c3c7cd31a41e1d"
+    },
+    {
+      "path": "UndertaleModTool/Properties/Settings.settings",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "033d7a5e9e2266753180f4e3a9299f575046701e",
+      "size": 195,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/033d7a5e9e2266753180f4e3a9299f575046701e"
+    },
+    {
+      "path": "UndertaleModTool/Resources",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5f51fe1ec6e792be2b6807c33fc775f3847a3d90",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/5f51fe1ec6e792be2b6807c33fc775f3847a3d90"
+    },
+    {
+      "path": "UndertaleModTool/Resources/GML.xshd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b29094dfe780c688ceb6e87e2056b2a5d783cd73",
+      "size": 3989,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b29094dfe780c688ceb6e87e2056b2a5d783cd73"
+    },
+    {
+      "path": "UndertaleModTool/Resources/VMASM.xshd",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "809893d42cd26f459641ec6631c7a2cccdbcdfbf",
+      "size": 2773,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/809893d42cd26f459641ec6631c7a2cccdbcdfbf"
+    },
+    {
+      "path": "UndertaleModTool/Resources/X.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2a0b108cc8f9ee9b76696444ce498574d3ebf2bd",
+      "size": 195,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2a0b108cc8f9ee9b76696444ce498574d3ebf2bd"
+    },
+    {
+      "path": "UndertaleModTool/Resources/X_Down.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "91abf532785cf61b79ae126a830b28379a3aa5c1",
+      "size": 194,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/91abf532785cf61b79ae126a830b28379a3aa5c1"
+    },
+    {
+      "path": "UndertaleModTool/Resources/arrow_blue.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c1b8db5ef6d38887d6380384a3074c5e3003990",
+      "size": 298,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/8c1b8db5ef6d38887d6380384a3074c5e3003990"
+    },
+    {
+      "path": "UndertaleModTool/Resources/arrow_red.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c4389fe9ade8bed3504794ef1d6b0f763daad1cd",
+      "size": 286,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c4389fe9ade8bed3504794ef1d6b0f763daad1cd"
+    },
+    {
+      "path": "UndertaleModTool/Resources/tabs_left_button.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7325f2e399f32e5710b9eccb8bdce1556d6817d8",
+      "size": 109,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7325f2e399f32e5710b9eccb8bdce1556d6817d8"
+    },
+    {
+      "path": "UndertaleModTool/Resources/tabs_right_button.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "29cb407737cb1e3658c8f5973ad765f5cf2e8730",
+      "size": 107,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/29cb407737cb1e3658c8f5973ad765f5cf2e8730"
+    },
+    {
+      "path": "UndertaleModTool/ScriptingFunctions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9e5a5193e7720c4b7b7bed8d10e190798c52288",
+      "size": 2823,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c9e5a5193e7720c4b7b7bed8d10e190798c52288"
+    },
+    {
+      "path": "UndertaleModTool/Scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "07c75b1f30db5b58fcad45c19d63dab18b721db4",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/07c75b1f30db5b58fcad45c19d63dab18b721db4"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "30727b15dc5186154ee3252e276fdc2247190551",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/30727b15dc5186154ee3252e276fdc2247190551"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllAssembly.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "121605ecf00ccab41d7e67b63e0476f0931386da",
+      "size": 1151,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/121605ecf00ccab41d7e67b63e0476f0931386da"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllCode.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ecd7ab6063e8e6c8537ede41a53bd31b4e373f3",
+      "size": 1471,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5ecd7ab6063e8e6c8537ede41a53bd31b4e373f3"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllEmbeddedTextures.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "084a66c99776b1baf2794a8d9ce588a1423a4d9d",
+      "size": 839,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/084a66c99776b1baf2794a8d9ce588a1423a4d9d"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllFonts.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9efb711b49ade4804d9c56493411ce0d77e189d",
+      "size": 1286,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d9efb711b49ade4804d9c56493411ce0d77e189d"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllMasks.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "484fefec0fa71c6d8cf3b10c7f45b9abc0346b2c",
+      "size": 1102,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/484fefec0fa71c6d8cf3b10c7f45b9abc0346b2c"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllRoomsToPNG.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65b8ad472313aa3ca3d79b6339b1ce8f0b5acb08",
+      "size": 3096,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/65b8ad472313aa3ca3d79b6339b1ce8f0b5acb08"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllShaders.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a0321363421c4f246c4825af2aad8dc3d158cd6",
+      "size": 2983,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1a0321363421c4f246c4825af2aad8dc3d158cd6"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllSounds.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d50dfc434951a017f589494a5b983d14de1d0466",
+      "size": 6172,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d50dfc434951a017f589494a5b983d14de1d0466"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllSprites.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e686ae205b922f43a19660206eaaa2f5975a3dea",
+      "size": 3076,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e686ae205b922f43a19660206eaaa2f5975a3dea"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllStrings.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "19daf198dccf14880c6386e208e7c47d6a7dafda",
+      "size": 924,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/19daf198dccf14880c6386e208e7c47d6a7dafda"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllStringsJSON.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3dcc54133cc9bc8d440ab1511ca1473352cfda61",
+      "size": 1435,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3dcc54133cc9bc8d440ab1511ca1473352cfda61"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllTextures.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8eb153bb57bc1ce99080e0b661b54dd8397a20fe",
+      "size": 2277,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/8eb153bb57bc1ce99080e0b661b54dd8397a20fe"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllTexturesGrouped.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "322a08a653c8ed6a9b98f41e730d1eba0dd2810b",
+      "size": 2692,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/322a08a653c8ed6a9b98f41e730d1eba0dd2810b"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportAllTilesets.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9adccba0534a873384c902e4611dd0193f681a9",
+      "size": 824,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e9adccba0534a873384c902e4611dd0193f681a9"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportSpecificCode.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dca6ad3023855c82962b96e6289c11a894d000e5",
+      "size": 4351,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/dca6ad3023855c82962b96e6289c11a894d000e5"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportSpecificSprites.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5ad3d487b62ad268168b986daec48bab2444760e",
+      "size": 1702,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5ad3d487b62ad268168b986daec48bab2444760e"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportSpritesAsGIF.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2fa36d8423c2c64527bbc2f659a580d1d41fe0c2",
+      "size": 3700,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2fa36d8423c2c64527bbc2f659a580d1d41fe0c2"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Exporters/ExportTextureGroups.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4eb8a0746a1e168f99421a77bbd89d07062755a",
+      "size": 4978,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a4eb8a0746a1e168f99421a77bbd89d07062755a"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "d1076766a5a539cf5546c407b6ab82aff2d76326",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/d1076766a5a539cf5546c407b6ab82aff2d76326"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ApplyBasicGraphicsMod.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb9f18b17491e579c97a03dcc5fe122017afa713",
+      "size": 5469,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cb9f18b17491e579c97a03dcc5fe122017afa713"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportAllEmbeddedTextures.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d09094f8b77ed9a63802962fe192cf9d8b42a146",
+      "size": 961,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d09094f8b77ed9a63802962fe192cf9d8b42a146"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportAllStrings.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4aed2efed9cad01d5039bb35e2923f798fbdfa74",
+      "size": 2438,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4aed2efed9cad01d5039bb35e2923f798fbdfa74"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportAllStringsJSON.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4b067407216895ef8f11675332606c77db26a180",
+      "size": 592,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4b067407216895ef8f11675332606c77db26a180"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportAllTilesets.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4dbcd8f56e009e0d13a74c9850216613f7953b92",
+      "size": 1432,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4dbcd8f56e009e0d13a74c9850216613f7953b92"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportAssembly.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78f19e6ec6a778355abec118b1c83e551c822b47",
+      "size": 2203,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/78f19e6ec6a778355abec118b1c83e551c822b47"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportFonts.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6dabdf05eaed331f77e247cf266c702ce016a6d7",
+      "size": 15804,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6dabdf05eaed331f77e247cf266c702ce016a6d7"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportGML.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b91154000f2c26516230be43d704849be7f3e1fd",
+      "size": 1571,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b91154000f2c26516230be43d704849be7f3e1fd"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportGMS2FontData.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "52fcb85d72e15193958aee29f96dd6f37b529880",
+      "size": 7614,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/52fcb85d72e15193958aee29f96dd6f37b529880"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportGraphics.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76b76768bb88bd113a14d8bb79e791d78f6cb024",
+      "size": 31465,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/76b76768bb88bd113a14d8bb79e791d78f6cb024"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportGraphicsAdvanced.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34bbf2fb1bf7815f69036b9be3e0b6335d0fda91",
+      "size": 49036,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/34bbf2fb1bf7815f69036b9be3e0b6335d0fda91"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportMasks.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c21bde41773f0867a8d9d24c86755745196bcf26",
+      "size": 4443,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c21bde41773f0867a8d9d24c86755745196bcf26"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportShaders.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9cdf59b6e451997b959370d9dfeaf9a2b1558ae4",
+      "size": 5357,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9cdf59b6e451997b959370d9dfeaf9a2b1558ae4"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportSingleSound.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bee1b2d5d5a39a5d25a97c412841ee73fa52d485",
+      "size": 7934,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bee1b2d5d5a39a5d25a97c412841ee73fa52d485"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ImportSounds.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a575261a23090a04f7d55596bcd2aea0abd34c5",
+      "size": 12817,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5a575261a23090a04f7d55596bcd2aea0abd34c5"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/NewTextureRepacker.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd15bfdcc914b6cec6ad71934e0134d08078228e",
+      "size": 18384,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cd15bfdcc914b6cec6ad71934e0134d08078228e"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Resource Importers/ReduceEmbeddedTexturePages.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c733dded246aa684092e77b248f36580164fbe4f",
+      "size": 19976,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c733dded246aa684092e77b248f36580164fbe4f"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Sample Scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "555eb538446c49d76abd844382edda6036a96de1",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/555eb538446c49d76abd844382edda6036a96de1"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Sample Scripts/DeltaHATE.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "293d84fd3b298428643df08e7a3e6e8b0b0a2234",
+      "size": 8872,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/293d84fd3b298428643df08e7a3e6e8b0b0a2234"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Sample Scripts/DeltaMILK.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fb1e9acc5caf6f72949559a9e565dd98540d1adc",
+      "size": 439,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/fb1e9acc5caf6f72949559a9e565dd98540d1adc"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Sample Scripts/HeCanBeEverywhere.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cc666c77f715b5b34ed0fb053f00fe02782653d7",
+      "size": 12948,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cc666c77f715b5b34ed0fb053f00fe02782653d7"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Sample Scripts/MixMod.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6fe58c8951368975cc53b981e2c5e609d0080241",
+      "size": 21328,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6fe58c8951368975cc53b981e2c5e609d0080241"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Sample Scripts/MixMod_README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d3dbec8aae88aae81e7fe07b4af75ad1a467cba",
+      "size": 3166,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0d3dbec8aae88aae81e7fe07b4af75ad1a467cba"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Sample Scripts/RoomOfDetermination.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "636a523e0427c164e21f3ae905de8442b1b8a509",
+      "size": 16408,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/636a523e0427c164e21f3ae905de8442b1b8a509"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Sample Scripts/TheWholeWorldRevolving.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "09def6b3909e728097ea82bfd1aa94dca10d7a93",
+      "size": 1330,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/09def6b3909e728097ea82bfd1aa94dca10d7a93"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "63f4252c2dc8294cc014dac99aa1d233c7b68b7a",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/63f4252c2dc8294cc014dac99aa1d233c7b68b7a"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/13_To_14.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aceb5fd2397b6ca0847309f48e4d0aca59e573e6",
+      "size": 2909,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/aceb5fd2397b6ca0847309f48e4d0aca59e573e6"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/14_To_16.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d218d0237a1330e6e9d0b7bfc68683ac76e06b92",
+      "size": 15090,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d218d0237a1330e6e9d0b7bfc68683ac76e06b92"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/15_To_16.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3b6b06c950af4aee6a4e430a85dba66aede863b",
+      "size": 5930,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e3b6b06c950af4aee6a4e430a85dba66aede863b"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/15_to_17_To_16.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b57db19aa67bdf5ef30157e55ce22f61de909dd6",
+      "size": 6060,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b57db19aa67bdf5ef30157e55ce22f61de909dd6"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/16_To_17.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95276cebcc21ec9170e9d39bb02a9a2f200a22ab",
+      "size": 1918,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/95276cebcc21ec9170e9d39bb02a9a2f200a22ab"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/AutoBackup.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9cdfe25864b8849a6a71a1d9007d39f6f9cb826",
+      "size": 9057,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b9cdfe25864b8849a6a71a1d9007d39f6f9cb826"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/CheckDecompiler.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f4057a47be61f9254b2b2d8a2b135c34d15e934",
+      "size": 5444,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9f4057a47be61f9254b2b2d8a2b135c34d15e934"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/ConvertFrom17to16.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1dc8f55b4143280bf130948531cc468047e1d701",
+      "size": 888,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1dc8f55b4143280bf130948531cc468047e1d701"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/ConvertFrom17to16_for_2.3.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30e2d94c5370557a6b7d66dbce4fb6e5e0b24e6f",
+      "size": 8762,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/30e2d94c5370557a6b7d66dbce4fb6e5e0b24e6f"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/CopySound.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e651775f155445153b9e76a44ed27ffd5023cf6",
+      "size": 10856,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/8e651775f155445153b9e76a44ed27ffd5023cf6"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/CopySoundInternal.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dfcfc6a189f5fa4e32cdfc0019f3d86788f4bb69",
+      "size": 9765,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/dfcfc6a189f5fa4e32cdfc0019f3d86788f4bb69"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/CopySpriteBgFont.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "382268073b8f52337a9ebd31ebccb247bb006e55",
+      "size": 20509,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/382268073b8f52337a9ebd31ebccb247bb006e55"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/CopySpriteBgFontInternal.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5e1c4e115c8fcb86dd0f63ce889dca78113e6373",
+      "size": 18479,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5e1c4e115c8fcb86dd0f63ce889dca78113e6373"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/ExecutionOrder.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5b4eb38270a243a4306695042cc579d34690604c",
+      "size": 14279,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5b4eb38270a243a4306695042cc579d34690604c"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/ExportAllCodeSync.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f462be16a838d31cba73f5c668ac315a43efe6f6",
+      "size": 3233,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f462be16a838d31cba73f5c668ac315a43efe6f6"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/ExportAssetOrder.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b6a2938ea559581e9be65e7b5b34b32fdc992828",
+      "size": 1879,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b6a2938ea559581e9be65e7b5b34b32fdc992828"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/FindNullsInOffsetMap.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3e061cc57f73b0c0fdf343df72b16364e9743639",
+      "size": 2735,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3e061cc57f73b0c0fdf343df72b16364e9743639"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/FindUnknownFunctions.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5af60aa4e5e98984352b4af61ab5ea1de090c80",
+      "size": 4135,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a5af60aa4e5e98984352b4af61ab5ea1de090c80"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/FindUnusedStrings.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4658273f16f5c2f7d7871353bec369cff7b4029d",
+      "size": 25205,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4658273f16f5c2f7d7871353bec369cff7b4029d"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/GameObjectCopy.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a8902ebb09d3d97654b412a9892ea070cace7b22",
+      "size": 10978,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a8902ebb09d3d97654b412a9892ea070cace7b22"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/GameObjectCopyInternal.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d9d6e9f7f8e7c0a6176b8e57ecf146b9bd9ef22f",
+      "size": 8805,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d9d6e9f7f8e7c0a6176b8e57ecf146b9bd9ef22f"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/GetAllChunkNames.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be809869f484b863a7c3804f449d83c0da7c89fd",
+      "size": 210,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/be809869f484b863a7c3804f449d83c0da7c89fd"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/GetTempDirectory.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71beee833b42c929c19caf9b830421bc42a0f9cd",
+      "size": 93,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/71beee833b42c929c19caf9b830421bc42a0f9cd"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/ImportAssetOrder.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b032db51b8b35e79296958e0deea47de5e3b1c77",
+      "size": 3438,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b032db51b8b35e79296958e0deea47de5e3b1c77"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/ImportGraphics_Full_Repack.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a574f5516415f5d9edd1468e38c398db889d6583",
+      "size": 27281,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a574f5516415f5d9edd1468e38c398db889d6583"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/LintAllScripts.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "51567ab18d140cb4fe14d1ec0637810298d13718",
+      "size": 2384,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/51567ab18d140cb4fe14d1ec0637810298d13718"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/MatchRoomOrderToInternalOrder.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e7ea1a67316a3e88366d9ac0e2803b9a0cee897f",
+      "size": 1435,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e7ea1a67316a3e88366d9ac0e2803b9a0cee897f"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/Profiler.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "464faa375b5dfd8588eef67fbd320e84fa60b3e4",
+      "size": 26540,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/464faa375b5dfd8588eef67fbd320e84fa60b3e4"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/RealignRoomInternalOrder.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "658fbff84fafa0018ab70c720630a5845e2e5772",
+      "size": 233,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/658fbff84fafa0018ab70c720630a5845e2e5772"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/RemoveUnusedSounds.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e3936b51f533e7ae6488f1e1230e7fb37f48754c",
+      "size": 6974,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e3936b51f533e7ae6488f1e1230e7fb37f48754c"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/RestoreMissingCodeLocals.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "49c02af897738ded1d5df10964735ca54ded2a4c",
+      "size": 825,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/49c02af897738ded1d5df10964735ca54ded2a4c"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/SpriteOriginCopy.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "54653b7b86c617a3e1a567c510ed8be37d82eb66",
+      "size": 982,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/54653b7b86c617a3e1a567c510ed8be37d82eb66"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/TestExportAllCode.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00e02f8d3660d4cf5bfafde8e2b4b4210609aa91",
+      "size": 6067,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/00e02f8d3660d4cf5bfafde8e2b4b4210609aa91"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/ToggleAlignment.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f8b0ec7d83ff9d7e7420c6a864e6b621e63e2296",
+      "size": 561,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f8b0ec7d83ff9d7e7420c6a864e6b621e63e2296"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Technical Scripts/VariableFixer.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e61f60fe9e399c8e23b0027b8ccc3528334bd6ba",
+      "size": 1037,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e61f60fe9e399c8e23b0027b8ccc3528334bd6ba"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "76651eaa9d58a3844ff393be2dd877527bd108dd",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/76651eaa9d58a3844ff393be2dd877527bd108dd"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "98164ff0f7613ec1485252ca1fed2a01e57dcca0",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/98164ff0f7613ec1485252ca1fed2a01e57dcca0"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_anime.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2d474b23aea3590f990458a31797d1d90b6fe3e9",
+      "size": 931256,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2d474b23aea3590f990458a31797d1d90b6fe3e9"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_casino.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e96537266a924e6b0a60ab76cd6a1ce91343644",
+      "size": 709349,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0e96537266a924e6b0a60ab76cd6a1ce91343644"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_castle.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9173c593dbc15dabe2be1407041aeda751eb64b7",
+      "size": 393509,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/9173c593dbc15dabe2be1407041aeda751eb64b7"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_dog.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14165f34cb481c5de0435623502bed80d8d37aab",
+      "size": 381142,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/14165f34cb481c5de0435623502bed80d8d37aab"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_fire.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0f8f4c56dc3db866d50a0af9662c8f7e23668d1a",
+      "size": 1028904,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0f8f4c56dc3db866d50a0af9662c8f7e23668d1a"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_line.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f7b36cd9ad730958fcd0dbac02d50a379913b5e",
+      "size": 27283,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7f7b36cd9ad730958fcd0dbac02d50a379913b5e"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_line_1080.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a21957caa7c891d60fc1c2f5337e76ddc238d631",
+      "size": 16272,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a21957caa7c891d60fc1c2f5337e76ddc238d631"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_rad.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "476966bf21a6574abd190109631545398297a053",
+      "size": 678150,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/476966bf21a6574abd190109631545398297a053"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_ruins.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "043a844f8e734ca78554b9ec75885b8fecdb6959",
+      "size": 1066256,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/043a844f8e734ca78554b9ec75885b8fecdb6959"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_sepia.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "740e46d10709e8693fe48bcf71f9fb29e5850245",
+      "size": 177948,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/740e46d10709e8693fe48bcf71f9fb29e5850245"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_truelab.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a377bac67414df69aebb5b7a68e2c05085b836fa",
+      "size": 523525,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a377bac67414df69aebb5b7a68e2c05085b836fa"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_tundra.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ef912f1bd8da899326c4730e56e56f2586a28b4",
+      "size": 1057829,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1ef912f1bd8da899326c4730e56e56f2586a28b4"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/bg_border_water1.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fc576cb972e5b79d8dcacfe0285bab563251705d",
+      "size": 880560,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/fc576cb972e5b79d8dcacfe0285bab563251705d"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_dark.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "99c31d4686eadfbdc0cd0316c9fb90473b48ebde",
+      "size": 662856,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/99c31d4686eadfbdc0cd0316c9fb90473b48ebde"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_dark_ch1_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d7fa22b131fcd11d146ad2083d5b6baac1cf7ff",
+      "size": 662856,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0d7fa22b131fcd11d146ad2083d5b6baac1cf7ff"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_dw_castletown_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0d7fa22b131fcd11d146ad2083d5b6baac1cf7ff",
+      "size": 662856,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0d7fa22b131fcd11d146ad2083d5b6baac1cf7ff"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_dw_city_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e1f890c8a7b0494354d91f0be11ad44ea630b8f5",
+      "size": 266398,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e1f890c8a7b0494354d91f0be11ad44ea630b8f5"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_dw_cyber_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f460b7e4ce45a5d9858a7aa2e046a347d4c9da5e",
+      "size": 374487,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f460b7e4ce45a5d9858a7aa2e046a347d4c9da5e"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_dw_mansion_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4f34cb08f949620da91deb246a0b0dae2e0e622c",
+      "size": 464208,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4f34cb08f949620da91deb246a0b0dae2e0e622c"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_light.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "040d7aa88733d080b3fb6c9b9ab4d88a54940f95",
+      "size": 677829,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/040d7aa88733d080b3fb6c9b9ab4d88a54940f95"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_light_ch1_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bddcbd2edff12860d6207102764f95536809d236",
+      "size": 677829,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bddcbd2edff12860d6207102764f95536809d236"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_line_1080_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cb69dfaa76d3d8cb7a1d7f4b159c3e9c82189773",
+      "size": 16272,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cb69dfaa76d3d8cb7a1d7f4b159c3e9c82189773"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Borders/border_lw_town_0.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bddcbd2edff12860d6207102764f95536809d236",
+      "size": 677829,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bddcbd2edff12860d6207102764f95536809d236"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/Debug.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6ccb483906f2a61eee3b69a6cdc8deb5f875c23",
+      "size": 6545,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a6ccb483906f2a61eee3b69a6cdc8deb5f875c23"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/DeltaruneClearShaderData.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eec04a44c6cbb3099265b6085c48873a3b08e47a",
+      "size": 3684,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/eec04a44c6cbb3099265b6085c48873a3b08e47a"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/DeltaruneReloadJSON.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f96cac3b30a05f5d90a402af3a458afef8bd96e1",
+      "size": 800,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f96cac3b30a05f5d90a402af3a458afef8bd96e1"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/DeltaruneTTFFonts.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f74dbb2094d2b966198cb49201b93418b1f5a112",
+      "size": 1667,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f74dbb2094d2b966198cb49201b93418b1f5a112"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/DisableDogcheck.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28d52321c9b1260ab70095e64aefda904dd15d30",
+      "size": 1591,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/28d52321c9b1260ab70095e64aefda904dd15d30"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/ShowRoomName.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78e6e77e9b805cdb121abf3fa171948ac9664823",
+      "size": 1184,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/78e6e77e9b805cdb121abf3fa171948ac9664823"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/TouchControlsEnabler.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3d3eba1d01142acc97d8cccf6a9f754b3268244",
+      "size": 8420,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a3d3eba1d01142acc97d8cccf6a9f754b3268244"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/TouchControls_data",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "10f75b6ff3e5cdf67ebc7a2abbaa1234a0da9d8c",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/10f75b6ff3e5cdf67ebc7a2abbaa1234a0da9d8c"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/TouchControls_data/controls.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e34bf9e9e0de3b478bf190831ebf6d9e785e842",
+      "size": 8543,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/6e34bf9e9e0de3b478bf190831ebf6d9e785e842"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/TouchControls_data/gml_Object_obj_mobilecontrols_Create_0.gml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d52c27be286adb20bccd13f22ef38a8bb00b73a9",
+      "size": 2076,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d52c27be286adb20bccd13f22ef38a8bb00b73a9"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/TouchControls_data/gml_Object_obj_mobilecontrols_Draw_64.gml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dbda9c0074b5f64662588e4d953b6f3919d8f563",
+      "size": 3474,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/dbda9c0074b5f64662588e4d953b6f3919d8f563"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/TouchControls_data/gml_Object_obj_mobilecontrols_Other_4.gml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f0d6489bfa40d640ad7d2a34681f54de92524f0f",
+      "size": 3912,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f0d6489bfa40d640ad7d2a34681f54de92524f0f"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/TouchControls_data/gml_Object_obj_mobilecontrols_Step_0.gml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2608cd4456797e2f8322d590e9a021e48bd06410",
+      "size": 4723,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/2608cd4456797e2f8322d590e9a021e48bd06410"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleBattlegroupSelector.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "28f4aec0e7886a03d67850646c8e0b9bbbd04058",
+      "size": 3337,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/28f4aec0e7886a03d67850646c8e0b9bbbd04058"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleBetterVaporiser.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "919877682637287d34e0bb55306539245920c940",
+      "size": 6646,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/919877682637287d34e0bb55306539245920c940"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleBorderEnabler.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "15eefe0ef02b10d14e2a957c8cf6494c50440bf6",
+      "size": 8126,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/15eefe0ef02b10d14e2a957c8cf6494c50440bf6"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleBorderEnablerv1_11.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d960f6de0ff55c4c7764bc3687f04119b0a115d",
+      "size": 2890,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7d960f6de0ff55c4c7764bc3687f04119b0a115d"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleChangeHomeBattlegroup.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f20c3c9ee8a36c86f7844d8a875dab9656ce2314",
+      "size": 3139,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/f20c3c9ee8a36c86f7844d8a875dab9656ce2314"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleDebugMsg.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "77f45b1808838cb2293a4918c2591612f60c8d94",
+      "size": 897,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/77f45b1808838cb2293a4918c2591612f60c8d94"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleDebugToggler.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0995ae1d570b6fb13f3d4d512b6b9ddbd043a246",
+      "size": 811,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0995ae1d570b6fb13f3d4d512b6b9ddbd043a246"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleDialogSimulator.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a28dfc3d6521fa5284d2d14aedbb885d5f0282a2",
+      "size": 29100,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a28dfc3d6521fa5284d2d14aedbb885d5f0282a2"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleFixAlphysLabCrashAndroid.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cf53a8b85e6a2514061873f65ff7b9b5002574e",
+      "size": 757,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3cf53a8b85e6a2514061873f65ff7b9b5002574e"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleGoToRoom.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "45032f31858e4a78e1729fdf793b166635f9e36d",
+      "size": 642,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/45032f31858e4a78e1729fdf793b166635f9e36d"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleRunButton.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "605ae326cf1fc702a0f2237ec83c5accf4ef0088",
+      "size": 913,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/605ae326cf1fc702a0f2237ec83c5accf4ef0088"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleSafeBlaster.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f3377379104c4d8dd013c84cf1079e05147888a",
+      "size": 7075,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5f3377379104c4d8dd013c84cf1079e05147888a"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleSimplifyBattlegroupScript.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3ddb72066ed2654746c9b09db1c6eedcea8b41ee",
+      "size": 1617,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3ddb72066ed2654746c9b09db1c6eedcea8b41ee"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleSwitchAndXboxOnPC.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8cc87e9cb883b8e5ac8e6884cfec9c3c98e6698d",
+      "size": 7012,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/8cc87e9cb883b8e5ac8e6884cfec9c3c98e6698d"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleTTFFonts.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bec1312761eebe3daf1a6d953ecf577d9a080e0",
+      "size": 1577,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/8bec1312761eebe3daf1a6d953ecf577d9a080e0"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleWASD.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a6393ec0bf39440bd01009e0064be7e0b170d8c",
+      "size": 1491,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7a6393ec0bf39440bd01009e0064be7e0b170d8c"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/UTDR Scripts/UndertaleWithJSONs.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "967a706f1f223035eb26416d22ce5af33d56c3c4",
+      "size": 6033,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/967a706f1f223035eb26416d22ce5af33d56c3c4"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "8df326cb800470218895bc696916a02249aebbde",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/8df326cb800470218895bc696916a02249aebbde"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/ExternalizeAllOGGs.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "94a43ca7e030bb0ae6cecba018d14820ab8d9233",
+      "size": 10256,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/94a43ca7e030bb0ae6cecba018d14820ab8d9233"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/ExtractEmbeddedDataFile.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d10a328b00517c360a12dc2a90b66e6a49e30dbc",
+      "size": 2330,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/d10a328b00517c360a12dc2a90b66e6a49e30dbc"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/FancyRoomSelect.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5a89009de749067ca5314263bcf2f4b3a3c39fb",
+      "size": 56207,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a5a89009de749067ca5314263bcf2f4b3a3c39fb"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/FindAndReplace.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af0683b82068046f6a20e4797803b25c12ec4e2a",
+      "size": 1622,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/af0683b82068046f6a20e4797803b25c12ec4e2a"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/FindObjectsInRooms.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4f469a159d457290e2597761465f4f7e2cd0bcf",
+      "size": 2715,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a4f469a159d457290e2597761465f4f7e2cd0bcf"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/FindObjectsWithSprite.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a4d9fea5bebe8aad2986fef8675b71feceb53b51",
+      "size": 2701,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a4d9fea5bebe8aad2986fef8675b71feceb53b51"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/FontEditor.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aeb7396ac2784b25253801f594ad8ed0db7a7aab",
+      "size": 44271,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/aeb7396ac2784b25253801f594ad8ed0db7a7aab"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/FontEditor_README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd6cc48eec118633b879684abc795f7d3d9a3910",
+      "size": 166,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cd6cc48eec118633b879684abc795f7d3d9a3910"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/GoToRoom_AutoLocatePersistentObj.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "03d729f22935d8d281b7448b32f1a5d04e101294",
+      "size": 933,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/03d729f22935d8d281b7448b32f1a5d04e101294"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/MergeImages.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7b7a9ba90c810ab6113def84920c7bb6a13df35",
+      "size": 1884,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a7b7a9ba90c810ab6113def84920c7bb6a13df35"
+    },
+    {
+      "path": "UndertaleModTool/Scripts/Utility Scripts/ScaleAllTextures.csx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84c66ced2de557bfa439da1a6815dc615b8e21c6",
+      "size": 7120,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/84c66ced2de557bfa439da1a6815dc615b8e21c6"
+    },
+    {
+      "path": "UndertaleModTool/Settings.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ebb90ef94e11cf02cf2759827c653329de1896d1",
+      "size": 11877,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ebb90ef94e11cf02cf2759827c653329de1896d1"
+    },
+    {
+      "path": "UndertaleModTool/Tab.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e8fff7e5fbb43857aa5aa1111ac64ea47560db20",
+      "size": 49634,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e8fff7e5fbb43857aa5aa1111ac64ea47560db20"
+    },
+    {
+      "path": "UndertaleModTool/UndertaleModTool.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e053e5fb4fce4d90027d8fa5c39b809abb76e7d6",
+      "size": 5533,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e053e5fb4fce4d90027d8fa5c39b809abb76e7d6"
+    },
+    {
+      "path": "UndertaleModTool/WindowExtensions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97b7b4689b61ef62de6e968040607e696f24ae56",
+      "size": 9041,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/97b7b4689b61ef62de6e968040607e696f24ae56"
+    },
+    {
+      "path": "UndertaleModTool/Windows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "acd1567c7c617e22a2baa4b1c9d10ca8e5947d2b",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/acd1567c7c617e22a2baa4b1c9d10ca8e5947d2b"
+    },
+    {
+      "path": "UndertaleModTool/Windows/ClickableTextOutput.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bdb6dd16eb12f28c7787a9241bbc8b2e96da661f",
+      "size": 2832,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/bdb6dd16eb12f28c7787a9241bbc8b2e96da661f"
+    },
+    {
+      "path": "UndertaleModTool/Windows/ClickableTextOutput.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "37e0395d277fc95c766110f82fa4a27a4df70500",
+      "size": 11213,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/37e0395d277fc95c766110f82fa4a27a4df70500"
+    },
+    {
+      "path": "UndertaleModTool/Windows/DebugDataDialog.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "feff1b1875ba8db010a8fb5a08e3642a65883cf6",
+      "size": 2409,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/feff1b1875ba8db010a8fb5a08e3642a65883cf6"
+    },
+    {
+      "path": "UndertaleModTool/Windows/DebugDataDialog.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "736241d62a497328e7e771cce169f21b4783bf3e",
+      "size": 1811,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/736241d62a497328e7e771cce169f21b4783bf3e"
+    },
+    {
+      "path": "UndertaleModTool/Windows/FindReferencesTypesDialog",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "b03974c8a99fd02c087a4e03f78c7590c108b9be",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/b03974c8a99fd02c087a4e03f78c7590c108b9be"
+    },
+    {
+      "path": "UndertaleModTool/Windows/FindReferencesTypesDialog/FindReferencesResults.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "477b834149bb99b8d1a6b7d8fe765b5b6299239b",
+      "size": 6541,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/477b834149bb99b8d1a6b7d8fe765b5b6299239b"
+    },
+    {
+      "path": "UndertaleModTool/Windows/FindReferencesTypesDialog/FindReferencesResults.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4ba213916f715cc94a888002080529f1de6ae96b",
+      "size": 17531,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4ba213916f715cc94a888002080529f1de6ae96b"
+    },
+    {
+      "path": "UndertaleModTool/Windows/FindReferencesTypesDialog/FindReferencesTypesDialog.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5dd39a301a2536cb4f970917dd37b0fd61624aed",
+      "size": 2405,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/5dd39a301a2536cb4f970917dd37b0fd61624aed"
+    },
+    {
+      "path": "UndertaleModTool/Windows/FindReferencesTypesDialog/FindReferencesTypesDialog.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7d6fc07586deba0e76f0d6846256dfbb03d4bf86",
+      "size": 7632,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7d6fc07586deba0e76f0d6846256dfbb03d4bf86"
+    },
+    {
+      "path": "UndertaleModTool/Windows/FindReferencesTypesDialog/UndertaleResourceReferenceMap.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3c8b9cdb014ab0117889ee6c0fd3693d8d0f4eba",
+      "size": 21411,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3c8b9cdb014ab0117889ee6c0fd3693d8d0f4eba"
+    },
+    {
+      "path": "UndertaleModTool/Windows/FindReferencesTypesDialog/UndertaleResourceReferenceMethodsMap.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e6fd3fa2770c4ba8b717ba1c703f9abe1ddcfdf1",
+      "size": 87395,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/e6fd3fa2770c4ba8b717ba1c703f9abe1ddcfdf1"
+    },
+    {
+      "path": "UndertaleModTool/Windows/GMLSettingsWindow.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a1ca0529e6c5330741f5efb6466358deed76c16",
+      "size": 14579,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/4a1ca0529e6c5330741f5efb6466358deed76c16"
+    },
+    {
+      "path": "UndertaleModTool/Windows/GMLSettingsWindow.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "40bb6ffd52cc8ed905eb28cf68c51002787a61d7",
+      "size": 2287,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/40bb6ffd52cc8ed905eb28cf68c51002787a61d7"
+    },
+    {
+      "path": "UndertaleModTool/Windows/LoaderDialog.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa8be0147a0d624aaec95dea520a97a7ecdd1578",
+      "size": 1199,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/fa8be0147a0d624aaec95dea520a97a7ecdd1578"
+    },
+    {
+      "path": "UndertaleModTool/Windows/LoaderDialog.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3870c219d09fc2df896b212b7cb437d8c36bf016",
+      "size": 5550,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/3870c219d09fc2df896b212b7cb437d8c36bf016"
+    },
+    {
+      "path": "UndertaleModTool/Windows/ProjectAssetsWindow.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "81027d01333e9088e43ec85d02d19ab6d4835b05",
+      "size": 4116,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/81027d01333e9088e43ec85d02d19ab6d4835b05"
+    },
+    {
+      "path": "UndertaleModTool/Windows/ProjectAssetsWindow.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b7b108b4f10c28127c76ce0bb811ca6763bc0d98",
+      "size": 5929,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/b7b108b4f10c28127c76ce0bb811ca6763bc0d98"
+    },
+    {
+      "path": "UndertaleModTool/Windows/RuntimePicker.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c847ff2f6ce0ab6b5dce1b12ad63f438313037af",
+      "size": 1774,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c847ff2f6ce0ab6b5dce1b12ad63f438313037af"
+    },
+    {
+      "path": "UndertaleModTool/Windows/RuntimePicker.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "75a3aeb7f19152fc85fa9d7a15e9619f2d0b1b44",
+      "size": 4715,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/75a3aeb7f19152fc85fa9d7a15e9619f2d0b1b44"
+    },
+    {
+      "path": "UndertaleModTool/Windows/SearchInCodeWindow.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "be96fd056b867b323fac1c23edd8857c2cc3a580",
+      "size": 7184,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/be96fd056b867b323fac1c23edd8857c2cc3a580"
+    },
+    {
+      "path": "UndertaleModTool/Windows/SearchInCodeWindow.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9d2ab994338bc9794270e772535ec44e7ff17fe",
+      "size": 16921,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c9d2ab994338bc9794270e772535ec44e7ff17fe"
+    },
+    {
+      "path": "UndertaleModTool/Windows/SettingsWindow.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7a1ab727b908c9705f1c1441c39706eb0810c45f",
+      "size": 10544,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/7a1ab727b908c9705f1c1441c39706eb0810c45f"
+    },
+    {
+      "path": "UndertaleModTool/Windows/SettingsWindow.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "efca96e43effb3e3e10e54d5a662a8546a88b5ac",
+      "size": 9266,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/efca96e43effb3e3e10e54d5a662a8546a88b5ac"
+    },
+    {
+      "path": "UndertaleModTool/Windows/StringUpdateWindow.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "229b34a12162881784f933d7676756db698c3fbc",
+      "size": 1340,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/229b34a12162881784f933d7676756db698c3fbc"
+    },
+    {
+      "path": "UndertaleModTool/Windows/StringUpdateWindow.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c5c91674b6b093ce7a1042ff03fd550bbc7233e3",
+      "size": 1633,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c5c91674b6b093ce7a1042ff03fd550bbc7233e3"
+    },
+    {
+      "path": "UndertaleModTool/Windows/TextInput.Designer.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1008b6c1db069d24b27b0fe0e84137915e73b820",
+      "size": 8132,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1008b6c1db069d24b27b0fe0e84137915e73b820"
+    },
+    {
+      "path": "UndertaleModTool/Windows/TextInput.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8446f847f2c442f8900961dcdc215be90f5f93ad",
+      "size": 6161,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/8446f847f2c442f8900961dcdc215be90f5f93ad"
+    },
+    {
+      "path": "UndertaleModTool/Windows/TextInput.resx",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7ee25c75a0eec696351b2e5541f52f07c6c88ef",
+      "size": 3221,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a7ee25c75a0eec696351b2e5541f52f07c6c88ef"
+    },
+    {
+      "path": "UndertaleModTool/Windows/TextInputDialog.xaml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce3546feb56c168a060f2b284c6a41fd1191bc4e",
+      "size": 1802,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/ce3546feb56c168a060f2b284c6a41fd1191bc4e"
+    },
+    {
+      "path": "UndertaleModTool/Windows/TextInputDialog.xaml.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1ca7c05be095b59ac823c85a09935d1df859265e",
+      "size": 2831,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/1ca7c05be095b59ac823c85a09935d1df859265e"
+    },
+    {
+      "path": "UndertaleModTool/app.manifest",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "71e5e58361614cc39f543541da676fad8e1a3bda",
+      "size": 2834,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/71e5e58361614cc39f543541da676fad8e1a3bda"
+    },
+    {
+      "path": "UndertaleModTool/icon.ico",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "86f5b2c43be4d4133a622f22374ec4eae4cdfa08",
+      "size": 766,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/86f5b2c43be4d4133a622f22374ec4eae4cdfa08"
+    },
+    {
+      "path": "UndertaleModToolUpdater",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "698a89835cc1dc6313311891be1230167784c1e0",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/698a89835cc1dc6313311891be1230167784c1e0"
+    },
+    {
+      "path": "UndertaleModToolUpdater/Program.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c8601bb5f1731bc67f1fa66ed8fe8e0b691e479",
+      "size": 3730,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/0c8601bb5f1731bc67f1fa66ed8fe8e0b691e479"
+    },
+    {
+      "path": "UndertaleModToolUpdater/UndertaleModToolUpdater.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c3c3d7426307ad3ceea1d2ab6c2f361c4dd704dd",
+      "size": 646,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/c3c3d7426307ad3ceea1d2ab6c2f361c4dd704dd"
+    },
+    {
+      "path": "images",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "07e6a250622855469b3325dc7f3b46b9b385abaa",
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/trees/07e6a250622855469b3325dc7f3b46b9b385abaa"
+    },
+    {
+      "path": "images/flowey.gif",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aaa2c12cc9fad6d998f6d63e932068ba7e6db118",
+      "size": 182750,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/aaa2c12cc9fad6d998f6d63e932068ba7e6db118"
+    },
+    {
+      "path": "images/logo.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a6bd42087746b5f4fe0d38c9d4f82d98bb5e87e4",
+      "size": 3910,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/a6bd42087746b5f4fe0d38c9d4f82d98bb5e87e4"
+    },
+    {
+      "path": "images/ribbit-dr.png",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cfe41a24d4ba72711e7a614f511468342da07952",
+      "size": 41825,
+      "url": "https://api.github.com/repos/UnderminersTeam/UndertaleModTool/git/blobs/cfe41a24d4ba72711e7a614f511468342da07952"
+    }
+  ],
+  "truncated": false
+}

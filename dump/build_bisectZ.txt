@@ -1,0 +1,5 @@
+sprite sprAnyaFancyFont: +2107 frames (55 -> 2162), (charmap unchanged)
+sprite sprAnyaReviewFont: +2107 frames (73 -> 2180), (charmap unchanged)
+sprite sprAnyaTypewriterFont: +2107 frames (87 -> 2194), (charmap unchanged)
+sprite frames added: 6321
+wrote D:\Steam\steamapps\common\Dead Estate\_loc_work\out\data_bisectZ.win (76961308 bytes)

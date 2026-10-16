@@ -1,0 +1,3 @@
+original: ScaleX=1 ScaleY=1 EmSize=12 glyphs=2204
+set: ScaleX=4 ScaleY=8
+wrote D:\Steam\steamapps\common\Dead Estate\_loc_work\dump\scale_probe.win

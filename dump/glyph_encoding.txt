@@ -1,0 +1,8 @@
+font fnt_gm_15: RangeStart=32 RangeEnd=255 glyphs=191
+first 8 Character values: 32,33,34,35,36,37,38,39
+last 5 Character values : 251,252,253,254,255
+
+=== searching raw file for the leading glyph character sequence ===
+1-byte pattern found at: 
+2-byte pattern found at: 1041092
+bytes AF 25 occurrences: 964510,966932,966974,969484,969526,971968,972010,974184,974226,976536

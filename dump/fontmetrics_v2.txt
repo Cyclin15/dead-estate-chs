@@ -1,0 +1,103 @@
+fnt_gm_15: em=15 asc=17 lineH=0 ascOff=2 scale=(1,1) glyphs=2298
+  CJK n=2085 maxGlyphH=25 maxGlyphW=14 shifts=[15] sample游=(14x25,shift=15,off=0)
+  'H': 12x25 shift=14 off=1
+fnt_gm_20: em=20 asc=24 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=31 maxGlyphW=19 shifts=[20] sample游=(18x31,shift=20,off=0)
+  'H': 16x31 shift=20 off=2
+fnt_gm_30: em=30 asc=35 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=46 maxGlyphW=28 shifts=[30] sample游=(27x46,shift=30,off=0)
+  'H': 23x46 shift=29 off=3
+fntCryptic: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=19 maxGlyphW=11 shifts=[12] sample游=(11x19,shift=12,off=0)
+  'H': 11x19 shift=13 off=1
+fntGameFont: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=20 maxGlyphW=12 shifts=[12] sample游=(12x20,shift=12,off=0)
+  'H': 8x20 shift=10 off=1
+fntGameFontBigger: em=20 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=33 maxGlyphW=19 shifts=[20] sample游=(18x33,shift=20,off=0)
+  'H': 13x33 shift=17 off=2
+fntGameFontBiggerBold: em=20 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=33 maxGlyphW=19 shifts=[20] sample游=(18x33,shift=20,off=0)
+  'H': 13x33 shift=17 off=2
+fntGameFontBiggerBoldItalics: em=20 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=33 maxGlyphW=22 shifts=[20] sample游=(21x33,shift=20,off=0)
+  'H': 16x33 shift=17 off=1
+fntGameFontBiggerItalics: em=20 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=33 maxGlyphW=19 shifts=[20] sample游=(18x33,shift=20,off=0)
+  'H': 13x33 shift=17 off=2
+fntGameFontBiggest: em=39 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=63 maxGlyphW=36 shifts=[39] sample游=(36x63,shift=39,off=0)
+  'H': 24x63 shift=32 off=4
+fntGameFontBiggestBold: em=39 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=63 maxGlyphW=36 shifts=[39] sample游=(36x63,shift=39,off=0)
+  'H': 25x63 shift=33 off=4
+fntGameFontBiggestBoldItalics: em=39 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=63 maxGlyphW=42 shifts=[39] sample游=(41x63,shift=39,off=0)
+  'H': 32x63 shift=33 off=1
+fntGameFontBiggestItalics: em=39 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=63 maxGlyphW=42 shifts=[39] sample游=(41x63,shift=39,off=0)
+  'H': 30x63 shift=32 off=2
+fntGameFontBold: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=20 maxGlyphW=12 shifts=[12] sample游=(12x20,shift=12,off=0)
+  'H': 8x20 shift=10 off=1
+fntGameFontBoldItalics: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=20 maxGlyphW=14 shifts=[12] sample游=(14x20,shift=12,off=0)
+  'H': 10x20 shift=10 off=0
+fntGameFontItalics: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=20 maxGlyphW=14 shifts=[12] sample游=(14x20,shift=12,off=0)
+  'H': 10x20 shift=10 off=0
+fntGameFontItalicsBigger: em=20 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=33 maxGlyphW=22 shifts=[20] sample游=(21x33,shift=20,off=0)
+  'H': 16x33 shift=17 off=1
+fntGameFontNormal: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=20 maxGlyphW=11 shifts=[12] sample游=(11x20,shift=12,off=0)
+  'H': 8x20 shift=10 off=1
+fntGameFontNormalBold: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=20 maxGlyphW=12 shifts=[12] sample游=(12x20,shift=12,off=0)
+  'H': 8x20 shift=10 off=1
+fntGameFontNormalBoldItalics: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=20 maxGlyphW=14 shifts=[12] sample游=(14x20,shift=12,off=0)
+  'H': 10x20 shift=10 off=0
+fntGameFontNormalItalics: em=12 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=20 maxGlyphW=13 shifts=[12] sample游=(12x20,shift=12,off=0)
+  'H': 9x20 shift=10 off=1
+fntSmall: em=10 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2205
+  CJK n=2085 maxGlyphH=16 maxGlyphW=10 shifts=[10] sample游=(9x16,shift=10,off=0)
+  'H': 6x16 shift=8 off=1
+fntSmallBold: em=10 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=16 maxGlyphW=11 shifts=[10] sample游=(10x16,shift=10,off=0)
+  'H': 6x16 shift=8 off=1
+fntSmallBoldItalics: em=10 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=16 maxGlyphW=12 shifts=[10] sample游=(11x16,shift=10,off=0)
+  'H': 7x16 shift=8 off=1
+fntSmaller: em=8 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2205
+  CJK n=2085 maxGlyphH=13 maxGlyphW=7 shifts=[8] sample游=(7x13,shift=8,off=0)
+  'H': 5x13 shift=7 off=1
+fntSmallerBold: em=8 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2205
+  CJK n=2085 maxGlyphH=13 maxGlyphW=8 shifts=[8] sample游=(8x13,shift=8,off=0)
+  'H': 5x13 shift=7 off=1
+fntSmallerBoldItalics: em=8 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2205
+  CJK n=2085 maxGlyphH=13 maxGlyphW=9 shifts=[8] sample游=(9x13,shift=8,off=0)
+  'H': 7x13 shift=7 off=0
+fntSmallerItalics: em=8 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2205
+  CJK n=2085 maxGlyphH=13 maxGlyphW=8 shifts=[8] sample游=(8x13,shift=8,off=0)
+  'H': 7x13 shift=7 off=0
+fntSmallItalics: em=10 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=16 maxGlyphW=11 shifts=[10] sample游=(10x16,shift=10,off=0)
+  'H': 7x16 shift=8 off=1
+fntTiny: em=5 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2204
+  CJK n=2085 maxGlyphH=9 maxGlyphW=7 shifts=[8] sample游=(7x9,shift=8,off=0)
+  'H': 3x7 shift=4 off=0
+fntWeirdo: em=16 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=25 maxGlyphW=14 shifts=[16] sample游=(14x25,shift=16,off=0)
+  'H': 10x25 shift=12 off=1
+Font_YoYo_20: em=20 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=31 maxGlyphW=19 shifts=[20] sample游=(18x31,shift=20,off=0)
+  'H': 16x31 shift=20 off=2
+Font_YoYo_30: em=30 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=46 maxGlyphW=28 shifts=[30] sample游=(27x46,shift=30,off=0)
+  'H': 23x46 shift=29 off=3
+Font_YoYo_50: em=50 asc=0 lineH=0 ascOff=0 scale=(1,1) glyphs=2203
+  CJK n=2085 maxGlyphH=77 maxGlyphW=46 shifts=[50] sample游=(45x77,shift=50,off=0)
+  'H': 38x77 shift=48 off=5
+

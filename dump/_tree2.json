@@ -1,0 +1,2122 @@
+{
+  "sha": "4ff50a866b4c1a7acee8cebe6a56d6a48709b453",
+  "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/4ff50a866b4c1a7acee8cebe6a56d6a48709b453",
+  "tree": [
+    {
+      "path": ".github",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "5564c4b7f5b3d60fb6c18646dc624134b50278b2",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/5564c4b7f5b3d60fb6c18646dc624134b50278b2"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "220609f740d57dfee62d111b50348ee8377ee97b",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/220609f740d57dfee62d111b50348ee8377ee97b"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/compiler-bug-report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ef1593ca55ca64c20a93dfd010d6bca1121c639c",
+      "size": 813,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ef1593ca55ca64c20a93dfd010d6bca1121c639c"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/decompiler-bug-report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a2520de5a8fe744b1a555b4b356dc5c2fbb6cedb",
+      "size": 830,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a2520de5a8fe744b1a555b4b356dc5c2fbb6cedb"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/feature_request.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "11fc491ef1dae316f2b06bbb40eaba9c757fdfd1",
+      "size": 604,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/11fc491ef1dae316f2b06bbb40eaba9c757fdfd1"
+    },
+    {
+      "path": ".github/ISSUE_TEMPLATE/general-bug-report.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b108c610925085db2d5e0ca150174d38a4a5bc8a",
+      "size": 447,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b108c610925085db2d5e0ca150174d38a4a5bc8a"
+    },
+    {
+      "path": ".github/dependabot.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "994ce76c7ca006d7ddf07f84b573effe4d6a7470",
+      "size": 700,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/994ce76c7ca006d7ddf07f84b573effe4d6a7470"
+    },
+    {
+      "path": ".github/workflows",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "72daa41309233f67e1c878c80c16c0299f67f164",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/72daa41309233f67e1c878c80c16c0299f67f164"
+    },
+    {
+      "path": ".github/workflows/dotnet-desktop.yml",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5c8b132a8efc95e29c2da87f75b5697d881444d4",
+      "size": 553,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5c8b132a8efc95e29c2da87f75b5697d881444d4"
+    },
+    {
+      "path": ".gitignore",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8a30d258ed9d0288d3e2889b3d0e2174b2028225",
+      "size": 6860,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8a30d258ed9d0288d3e2889b3d0e2174b2028225"
+    },
+    {
+      "path": "LICENSE",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fa0086a952236971ab37901954d596efae9f4af6",
+      "size": 16724,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/fa0086a952236971ab37901954d596efae9f4af6"
+    },
+    {
+      "path": "Program.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16ed8095559f6ab2fa9cba12616887efb2a94781",
+      "size": 31,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/16ed8095559f6ab2fa9cba12616887efb2a94781"
+    },
+    {
+      "path": "README.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "856b295b8404dbbfd179301d6f0b05557e6df039",
+      "size": 8400,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/856b295b8404dbbfd179301d6f0b05557e6df039"
+    },
+    {
+      "path": "STRUCTURE.md",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9486a2b4fef469b6c5fcc5d1fb2244eed0092534",
+      "size": 20640,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9486a2b4fef469b6c5fcc5d1fb2244eed0092534"
+    },
+    {
+      "path": "Underanalyzer.sln",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "011d3a50a545a628b744e5b1af94bda817e7b165",
+      "size": 1619,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/011d3a50a545a628b744e5b1af94bda817e7b165"
+    },
+    {
+      "path": "Underanalyzer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "28468c8e637c6d0705742f903f301d42f836d8e1",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/28468c8e637c6d0705742f903f301d42f836d8e1"
+    },
+    {
+      "path": "Underanalyzer/Compiler",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c274e84192c40b960c667b14795e94aa4d9fd0c5",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/c274e84192c40b960c667b14795e94aa4d9fd0c5"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Bytecode",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "89f4f6f61ce1da03478ba7032d64825e0e9f5053",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/89f4f6f61ce1da03478ba7032d64825e0e9f5053"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Bytecode/ArrayOwners.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "10a28af3977c635420cdf23a7479310567c2cf15",
+      "size": 5038,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/10a28af3977c635420cdf23a7479310567c2cf15"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Bytecode/BranchPatch.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8db9d66f67e2e33c7bbe738aa7469f42e58b47c1",
+      "size": 4032,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8db9d66f67e2e33c7bbe738aa7469f42e58b47c1"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Bytecode/BytecodeContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6eed811e7ade3a307f5ba4a2f76950d46e836ff8",
+      "size": 26782,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6eed811e7ade3a307f5ba4a2f76950d46e836ff8"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Bytecode/ControlFlowContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "16b140c58b8c15f48bf79883a85ec50bab087663",
+      "size": 4817,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/16b140c58b8c15f48bf79883a85ec50bab087663"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Bytecode/FunctionEntry.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d472ad9b364f5a463c5198b51bc0951b364194b",
+      "size": 4798,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/4d472ad9b364f5a463c5198b51bc0951b364194b"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Bytecode/InstructionPatch.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "02bc66ddc8b41a499595bdb218122e5243776e45",
+      "size": 5537,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/02bc66ddc8b41a499595bdb218122e5243776e45"
+    },
+    {
+      "path": "Underanalyzer/Compiler/CompileContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3dcca78084851b1d9c4ee351da30736efb268bb0",
+      "size": 8138,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3dcca78084851b1d9c4ee351da30736efb268bb0"
+    },
+    {
+      "path": "Underanalyzer/Compiler/CompilerException.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2ab3f644d97efa2d74ff7bd730979c2786cd533",
+      "size": 1289,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b2ab3f644d97efa2d74ff7bd730979c2786cd533"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Errors",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "55e6d5669f772029ee4e4e71151d061ba149fa65",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/55e6d5669f772029ee4e4e71151d061ba149fa65"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Errors/ICompileError.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af1f32851a2074e0d1c7a09cf2a5e77f542ef81b",
+      "size": 725,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/af1f32851a2074e0d1c7a09cf2a5e77f542ef81b"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Errors/LexerError.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3f842d3e6962ff35696c0fd5ef3b5619c166d9b",
+      "size": 1353,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d3f842d3e6962ff35696c0fd5ef3b5619c166d9b"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Errors/ParserError.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff7b1a9281e13ed3b80fc0b47a80916414afe48b",
+      "size": 1355,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ff7b1a9281e13ed3b80fc0b47a80916414afe48b"
+    },
+    {
+      "path": "Underanalyzer/Compiler/FunctionScope.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9540cecae3dacd2563955e45a869f2bfbfc3943c",
+      "size": 9151,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9540cecae3dacd2563955e45a869f2bfbfc3943c"
+    },
+    {
+      "path": "Underanalyzer/Compiler/IBuiltins.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9701a3f1864cb28cb9dc60c5f76d95a2e38013df",
+      "size": 2753,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9701a3f1864cb28cb9dc60c5f76d95a2e38013df"
+    },
+    {
+      "path": "Underanalyzer/Compiler/ICodeBuilder.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84858d947d61bdd73d6436e78eb18421cbb786b6",
+      "size": 8835,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/84858d947d61bdd73d6436e78eb18421cbb786b6"
+    },
+    {
+      "path": "Underanalyzer/Compiler/ISubCompileContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5cd3404acc09fb46c6f60c92740b43020d3e2ace",
+      "size": 854,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5cd3404acc09fb46c6f60c92740b43020d3e2ace"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "3489465a61ad26344c1dfa26b726655634079b96",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/3489465a61ad26344c1dfa26b726655634079b96"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/ContiguousTextReader.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b842ca65be58e554700068cc8e78521969f69877",
+      "size": 5564,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b842ca65be58e554700068cc8e78521969f69877"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/Identifiers.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12d7f3ab2b82d16dbbdd4473802a4d6c7610a8a9",
+      "size": 3716,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/12d7f3ab2b82d16dbbdd4473802a4d6c7610a8a9"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/LexContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a68ee6470897003d02d2e6c4c354a92ddcfe14a",
+      "size": 11737,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/1a68ee6470897003d02d2e6c4c354a92ddcfe14a"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/Macro.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7718fa464b44005e447a146e6f47202e4485c167",
+      "size": 690,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7718fa464b44005e447a146e6f47202e4485c167"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/Numbers.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f2fc4678765a0ff8fcb299f778197971e6a5af3f",
+      "size": 2755,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f2fc4678765a0ff8fcb299f778197971e6a5af3f"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/Strings.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93071245fb2cbc4b26897801755a7f616739334c",
+      "size": 10837,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/93071245fb2cbc4b26897801755a7f616739334c"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/Symbols.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d0b2c8db7591d3a8826a635739aa0a8634df34fb",
+      "size": 11156,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d0b2c8db7591d3a8826a635739aa0a8634df34fb"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/Tags.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7e791cdcbfed2ae51d98fec194b6a2d96620549b",
+      "size": 6566,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7e791cdcbfed2ae51d98fec194b6a2d96620549b"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/Token.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b25f0c139a8309d4a6ca8d5ad9a1d467bacac739",
+      "size": 14774,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b25f0c139a8309d4a6ca8d5ad9a1d467bacac739"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Lexer/Whitespace.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4e6ac0dfe4a42195df28d0e563067750403f0804",
+      "size": 2396,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/4e6ac0dfe4a42195df28d0e563067750403f0804"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a354fd8eb2d6d04fec4b375a6baf9ba4a3a22a24",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/a354fd8eb2d6d04fec4b375a6baf9ba4a3a22a24"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/AccessorNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b3643b5b6a01e944ce3df1855d5a9ccb2dbd71f1",
+      "size": 22719,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b3643b5b6a01e944ce3df1855d5a9ccb2dbd71f1"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/AssetReferenceNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8e919c7fc4630eccbb99b2d8450f274ba872bb80",
+      "size": 1939,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8e919c7fc4630eccbb99b2d8450f274ba872bb80"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/AssignNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4385b7299da8ae1f9bf78ae8042e6ae5b8c18815",
+      "size": 7139,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/4385b7299da8ae1f9bf78ae8042e6ae5b8c18815"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/BinaryChainNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b2afc532f70283ca51bbec480d3f482920c56f20",
+      "size": 31564,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b2afc532f70283ca51bbec480d3f482920c56f20"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/BlockNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b86781e361657e03cfd10b217f6b236d6de4b21",
+      "size": 5358,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7b86781e361657e03cfd10b217f6b236d6de4b21"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/BooleanNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d1ad577ee3ec5613f1fb96abca669e8320397c6e",
+      "size": 1621,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d1ad577ee3ec5613f1fb96abca669e8320397c6e"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/BreakNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42ce7e13e30f99db4849a56ed245e0b8ba3a2895",
+      "size": 2960,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/42ce7e13e30f99db4849a56ed245e0b8ba3a2895"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/ConditionalNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b8076af4436a0f7a44e7044aa71ecc5d2fc61c9d",
+      "size": 3471,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b8076af4436a0f7a44e7044aa71ecc5d2fc61c9d"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/ContinueNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "aad384510f9bb50de0d6a3a3455fe4a255f948a2",
+      "size": 3179,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/aad384510f9bb50de0d6a3a3455fe4a255f948a2"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/DoUntilLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0e78e1598d984a3e7e30927e32234e3908e9d3bf",
+      "size": 3736,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/0e78e1598d984a3e7e30927e32234e3908e9d3bf"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/DotVariableNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0a838196698dffb2ea84b82cf1afaa0cec144920",
+      "size": 11025,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/0a838196698dffb2ea84b82cf1afaa0cec144920"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/EmptyNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "387f1786661b3f8973e5ba9c4ffeef639fa74066",
+      "size": 1711,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/387f1786661b3f8973e5ba9c4ffeef639fa74066"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/ExitNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a96c40c350f6ef3585c53e8bf5a96c0f5bec6c2",
+      "size": 2456,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5a96c40c350f6ef3585c53e8bf5a96c0f5bec6c2"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/ForLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "95e044e90fb2abb9acc6aef86c51dfdb965aa970",
+      "size": 7886,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/95e044e90fb2abb9acc6aef86c51dfdb965aa970"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/FunctionCallNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63a1751ce937d2809946a2da8c8bec07bfc5fc0e",
+      "size": 16210,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/63a1751ce937d2809946a2da8c8bec07bfc5fc0e"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/FunctionDeclNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cd5be73de8855a43108a8fca42fcf701c519d92f",
+      "size": 29308,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/cd5be73de8855a43108a8fca42fcf701c519d92f"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/IASTNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "61bf4f613934e3af071dab22362092c29f0bde84",
+      "size": 3103,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/61bf4f613934e3af071dab22362092c29f0bde84"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/IfNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f7325eb01d99aedbadc5bd793c0dc8bbef8bafd",
+      "size": 5600,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5f7325eb01d99aedbadc5bd793c0dc8bbef8bafd"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/Int64Node.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a41d4dec52feab07609ec6c861ae2b5c104f217",
+      "size": 1736,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/4a41d4dec52feab07609ec6c861ae2b5c104f217"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/LocalVarDeclNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3c08f3d183c6a02444af3203bade7b19d96787e",
+      "size": 5999,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d3c08f3d183c6a02444af3203bade7b19d96787e"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/NewObjectNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cbab6fbf8263c950fe537ee23a1ac8268c21073a",
+      "size": 7249,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/cbab6fbf8263c950fe537ee23a1ac8268c21073a"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/NullishCoalesceAssignNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1175037df3ad02ff21f07a4d46df791030a63a67",
+      "size": 5829,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/1175037df3ad02ff21f07a4d46df791030a63a67"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/NullishCoalesceNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a648d907ddc5128e482038efb38d47d4036db296",
+      "size": 2567,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a648d907ddc5128e482038efb38d47d4036db296"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/NumberNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8739cac6ef8c5b332b267cb227bcf6a63332f95f",
+      "size": 3739,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8739cac6ef8c5b332b267cb227bcf6a63332f95f"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/PostfixNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97e320fa733b77c07b7f16e0cbb514f879c563af",
+      "size": 3530,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/97e320fa733b77c07b7f16e0cbb514f879c563af"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/PrefixNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5fa71a2395e03ef2204bab8796d0dfbccf3aac2d",
+      "size": 4138,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5fa71a2395e03ef2204bab8796d0dfbccf3aac2d"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/RepeatLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9ba5cf14633021102d78d81f3c1de7fca6812aa",
+      "size": 5963,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/e9ba5cf14633021102d78d81f3c1de7fca6812aa"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/ReturnNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d63833d170bbcc48bc78915863b4306c205ba7c2",
+      "size": 3951,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d63833d170bbcc48bc78915863b4306c205ba7c2"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/SimpleFunctionCallNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d7cc03b9c204c3bdd1c3304e2426e7ce452e0fdb",
+      "size": 22678,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d7cc03b9c204c3bdd1c3304e2426e7ce452e0fdb"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/SimpleVariableNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "12e540260f7e6b1f77e4e457d853a139ce97e1fe",
+      "size": 17468,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/12e540260f7e6b1f77e4e457d853a139ce97e1fe"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/StringNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42ac5cc24d5f7ef9f2fe8b4714b6e9732ca36769",
+      "size": 1533,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/42ac5cc24d5f7ef9f2fe8b4714b6e9732ca36769"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/SwitchCaseNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ca57868fa6951952bf00eef4ad14c0567f0cfd7e",
+      "size": 1881,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ca57868fa6951952bf00eef4ad14c0567f0cfd7e"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/SwitchNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88f47e3da73c55e82f5b11264aa0c20dd09d7a93",
+      "size": 9489,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/88f47e3da73c55e82f5b11264aa0c20dd09d7a93"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/ThrowNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "cf69a492fe5a790e6ba2598d444a9117f963e0f9",
+      "size": 3001,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/cf69a492fe5a790e6ba2598d444a9117f963e0f9"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/TryCatchNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "abacc1afe121471117586b0a4abc921b1230d5a7",
+      "size": 15583,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/abacc1afe121471117586b0a4abc921b1230d5a7"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/UnaryNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "17b7df90ab48c0dc4d25a5d4e47f93eae8a4fb94",
+      "size": 5943,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/17b7df90ab48c0dc4d25a5d4e47f93eae8a4fb94"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/VariableHashNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c35ecdbd061bad6df7f604a52c0f6c7dfcbef4d",
+      "size": 1615,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/0c35ecdbd061bad6df7f604a52c0f6c7dfcbef4d"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/WhileLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "950bcc7d7f8a37e44a8cba9262c6b771297af968",
+      "size": 4400,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/950bcc7d7f8a37e44a8cba9262c6b771297af968"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Nodes/WithLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "36d1b7fe3c8e5b3a85e6d141d55ab81e0929e663",
+      "size": 5741,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/36d1b7fe3c8e5b3a85e6d141d55ab81e0929e663"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Parser",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "2bbb2a219ebf95d3405736723c0ec19e135e63cf",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/2bbb2a219ebf95d3405736723c0ec19e135e63cf"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Parser/EnumDeclaration.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "42ac397621e14fdbc20cb3b581aa3ee9c8bb119f",
+      "size": 8948,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/42ac397621e14fdbc20cb3b581aa3ee9c8bb119f"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Parser/Expressions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3647f19292c4e4db8393b772bb97462756f4402b",
+      "size": 33730,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3647f19292c4e4db8393b772bb97462756f4402b"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Parser/Functions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63cf5ce924baa8d3a4f3182d58a0496009128dca",
+      "size": 2879,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/63cf5ce924baa8d3a4f3182d58a0496009128dca"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Parser/ParseContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1219cf39bd1d6209ce7c219797dcddfddf88b83b",
+      "size": 8578,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/1219cf39bd1d6209ce7c219797dcddfddf88b83b"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Parser/Statements.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1fe4121822d95cd5467af9764fd01bafc7405241",
+      "size": 10641,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/1fe4121822d95cd5467af9764fd01bafc7405241"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Parser/StaticDeclarations.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "759bcb0283067a21a10aa618746d4ca683268fcf",
+      "size": 3517,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/759bcb0283067a21a10aa618746d4ca683268fcf"
+    },
+    {
+      "path": "Underanalyzer/Compiler/Parser/TryStatementContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e0d51e67bf94868c56e42c7aedb23101ebea13a",
+      "size": 2093,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6e0d51e67bf94868c56e42c7aedb23101ebea13a"
+    },
+    {
+      "path": "Underanalyzer/Compiler/PrefixPostfixRewriteHelper.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "606a5b66190d418e4f527763dd1e0310a2af7d2f",
+      "size": 5839,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/606a5b66190d418e4f527763dd1e0310a2af7d2f"
+    },
+    {
+      "path": "Underanalyzer/Decompiler",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "829b77c575c4c383ce0e6aef648b74cd4863ffab",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/829b77c575c4c383ce0e6aef648b74cd4863ffab"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6f3acfa3ba2c41c21dc8cb0fbcad1138afc7e2ef",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/6f3acfa3ba2c41c21dc8cb0fbcad1138afc7e2ef"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/ASTBuilder.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7be89003dd8da4330be96260be61fe549b96242d",
+      "size": 9942,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7be89003dd8da4330be96260be61fe549b96242d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/ASTCleaner.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "84b44eccddf0f97af3946dacaf340d2e457d0405",
+      "size": 3635,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/84b44eccddf0f97af3946dacaf340d2e457d0405"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/ASTFragmentContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "43c25a59d501c338993cba8f4bb8eb80563dc335",
+      "size": 8542,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/43c25a59d501c338993cba8f4bb8eb80563dc335"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/ASTPrinter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "35db100acbf76291de1bebf8e2265f39e2ec3314",
+      "size": 10498,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/35db100acbf76291de1bebf8e2265f39e2ec3314"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/BlockSimulator.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7f06cd1349d5ccbcb229c31151afa418d461ada6",
+      "size": 32933,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7f06cd1349d5ccbcb229c31151afa418d461ada6"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/ElseToContinueCleanup.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6321fa8e806bda1a53b2a4933b3e7b9acff5bc9d",
+      "size": 1511,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6321fa8e806bda1a53b2a4933b3e7b9acff5bc9d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IASTNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "60e394f2810d8f45bb38509398b1a50dd57a0b9d",
+      "size": 1519,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/60e394f2810d8f45bb38509398b1a50dd57a0b9d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IBlockCleanupNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2b101cb4b07fd9ddd1b53ae84b779e09cc0d3208",
+      "size": 672,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/2b101cb4b07fd9ddd1b53ae84b779e09cc0d3208"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IConditionalValueNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "32ad7020c61c98c3c5942693474cfde7e0a65610",
+      "size": 745,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/32ad7020c61c98c3c5942693474cfde7e0a65610"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IConstantNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d27aa25f849c397a93a5053526ff3d12711bf1be",
+      "size": 495,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d27aa25f849c397a93a5053526ff3d12711bf1be"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IExpressionNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93d2092842ed7484d0025c73e981e2d690aa6b67",
+      "size": 1157,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/93d2092842ed7484d0025c73e981e2d690aa6b67"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IFragmentNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6d788776652e3f8931c489f7c439be152834506a",
+      "size": 13384,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6d788776652e3f8931c489f7c439be152834506a"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IFunctionCallNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ae6569c58b42e3117c9b2fba2e4601d1cd812155",
+      "size": 781,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ae6569c58b42e3117c9b2fba2e4601d1cd812155"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IMacroResolvableNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7c89a005caccd096c7d3f4e32663785d26d8a25b",
+      "size": 890,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7c89a005caccd096c7d3f4e32663785d26d8a25b"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IMacroTypeNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c9cc7a075462b330db46d46a4d6341f1760a1037",
+      "size": 665,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/c9cc7a075462b330db46d46a4d6341f1760a1037"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/IStatementNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a78656cca05093549588464c744c66562ca73ac9",
+      "size": 941,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a78656cca05093549588464c744c66562ca73ac9"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/LocalScope.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eeea2ceb0e07548547adf2a97608a99066fa825b",
+      "size": 8469,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/eeea2ceb0e07548547adf2a97608a99066fa825b"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "6eae75ed348314d37adb2f52cf8a9c345fa019f7",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/6eae75ed348314d37adb2f52cf8a9c345fa019f7"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/ArrayInitNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d571a266cb4c0eb8f2f16552077bd5cf7b27332",
+      "size": 2615,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3d571a266cb4c0eb8f2f16552077bd5cf7b27332"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/AssetReferenceNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8bc031556c512e73ec6f5835d0a436dedf3d467c",
+      "size": 2683,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8bc031556c512e73ec6f5835d0a436dedf3d467c"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/AssignNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "34a20dc6a4cad04b413ac643b1ad8bf3b10270c4",
+      "size": 17401,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/34a20dc6a4cad04b413ac643b1ad8bf3b10270c4"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/BinaryNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "bcffd09a8383fcef6dfa9ad5d330b023a5256eed",
+      "size": 7273,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/bcffd09a8383fcef6dfa9ad5d330b023a5256eed"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/BlockLocalVarDeclNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "393bdca930853ec7321083bdea154b8bb9ad2267",
+      "size": 1643,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/393bdca930853ec7321083bdea154b8bb9ad2267"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/BlockNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8284a2f95d5acc936238a21ff9c3e1f71eb17c04",
+      "size": 15079,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8284a2f95d5acc936238a21ff9c3e1f71eb17c04"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/BooleanNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ac0433b1b7e97f1bbb0eceb944eb3d7f09db2c6",
+      "size": 1837,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6ac0433b1b7e97f1bbb0eceb944eb3d7f09db2c6"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/BreakNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f446b138b74d9b8f3201e2b6d61144993d413e2a",
+      "size": 1225,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f446b138b74d9b8f3201e2b6d61144993d413e2a"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/ConditionalNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1a35c8ad6579e744ba83919fc967dcad9cc97f8e",
+      "size": 4074,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/1a35c8ad6579e744ba83919fc967dcad9cc97f8e"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/ContinueNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9154150ddce5621f629a9896227d6aae28befde2",
+      "size": 1234,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9154150ddce5621f629a9896227d6aae28befde2"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/DoUntilLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ccee1d34d2bad814e39a6a208bb24f37653cfd6e",
+      "size": 2809,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ccee1d34d2bad814e39a6a208bb24f37653cfd6e"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/DoubleNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "93f8a4409d2bbac104119d70de4e23d0f0474b9d",
+      "size": 4428,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/93f8a4409d2bbac104119d70de4e23d0f0474b9d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/EmptyStructNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f097cff21cfeddfb40f61ff27c2efe0821fee24",
+      "size": 2460,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5f097cff21cfeddfb40f61ff27c2efe0821fee24"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/EnumDeclNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fdd11259e8a9504d6437de057c46c20d68a448b",
+      "size": 4320,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3fdd11259e8a9504d6437de057c46c20d68a448b"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/EnumValueNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9947f60433f99783d4b8ecb6990fd936d8727b39",
+      "size": 3577,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9947f60433f99783d4b8ecb6990fd936d8727b39"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/ExitNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9bee002aaf96675ca2d76b5a6fce58740adffb47",
+      "size": 1965,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9bee002aaf96675ca2d76b5a6fce58740adffb47"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/ForLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "31653723e1d5800e0ca85e6ffed1871c8c4f09a7",
+      "size": 6883,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/31653723e1d5800e0ca85e6ffed1871c8c4f09a7"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/FunctionCallNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce022d152beee36f8ae75e8ce259e37698ae147f",
+      "size": 12351,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ce022d152beee36f8ae75e8ce259e37698ae147f"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/FunctionDeclNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ff9e557b46b72d079a3062e4a16231dbb22687eb",
+      "size": 10306,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ff9e557b46b72d079a3062e4a16231dbb22687eb"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/FunctionReferenceNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "079529d6ffa8c752053f0e1e8922f5e7cf85d3b2",
+      "size": 1935,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/079529d6ffa8c752053f0e1e8922f5e7cf85d3b2"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/IfNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3fb9148cdfb345e935b0d6800b1158377aff8f47",
+      "size": 7397,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3fb9148cdfb345e935b0d6800b1158377aff8f47"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/InstanceTypeNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7865475f55667b9d0e666c2c06d37ea13d8ade39",
+      "size": 2646,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7865475f55667b9d0e666c2c06d37ea13d8ade39"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/Int16Node.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fa91f05324cdb1aa7fbd7ff8b1368f4dc88bade",
+      "size": 2068,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8fa91f05324cdb1aa7fbd7ff8b1368f4dc88bade"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/Int32Node.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3edf2162f9f4e64aebecb11ca82834dc997d4168",
+      "size": 1830,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3edf2162f9f4e64aebecb11ca82834dc997d4168"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/Int64Node.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8f8509891e041719cf76ad46d3b9e2c9ae82f01d",
+      "size": 3820,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8f8509891e041719cf76ad46d3b9e2c9ae82f01d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/LocalVarDeclNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5f1ce72861a4ab0df0ed8e54c587a8be69860d3e",
+      "size": 1622,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5f1ce72861a4ab0df0ed8e54c587a8be69860d3e"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/MacroValueNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8fe5f82ed9766c7ef7f9d6e61384c9e1bcf42075",
+      "size": 2139,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8fe5f82ed9766c7ef7f9d6e61384c9e1bcf42075"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/NewObjectNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "739bcc983f360e5d847983866de2e8d4e8939c65",
+      "size": 5260,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/739bcc983f360e5d847983866de2e8d4e8939c65"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/NullishCoalesceNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "db4006d5db20decd986784c65c6f62fbbc10ffb1",
+      "size": 2842,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/db4006d5db20decd986784c65c6f62fbbc10ffb1"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/PredefinedDoubleNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "85b42cfff58386c9d12a25e02432e65d447e1a26",
+      "size": 2736,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/85b42cfff58386c9d12a25e02432e65d447e1a26"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/RepeatLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5a3ca4797160c134f21b328a99b7860e004e905d",
+      "size": 2535,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5a3ca4797160c134f21b328a99b7860e004e905d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/ReturnNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2c8881e1b003f61a4f12e3991477be3ca0842bb5",
+      "size": 4338,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/2c8881e1b003f61a4f12e3991477be3ca0842bb5"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/ShortCircuitNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a3a788e9b61eefd0df49ad871a340e32225599f2",
+      "size": 2885,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a3a788e9b61eefd0df49ad871a340e32225599f2"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/StaticInitNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6f4600a556126c41267a1cf8b7c55e1812f7a8b2",
+      "size": 1839,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6f4600a556126c41267a1cf8b7c55e1812f7a8b2"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/StringNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "440eb8b8845a5c8cb9f9854b1bb09c4aea66d741",
+      "size": 4087,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/440eb8b8845a5c8cb9f9854b1bb09c4aea66d741"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/StructNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f3bb293f7c903d595656d3c51caea993d19b1474",
+      "size": 4690,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f3bb293f7c903d595656d3c51caea993d19b1474"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/SwitchCaseNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ab3ef4b00cb054ee5dd365120dfb222cc307e730",
+      "size": 2472,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ab3ef4b00cb054ee5dd365120dfb222cc307e730"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/SwitchNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7274d79ec590eb71a704c9d925b3a0fe9c02145f",
+      "size": 2713,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7274d79ec590eb71a704c9d925b3a0fe9c02145f"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/TemplateStringNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "48ab2bcab3d287364241583e92154fac9c80dad6",
+      "size": 4823,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/48ab2bcab3d287364241583e92154fac9c80dad6"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/ThrowNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "779906436a0e618189b2dd7521f13c501ca4ca1b",
+      "size": 2999,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/779906436a0e618189b2dd7521f13c501ca4ca1b"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/TryCatchNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a194229ef1ce1daa12fb6bbc2e79b6ce831065a9",
+      "size": 10096,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a194229ef1ce1daa12fb6bbc2e79b6ce831065a9"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/UnaryNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ed464929e8f9f3efb0419985652011ea5843ccc7",
+      "size": 3253,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ed464929e8f9f3efb0419985652011ea5843ccc7"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/VariableCallNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "76c755eb26d39a98c6c451f22133f78c76de158f",
+      "size": 8063,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/76c755eb26d39a98c6c451f22133f78c76de158f"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/VariableHashNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b1770e7d2421dd181c9d3fbb6e25df88a45be7b5",
+      "size": 2769,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b1770e7d2421dd181c9d3fbb6e25df88a45be7b5"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/VariableNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a1672b8e28c7b36e582fcab6255e2ec43284ce93",
+      "size": 21801,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a1672b8e28c7b36e582fcab6255e2ec43284ce93"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/WhileLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6189a8193dca49236b1dcbe8a529081a48613d98",
+      "size": 5440,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6189a8193dca49236b1dcbe8a529081a48613d98"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/AST/Nodes/WithLoopNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "106fe0f4974f6c1a944bbae47db7a94ee23fa53e",
+      "size": 2783,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/106fe0f4974f6c1a944bbae47db7a94ee23fa53e"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a72a55000d0d8df2a455f0f81d8a9de3d897dbf8",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/a72a55000d0d8df2a455f0f81d8a9de3d897dbf8"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/BinaryBranch.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "65a9136cb1c9f8722d828a0e7efae57d721ac6cb",
+      "size": 12245,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/65a9136cb1c9f8722d828a0e7efae57d721ac6cb"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/Block.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "818155adc7ff3bdc42a54c32e9d8a6f10f284c7a",
+      "size": 12348,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/818155adc7ff3bdc42a54c32e9d8a6f10f284c7a"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/Branches.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5e053a06e2134241f87c91edf24e7c6e671b054",
+      "size": 16539,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a5e053a06e2134241f87c91edf24e7c6e671b054"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/BreakNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "302b6860d11e71e2bd70458de3ddfdfb92e690ff",
+      "size": 1625,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/302b6860d11e71e2bd70458de3ddfdfb92e690ff"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/ContinueNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "01ca76fa500785bbe19bbeb6641e8f464a68e48f",
+      "size": 1208,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/01ca76fa500785bbe19bbeb6641e8f464a68e48f"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/ControlFlowNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b002cd1c492335b0ab07d6b5d1242ce0c50733bb",
+      "size": 9252,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b002cd1c492335b0ab07d6b5d1242ce0c50733bb"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/DoUntilLoop.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1f7b3d431393998f13efab73bd915a1abd508bde",
+      "size": 4505,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/1f7b3d431393998f13efab73bd915a1abd508bde"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/EmptyNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "161ef362483a9df00c80347e56f6c9fb5ed473e7",
+      "size": 1258,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/161ef362483a9df00c80347e56f6c9fb5ed473e7"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/ExitNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "dd72644464984d58177dad69d55ffa814c585d5d",
+      "size": 1193,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/dd72644464984d58177dad69d55ffa814c585d5d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/Fragment.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b46c55466314ab4418c7244af8fd787fc056b490",
+      "size": 7044,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b46c55466314ab4418c7244af8fd787fc056b490"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/Loop.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6230fbef4a1d30d9e9bc1102d8962df70be4b094",
+      "size": 5946,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6230fbef4a1d30d9e9bc1102d8962df70be4b094"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/Nullish.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "968ac169c8e16c56b97b563e928827a8eb14c50b",
+      "size": 6731,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/968ac169c8e16c56b97b563e928827a8eb14c50b"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/RepeatLoop.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "89c0f90dc8973964e29f810c0f2f0732baafbc97",
+      "size": 5064,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/89c0f90dc8973964e29f810c0f2f0732baafbc97"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/ReturnNode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9891dacbcac439a37a039e45280f986ecab02ab7",
+      "size": 1250,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9891dacbcac439a37a039e45280f986ecab02ab7"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/ShortCircuit.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "88546269f261dfd4209869d06b06643b93ecf535",
+      "size": 6208,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/88546269f261dfd4209869d06b06643b93ecf535"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/StaticInit.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2ca0c41c6c6690608662e27cbdda0fe4d082aafa",
+      "size": 3602,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/2ca0c41c6c6690608662e27cbdda0fe4d082aafa"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/Switch.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7b08c1cf62661f613ad0af5c44b5b3cd322cc69f",
+      "size": 35567,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7b08c1cf62661f613ad0af5c44b5b3cd322cc69f"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/TryCatch.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "90028323279f020da7508f6f965bff7e3902d734",
+      "size": 11646,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/90028323279f020da7508f6f965bff7e3902d734"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/WhileLoop.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e2801bd730697b9248f201f52a2c78689714f001",
+      "size": 7013,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/e2801bd730697b9248f201f52a2c78689714f001"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/ControlFlow/WithLoop.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9fc92b519bf1d767fa9616966dbd75a5f2684df3",
+      "size": 7132,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9fc92b519bf1d767fa9616966dbd75a5f2684df3"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/DecompileContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3023ef63a1e6c4ea68a812ea7659f71b204d6b62",
+      "size": 6818,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3023ef63a1e6c4ea68a812ea7659f71b204d6b62"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/DecompileSettings.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6cf405c5dc6ec5a2e910f3637981f10e02f4c239",
+      "size": 10281,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6cf405c5dc6ec5a2e910f3637981f10e02f4c239"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/DecompilerException.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "747d207563df3e8fe5541142a57c54a8719b4250",
+      "size": 1303,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/747d207563df3e8fe5541142a57c54a8719b4250"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "a1f6c2faf679f757c615e78cb3ada8bbd8c4d5d4",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/a1f6c2faf679f757c615e78cb3ada8bbd8c4d5d4"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/GameSpecificRegistry.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "5d8e7560cc883b0cbee39be908da8cdfe70a8dfb",
+      "size": 4475,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/5d8e7560cc883b0cbee39be908da8cdfe70a8dfb"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/IMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4a367320c1aa18cb3e81013efea857f0927f28e9",
+      "size": 2589,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/4a367320c1aa18cb3e81013efea857f0927f28e9"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/IMacroTypeResolver.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "845a01ecde46948a7efd0d9cd1490a1a78398f1b",
+      "size": 1223,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/845a01ecde46948a7efd0d9cd1490a1a78398f1b"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "fa9522d12658f92d0deee1fddd0010eabd793390",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/fa9522d12658f92d0deee1fddd0010eabd793390"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/ArrayInitMacroTypeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ddd95dde3e47c0d9fba2e1b4843d2fefdfce2cc3",
+      "size": 1058,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ddd95dde3e47c0d9fba2e1b4843d2fefdfce2cc3"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/ConstantsMacroTypeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f998d46793f9cc5e0d28d4e75670da92fb03f864",
+      "size": 1648,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f998d46793f9cc5e0d28d4e75670da92fb03f864"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/EnumMacroTypeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6037ac8aedadd8f82d67d17587ce7a39b8ca7eaf",
+      "size": 3012,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6037ac8aedadd8f82d67d17587ce7a39b8ca7eaf"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/GameSpecificRegistryConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1c33302a730cb53488e76865ee787e7a382e9177",
+      "size": 7178,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/1c33302a730cb53488e76865ee787e7a382e9177"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/IMacroTypeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "388313bca640f632a50fe976d5192fd53af1a872",
+      "size": 3716,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/388313bca640f632a50fe976d5192fd53af1a872"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/IntersectMacroTypeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "af47cec13f000b6e63cca6ca06f027c0a6864b99",
+      "size": 1482,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/af47cec13f000b6e63cca6ca06f027c0a6864b99"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/MatchMacroTypeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "397433c75fea79560833d8833d077b2ad6e31264",
+      "size": 2314,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/397433c75fea79560833d8833d077b2ad6e31264"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/NameMacroTypeResolverConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "27de23817abe9f08bbdd418f05b9dd1a222486ea",
+      "size": 2787,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/27de23817abe9f08bbdd418f05b9dd1a222486ea"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/NamedArgumentResolverConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ac9610fe4f5951eb218972ade8f265565ad2ecfe",
+      "size": 1747,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ac9610fe4f5951eb218972ade8f265565ad2ecfe"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/NotMatchMacroTypeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "000cf8a049f540a11ea72477fcf059d685e08b30",
+      "size": 2412,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/000cf8a049f540a11ea72477fcf059d685e08b30"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Json/UnionMacroTypeConverter.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "14b4ca49341875fb31aae662ba860d65e308608e",
+      "size": 1470,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/14b4ca49341875fb31aae662ba860d65e308608e"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "cc5cbe2ef4854ae180b0cfb8764344a0a856794b",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/cc5cbe2ef4854ae180b0cfb8764344a0a856794b"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/ArrayInitMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "97d3ae80eff68c784fecd6a9ed0554c7cefe7676",
+      "size": 1384,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/97d3ae80eff68c784fecd6a9ed0554c7cefe7676"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/AssetMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6e7e50c54d6dfd84b19aecfeccbe6205c85aba99",
+      "size": 1224,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6e7e50c54d6dfd84b19aecfeccbe6205c85aba99"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/BooleanMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "00cd5ac16a03c476edc661446f2d304186e892f0",
+      "size": 941,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/00cd5ac16a03c476edc661446f2d304186e892f0"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/ColorMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f6468b3b62bbc3756fdf4520ad88e9e4a2bcedaa",
+      "size": 2277,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f6468b3b62bbc3756fdf4520ad88e9e4a2bcedaa"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/ConditionalMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9f04c6c9d911649abc2d2693a4099bebfb771e4e",
+      "size": 6334,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9f04c6c9d911649abc2d2693a4099bebfb771e4e"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/ConstantsMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "1560687ebf47cb7b097cb4dadc9f57583a6e0e69",
+      "size": 1934,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/1560687ebf47cb7b097cb4dadc9f57583a6e0e69"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/EnumMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "590d90613267f2363c19bceb8c60925f9431f95e",
+      "size": 2318,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/590d90613267f2363c19bceb8c60925f9431f95e"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/FunctionArgsMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7924712153da406a6e89e982fa79b9f531971f7",
+      "size": 2822,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f7924712153da406a6e89e982fa79b9f531971f7"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/InstanceMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f5b2d46e93b4f55974d32fde89ea98462b44630a",
+      "size": 1661,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f5b2d46e93b4f55974d32fde89ea98462b44630a"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/IntersectMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b9f2cd9b18e63c3978fba84e858f3b3cb7abfcdb",
+      "size": 3592,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b9f2cd9b18e63c3978fba84e858f3b3cb7abfcdb"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/MatchMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "eebf3de210ed3c5dff9473b4a7df0f671caa503a",
+      "size": 1232,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/eebf3de210ed3c5dff9473b4a7df0f671caa503a"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/MatchNotMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9285c8eff6cb587eabae7fd2d626e4177148e4ad",
+      "size": 1259,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9285c8eff6cb587eabae7fd2d626e4177148e4ad"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/NoneMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a5d8fcd533a730bd3324ace00e22f03c2d79227d",
+      "size": 1230,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a5d8fcd533a730bd3324ace00e22f03c2d79227d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/UnionMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3cd54a8efd29833ac7dbec50d3a4fb0ac126b9b2",
+      "size": 3490,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3cd54a8efd29833ac7dbec50d3a4fb0ac126b9b2"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/MacroTypes/VirtualKeyMacroType.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ea1eadb1823857f04d1a8d32991f99d4c5dec258",
+      "size": 2662,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ea1eadb1823857f04d1a8d32991f99d4c5dec258"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Resolvers",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "f58cbcc97bbbb328b8db1c14ddb8508f22b5612d",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/f58cbcc97bbbb328b8db1c14ddb8508f22b5612d"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Resolvers/GlobalMacroTypeResolver.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7519782d7e181cd404fd36731d2718c35a277628",
+      "size": 3006,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7519782d7e181cd404fd36731d2718c35a277628"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Resolvers/NameMacroTypeResolver.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fafaf23bbaf447fd879c8748e64c8b705e6444e5",
+      "size": 2877,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/fafaf23bbaf447fd879c8748e64c8b705e6444e5"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GameSpecific/Resolvers/NamedArgumentResolver.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4d8e768bbbfca10d862e24596bdf900f9fe6a236",
+      "size": 1415,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/4d8e768bbbfca10d862e24596bdf900f9fe6a236"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/GlobalFunctions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8690631c35adaa7fa4afb8a5d2b438d4bc0f2a1f",
+      "size": 12654,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8690631c35adaa7fa4afb8a5d2b438d4bc0f2a1f"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/IDecompileWarning.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3eedf921dfaaba2c6a2fd66d30be981870f2663a",
+      "size": 649,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3eedf921dfaaba2c6a2fd66d30be981870f2663a"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/Warnings",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "c3f48745750443464191d3e29bd4bb166ccfa716",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/c3f48745750443464191d3e29bd4bb166ccfa716"
+    },
+    {
+      "path": "Underanalyzer/Decompiler/Warnings/DecompileDataLeftoverWarning.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "56a9c354c4c0e138cdfbb0e4df38598443e29930",
+      "size": 898,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/56a9c354c4c0e138cdfbb0e4df38598443e29930"
+    },
+    {
+      "path": "Underanalyzer/GMEnum.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d92e61c72a357dfc9769cbe8519082d41e29cf92",
+      "size": 5223,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d92e61c72a357dfc9769cbe8519082d41e29cf92"
+    },
+    {
+      "path": "Underanalyzer/IGameContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6145dc3fbb48a956200b72dfd7c2b2c4c0ea85ac",
+      "size": 16971,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6145dc3fbb48a956200b72dfd7c2b2c4c0ea85ac"
+    },
+    {
+      "path": "Underanalyzer/IsExternalInit.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "4351fad112e0cb5fb448e01ecaaf2ddb679464e2",
+      "size": 88,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/4351fad112e0cb5fb448e01ecaaf2ddb679464e2"
+    },
+    {
+      "path": "Underanalyzer/Mock",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "0602e3c0305da52fd9dc019ef69519254e346ead",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/0602e3c0305da52fd9dc019ef69519254e346ead"
+    },
+    {
+      "path": "Underanalyzer/Mock/BuiltinsMock.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "7737094acfffe55881377e152217633d9e7203fb",
+      "size": 4568,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/7737094acfffe55881377e152217633d9e7203fb"
+    },
+    {
+      "path": "Underanalyzer/Mock/CodeBuilderMock.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3d69b0556db36c98d75a08dabef50e4a44a48308",
+      "size": 12154,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3d69b0556db36c98d75a08dabef50e4a44a48308"
+    },
+    {
+      "path": "Underanalyzer/Mock/GameContextMock.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "665d1d021bdc354aa0e19c7c250280796eafbb28",
+      "size": 8116,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/665d1d021bdc354aa0e19c7c250280796eafbb28"
+    },
+    {
+      "path": "Underanalyzer/Mock/VMAssemblyMock.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "67f790122f7e972b5a87a45b96842fd0071c8b44",
+      "size": 28039,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/67f790122f7e972b5a87a45b96842fd0071c8b44"
+    },
+    {
+      "path": "Underanalyzer/Mock/VMDataMock.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "fd9d4b6cb1a1b4016b085ae18f3a275b4b98ad36",
+      "size": 7682,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/fd9d4b6cb1a1b4016b085ae18f3a275b4b98ad36"
+    },
+    {
+      "path": "Underanalyzer/Underanalyzer.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b0267c14c9a621e9091c5df66063957a35e4a42d",
+      "size": 517,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b0267c14c9a621e9091c5df66063957a35e4a42d"
+    },
+    {
+      "path": "Underanalyzer/VMConstants.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "41d6603ffc9bb2e1c4592f67e9dd79cdeda69365",
+      "size": 4754,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/41d6603ffc9bb2e1c4592f67e9dd79cdeda69365"
+    },
+    {
+      "path": "Underanalyzer/VMData.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d5030622cab73197f2b5cc0e0be09127eb267201",
+      "size": 28598,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d5030622cab73197f2b5cc0e0be09127eb267201"
+    },
+    {
+      "path": "Underanalyzer/VMDataTypeExtensions.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f7fc70e31dc1375a5698c7045bc44aef5d393231",
+      "size": 2584,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f7fc70e31dc1375a5698c7045bc44aef5d393231"
+    },
+    {
+      "path": "UnderanalyzerTest",
+      "mode": "040000",
+      "type": "tree",
+      "sha": "ce1be68279588d243bbce5eda9656d72f181aba5",
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/trees/ce1be68279588d243bbce5eda9656d72f181aba5"
+    },
+    {
+      "path": "UnderanalyzerTest/BinaryBranch.FindBinaryBranches.Loops.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "752ace5fdb48fb14a2bd0d317a3c6688f4625fa7",
+      "size": 44464,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/752ace5fdb48fb14a2bd0d317a3c6688f4625fa7"
+    },
+    {
+      "path": "UnderanalyzerTest/BinaryBranch.FindBinaryBranches.Switch.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "21a71597bd25e4be85420d8a68b65c86521632b4",
+      "size": 16187,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/21a71597bd25e4be85420d8a68b65c86521632b4"
+    },
+    {
+      "path": "UnderanalyzerTest/BinaryBranch.FindBinaryBranches.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "3f438f94101689639adb4bdcf94edebbbf0169f7",
+      "size": 28884,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/3f438f94101689639adb4bdcf94edebbbf0169f7"
+    },
+    {
+      "path": "UnderanalyzerTest/Block.FindBlocks.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "f94a62d976d7ed88c242b98a6d445492d8e6f2de",
+      "size": 13382,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/f94a62d976d7ed88c242b98a6d445492d8e6f2de"
+    },
+    {
+      "path": "UnderanalyzerTest/BytecodeContext.GenerateCode.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a346d60447eb4d1e10c132b1d35dfa76ae219a4f",
+      "size": 188951,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a346d60447eb4d1e10c132b1d35dfa76ae219a4f"
+    },
+    {
+      "path": "UnderanalyzerTest/DecompileContext.DecompileToString.GameContext.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "8c7094b27f2902a74eacaedc14c64aae1897882f",
+      "size": 2205,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/8c7094b27f2902a74eacaedc14c64aae1897882f"
+    },
+    {
+      "path": "UnderanalyzerTest/DecompileContext.DecompileToString.Locals.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "63e76d14878acf22d75ad924047a7413efcac9a5",
+      "size": 33075,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/63e76d14878acf22d75ad924047a7413efcac9a5"
+    },
+    {
+      "path": "UnderanalyzerTest/DecompileContext.DecompileToString.Macros.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d3982c01eadd293c3e0242aa45d26c4ca0e862fd",
+      "size": 18637,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d3982c01eadd293c3e0242aa45d26c4ca0e862fd"
+    },
+    {
+      "path": "UnderanalyzerTest/DecompileContext.DecompileToString.Settings.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ecb9aa106002618541a8cf96ad2f31c30de9a2dc",
+      "size": 25666,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ecb9aa106002618541a8cf96ad2f31c30de9a2dc"
+    },
+    {
+      "path": "UnderanalyzerTest/DecompileContext.DecompileToString.SwitchContinue.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "78063baaaab6726b5879cd1e3dd87a73f96d1105",
+      "size": 13030,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/78063baaaab6726b5879cd1e3dd87a73f96d1105"
+    },
+    {
+      "path": "UnderanalyzerTest/DecompileContext.DecompileToString.Try.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "6ed7e34ba587ac6d4486784a0183e730c4bc8d63",
+      "size": 5883,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/6ed7e34ba587ac6d4486784a0183e730c4bc8d63"
+    },
+    {
+      "path": "UnderanalyzerTest/DecompileContext.DecompileToString.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0c633f2f9591e96cf0ed0e5f6f639126140ba87b",
+      "size": 74610,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/0c633f2f9591e96cf0ed0e5f6f639126140ba87b"
+    },
+    {
+      "path": "UnderanalyzerTest/Fragment.FindFragments.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d01aaf657afe80808e2a5195b069b8eac176ea05",
+      "size": 5085,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d01aaf657afe80808e2a5195b069b8eac176ea05"
+    },
+    {
+      "path": "UnderanalyzerTest/LexContext.Tokenize.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "b95b20125f5fb7555f708647ca2360f265fe6dd6",
+      "size": 21828,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/b95b20125f5fb7555f708647ca2360f265fe6dd6"
+    },
+    {
+      "path": "UnderanalyzerTest/Loop.FindLoops.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "d74e86cf008c8743bda392c85cc09c97b93a350b",
+      "size": 36473,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/d74e86cf008c8743bda392c85cc09c97b93a350b"
+    },
+    {
+      "path": "UnderanalyzerTest/Nullish.FindNullish.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "9a34ffeb3b72c3030ef7c1ca9ef781bc4bd21507",
+      "size": 9949,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/9a34ffeb3b72c3030ef7c1ca9ef781bc4bd21507"
+    },
+    {
+      "path": "UnderanalyzerTest/ParseContext.Parse.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a05a02159b6e246fc98e5bc6654be266b352fd0b",
+      "size": 51306,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a05a02159b6e246fc98e5bc6654be266b352fd0b"
+    },
+    {
+      "path": "UnderanalyzerTest/ParseContext.ParseAndPostProcess.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "ce15d31b6326bc97472d96ae5f7aba1973c00ce4",
+      "size": 9154,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/ce15d31b6326bc97472d96ae5f7aba1973c00ce4"
+    },
+    {
+      "path": "UnderanalyzerTest/RoundTrip.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "13887e67fa3f8867ddbe4b582ad0fa12851a37a2",
+      "size": 114980,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/13887e67fa3f8867ddbe4b582ad0fa12851a37a2"
+    },
+    {
+      "path": "UnderanalyzerTest/ShortCircuit.FindShortCircuits.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "a7cc3a32a77c0e9fc3439e34e5c5885624fc0875",
+      "size": 14759,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/a7cc3a32a77c0e9fc3439e34e5c5885624fc0875"
+    },
+    {
+      "path": "UnderanalyzerTest/StaticInit.FindStaticInits.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "46aaacd24ab1261116738b1eb426fa672670bb2b",
+      "size": 3389,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/46aaacd24ab1261116738b1eb426fa672670bb2b"
+    },
+    {
+      "path": "UnderanalyzerTest/Switch.InsertSwitchStatements.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "c0a845d9181b79f5dbfebed40f531a89a93739ed",
+      "size": 82477,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/c0a845d9181b79f5dbfebed40f531a89a93739ed"
+    },
+    {
+      "path": "UnderanalyzerTest/TestCompileErrorException.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "30c31ed6894d6899cdc10e1eb2e0fe9d0ebef0d0",
+      "size": 1307,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/30c31ed6894d6899cdc10e1eb2e0fe9d0ebef0d0"
+    },
+    {
+      "path": "UnderanalyzerTest/TestUtil.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "e9b72f57cfa2818eb0c06e827f54303418dadd2b",
+      "size": 18205,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/e9b72f57cfa2818eb0c06e827f54303418dadd2b"
+    },
+    {
+      "path": "UnderanalyzerTest/TryCatch.FindTryCatch.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "87ad91577431bfcc9152b01734645f70f965a7be",
+      "size": 8089,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/87ad91577431bfcc9152b01734645f70f965a7be"
+    },
+    {
+      "path": "UnderanalyzerTest/UnderanalyzerTest.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2208c78dca5d4725dfcdf37b11ad7ec542242f5a",
+      "size": 1086,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/2208c78dca5d4725dfcdf37b11ad7ec542242f5a"
+    },
+    {
+      "path": "UnderanalyzerTest/VMAssembly.ParseAssemblyFromLines.cs",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "0037b23e6402fbd1d202bf68614783a8235d4ca2",
+      "size": 7177,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/0037b23e6402fbd1d202bf68614783a8235d4ca2"
+    },
+    {
+      "path": "UnderanalyzerTests.csproj",
+      "mode": "100644",
+      "type": "blob",
+      "sha": "2150e3797ba5eba3218d8435d31f8a8e2cc83c4c",
+      "size": 242,
+      "url": "https://api.github.com/repos/UnderminersTeam/Underanalyzer/git/blobs/2150e3797ba5eba3218d8435d31f8a8e2cc83c4c"
+    }
+  ],
+  "truncated": false
+}

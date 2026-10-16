@@ -1,0 +1,12 @@
+Trying to load file: 'D:\Steam\steamapps\common\Dead Estate\_loc_work\汉化补丁\backup_original\data.win'
+Microsoft.CodeAnalysis.Scripting.CompilationErrorException: D:\Steam\steamapps\common\Dead Estate\_loc_work\scripts\DumpFontFields.csx(9,48): error CS1061: 'UndertaleFont' does not contain a definition for 'Ascent' and no accessible extension method 'Ascent' accepting a first argument of type 'UndertaleFont' could be found (are you missing a using directive or an assembly reference?)
+   at Microsoft.CodeAnalysis.Scripting.ScriptBuilder.ThrowIfAnyCompilationErrors(DiagnosticBag diagnostics, DiagnosticFormatter formatter)
+   at Microsoft.CodeAnalysis.Scripting.ScriptBuilder.CreateExecutor[T](ScriptCompiler compiler, Compilation compilation, Boolean emitDebugInformation, CancellationToken cancellationToken)
+   at Microsoft.CodeAnalysis.Scripting.Script`1.GetExecutor(CancellationToken cancellationToken)
+   at Microsoft.CodeAnalysis.Scripting.Script`1.RunAsync(Object globals, Func`2 catchException, CancellationToken cancellationToken)
+   at Microsoft.CodeAnalysis.Scripting.Script`1.RunAsync(Object globals, CancellationToken cancellationToken)
+   at Microsoft.CodeAnalysis.CSharp.Scripting.CSharpScript.RunAsync[T](String code, ScriptOptions options, Object globals, Type globalsType, CancellationToken cancellationToken)
+   at Microsoft.CodeAnalysis.CSharp.Scripting.CSharpScript.EvaluateAsync[T](String code, ScriptOptions options, Object globals, Type globalsType, CancellationToken cancellationToken)
+   at Microsoft.CodeAnalysis.CSharp.Scripting.CSharpScript.EvaluateAsync(String code, ScriptOptions options, Object globals, Type globalsType, CancellationToken cancellationToken)
+   at UndertaleModCli.Program.RunCSharpCode(String code, String scriptFile) in D:\a\UndertaleModTool\UndertaleModTool\UndertaleModCli\Program.cs:line 1212
+Script execution failed: D:\Steam\steamapps\common\Dead Estate\_loc_work\scripts\DumpFontFields.csx

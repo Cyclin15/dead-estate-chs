@@ -1,0 +1,70 @@
+fnt_gm_15	texture=item(src=2859,5404 512x256 tgt=512x256 bounds=512x256) page=8192x8192	glyphs=191	range=32..255
+    used extent: 509x135  maxGlyph=19x25  maxShift=20
+fnt_gm_20	texture=item(src=7009,1327 256x256 tgt=256x256 bounds=256x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 253x198  maxGlyph=26x31  maxShift=27
+fnt_gm_30	texture=item(src=4968,6162 512x256 tgt=512x256 bounds=512x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 508x192  maxGlyph=38x46  maxShift=41
+fntCryptic	texture=item(src=3087,1928 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 253x84  maxGlyph=15x19  maxShift=15
+fntGameFont	texture=item(src=2943,6392 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 248x88  maxGlyph=15x20  maxShift=16
+fntGameFontBigger	texture=item(src=7838,1170 256x256 tgt=256x256 bounds=256x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 252x175  maxGlyph=22x33  maxShift=26
+fntGameFontBiggerBold	texture=item(src=7269,1454 256x256 tgt=256x256 bounds=256x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 253x175  maxGlyph=23x33  maxShift=26
+fntGameFontBiggerBoldItalics	texture=item(src=7838,1430 256x256 tgt=256x256 bounds=256x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 253x210  maxGlyph=23x33  maxShift=26
+fntGameFontBiggerItalics	texture=item(src=7269,1454 256x256 tgt=256x256 bounds=256x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 253x175  maxGlyph=23x33  maxShift=26
+fntGameFontBiggest	texture=item(src=6118,7258 512x512 tgt=512x512 bounds=512x512) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 500x325  maxGlyph=43x63  maxShift=50
+fntGameFontBiggestBold	texture=item(src=6915,4592 512x512 tgt=512x512 bounds=512x512) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 503x325  maxGlyph=45x63  maxShift=50
+fntGameFontBiggestBoldItalics	texture=item(src=7431,4592 512x512 tgt=512x512 bounds=512x512) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 502x390  maxGlyph=45x63  maxShift=50
+fntGameFontBiggestItalics	texture=item(src=6915,5108 512x512 tgt=512x512 bounds=512x512) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 509x325  maxGlyph=43x63  maxShift=50
+fntGameFontBold	texture=item(src=2943,6392 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 248x88  maxGlyph=15x20  maxShift=16
+fntGameFontBoldItalics	texture=item(src=3445,1766 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 247x88  maxGlyph=15x20  maxShift=16
+fntGameFontItalics	texture=item(src=3445,1766 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 247x88  maxGlyph=15x20  maxShift=16
+fntGameFontItalicsBigger	texture=item(src=7838,1430 256x256 tgt=256x256 bounds=256x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 253x210  maxGlyph=23x33  maxShift=26
+fntGameFontNormal	texture=item(src=3033,5252 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 251x66  maxGlyph=12x20  maxShift=16
+fntGameFontNormalBold	texture=item(src=2943,6392 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 248x88  maxGlyph=15x20  maxShift=16
+fntGameFontNormalBoldItalics	texture=item(src=3445,1766 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 247x88  maxGlyph=15x20  maxShift=16
+fntGameFontNormalItalics	texture=item(src=7138,4192 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 251x88  maxGlyph=13x20  maxShift=16
+fntSmall	texture=item(src=8058,2411 128x128 tgt=128x128 bounds=128x128) page=8192x8192	glyphs=98	range=32..9734
+    used extent: 124x108  maxGlyph=11x16  maxShift=13
+fntSmallBold	texture=item(src=8058,2543 128x128 tgt=128x128 bounds=128x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 124x108  maxGlyph=12x16  maxShift=13
+fntSmallBoldItalics	texture=item(src=6779,5010 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 247x72  maxGlyph=12x16  maxShift=13
+fntSmaller	texture=item(src=8058,2675 128x128 tgt=128x128 bounds=128x128) page=8192x8192	glyphs=98	range=32..9734
+    used extent: 125x75  maxGlyph=9x13  maxShift=11
+fntSmallerBold	texture=item(src=8058,2807 128x128 tgt=128x128 bounds=128x128) page=8192x8192	glyphs=98	range=32..9734
+    used extent: 124x90  maxGlyph=10x13  maxShift=11
+fntSmallerBoldItalics	texture=item(src=6406,4112 128x128 tgt=128x128 bounds=128x128) page=8192x8192	glyphs=98	range=32..9734
+    used extent: 125x90  maxGlyph=10x13  maxShift=11
+fntSmallerItalics	texture=item(src=7673,7631 128x128 tgt=128x128 bounds=128x128) page=8192x8192	glyphs=98	range=32..9734
+    used extent: 124x90  maxGlyph=9x13  maxShift=11
+fntSmallItalics	texture=item(src=7847,7240 256x128 tgt=256x128 bounds=256x128) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 253x54  maxGlyph=11x16  maxShift=13
+fntTiny	texture=item(src=5683,3033 128x64 tgt=128x64 bounds=128x64) page=8192x8192	glyphs=97	range=32..9647
+    used extent: 124x36  maxGlyph=6x7  maxShift=7
+fntWeirdo	texture=item(src=7529,1466 256x256 tgt=256x256 bounds=256x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 252x135  maxGlyph=13x25  maxShift=20
+Font_YoYo_20	texture=item(src=6624,1568 256x256 tgt=256x256 bounds=256x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 253x198  maxGlyph=26x31  maxShift=27
+Font_YoYo_30	texture=item(src=6118,7774 512x256 tgt=512x256 bounds=512x256) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 508x192  maxGlyph=38x46  maxShift=41
+Font_YoYo_50	texture=item(src=1976,3940 1024x512 tgt=1024x512 bounds=1024x512) page=8192x8192	glyphs=96	range=32..9647
+    used extent: 1018x316  maxGlyph=63x77  maxShift=68
+
+distinct font texture pages: 2

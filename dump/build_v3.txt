@@ -1,0 +1,23 @@
+strings reset to pristine: 30154/30154
+strings replaced: 4910/4910
+fonts: 34 rebuilt, 73035 CJK glyphs
+new font fntAnyaFancyCN: index 34, 2199 glyphs (55 latin), texture 4096x256
+new font fntAnyaTypewriterCN: index 35, 2230 glyphs (86 latin), texture 4096x128
+call site [6008] word 9347 sprite pushref 16777897
+call site [6017] word 9360 sprite pushref 16778228
+call site [6036] word 9390 sprite pushref 16779542
+branch audit: 0 crossings over edits [9338,9349) [9351,9362)
+new bytecode: 6119 instrs, 9522 words (38088 bytes; old 38088)
+child gml_Script_anon@62195@gml_Object_game_Create_0: Offset 37640 -> 37568
+patched gml_Object_game_Create_0: 6133 -> 6119 instrs (38088 bytes), pushref fonts 100663330/100663331, children fixed: 9
+  pop.v.b builtin.lockCursor
+  pushref.i 100663330
+  pop.v.v global.fntAnyaFancy
+  pushref.i 100663331
+  pop.v.v global.fntAnyaTypewriter
+  pushi.e 0
+  pop.v.i builtin.storeWindowMouseX
+  pushi.e 0
+  pop.v.i builtin.storeWindowMouseY
+breakString fix: recompiled gml_GlobalScript_scrStrings (24964 bytes, 62 children)
+wrote D:\Steam\steamapps\common\Dead Estate\_loc_work\out\data_v3f.win (104222396 bytes)

@@ -1,0 +1,4 @@
+string slot 785: '' -> '死亡庄园：汉化测试——简体中文'  (len=15)
+font fnt_gm_15: RangeStart=32 RangeEnd=255 glyphs=191
+  added glyphs U+6B7B, U+4EA1; glyph count now 193
+saved: D:\Steam\steamapps\common\Dead Estate\_loc_work\dump\cjk_roundtrip.win (76636684 bytes)

@@ -1,0 +1,53 @@
+file: D:\Steam\steamapps\common\Dead Estate\_loc_work\out\data.win (100702124 bytes)
+strings: 30154  fonts: 34  textures: 144
+  string contains "死亡庄园": True
+  string contains "安雅": True
+  string contains "道具": True
+  string contains "武器": True
+
+font CJK coverage:
+  fnt_gm_15                        glyphs= 2299 cjk= 2204 atlas=8192x341
+  fnt_gm_20                        glyphs= 2204 cjk= 2109 atlas=8192x388
+  fnt_gm_30                        glyphs= 2204 cjk= 2109 atlas=8192x544
+  fntCryptic                       glyphs= 2204 cjk= 2109 atlas=8192x184
+  fntGameFont                      glyphs= 2204 cjk= 2109 atlas=8192x192
+  fntGameFontBigger                glyphs= 2204 cjk= 2109 atlas=8192x388
+  fntGameFontBiggerBold            glyphs= 2204 cjk= 2109 atlas=8192x394
+  fntGameFontBiggerBoldItalics     glyphs= 2204 cjk= 2109 atlas=8192x394
+  fntGameFontBiggerItalics         glyphs= 2204 cjk= 2109 atlas=8192x394
+  fntGameFontBiggest               glyphs= 2204 cjk= 2109 atlas=8192x1004
+  fntGameFontBiggestBold           glyphs= 2204 cjk= 2109 atlas=8192x1004
+  fntGameFontBiggestBoldItalics    glyphs= 2204 cjk= 2109 atlas=8192x1004
+  fntGameFontBiggestItalics        glyphs= 2204 cjk= 2109 atlas=8192x1004
+  fntGameFontBold                  glyphs= 2204 cjk= 2109 atlas=8192x192
+  fntGameFontBoldItalics           glyphs= 2204 cjk= 2109 atlas=8192x192
+  fntGameFontItalics               glyphs= 2204 cjk= 2109 atlas=8192x192
+  fntGameFontItalicsBigger         glyphs= 2204 cjk= 2109 atlas=8192x394
+  fntGameFontNormal                glyphs= 2204 cjk= 2109 atlas=8192x184
+  fntGameFontNormalBold            glyphs= 2204 cjk= 2109 atlas=8192x192
+  fntGameFontNormalBoldItalics     glyphs= 2204 cjk= 2109 atlas=8192x192
+  fntGameFontNormalItalics         glyphs= 2204 cjk= 2109 atlas=8192x184
+  fntSmall                         glyphs= 2206 cjk= 2111 atlas=8192x180
+  fntSmallBold                     glyphs= 2204 cjk= 2109 atlas=8192x180
+  fntSmallBoldItalics              glyphs= 2204 cjk= 2109 atlas=8192x180
+  fntSmaller                       glyphs= 2206 cjk= 2111 atlas=8192x158
+  fntSmallerBold                   glyphs= 2206 cjk= 2111 atlas=8192x158
+  fntSmallerBoldItalics            glyphs= 2206 cjk= 2111 atlas=8192x158
+  fntSmallerItalics                glyphs= 2206 cjk= 2111 atlas=8192x158
+  fntSmallItalics                  glyphs= 2204 cjk= 2109 atlas=8192x180
+  fntTiny                          glyphs= 2205 cjk= 2109 atlas=8192x78
+  fntWeirdo                        glyphs= 2204 cjk= 2109 atlas=8192x346
+  Font_YoYo_20                     glyphs= 2204 cjk= 2109 atlas=8192x388
+  Font_YoYo_30                     glyphs= 2204 cjk= 2109 atlas=8192x544
+  Font_YoYo_50                     glyphs= 2204 cjk= 2109 atlas=8192x1277
+total CJK glyph mappings: 71811
+
+sample glyph lookups (fntGameFontNormal):
+  '死' U+6B7B -> src=(7154,142) 12x11 shift=12
+  '亡' U+4EA1 -> src=(1036,128) 12x11 shift=12
+  '庄' U+5E84 -> src=(1246,142) 12x11 shift=12
+  '园' U+56ED -> src=(6342,128) 12x10 shift=12
+  '安' U+5B89 -> src=(7952,128) 12x11 shift=12
+  '雅' U+96C5 -> src=(3290,170) 12x11 shift=12
+  '武' U+6B66 -> src=(7140,142) 12x11 shift=12
+  '器' U+5668 -> src=(6188,128) 12x10 shift=12

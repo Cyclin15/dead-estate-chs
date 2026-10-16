@@ -1,0 +1,23 @@
+
+Required command was not provided.
+Unrecognized command or argument 'ºº»¯²¹¶¡\backup_original\data.win'.
+Unrecognized command or argument 'scripts\DumpGen8.csx'.
+
+Description:
+  CLI tool for modding, decompiling and unpacking Undertale (and other GameMaker games)!
+
+Usage:
+  UndertaleModCli [command] [options]
+
+Options:
+  -?, -h, --help  Show help and usage information
+  --version       Show version information
+
+Commands:
+  new                 Generates a blank data file
+  load <datafile>     Load a data file and perform actions on it
+  info <datafile>     Show basic info about the game data file
+  dump <datafile>     Dump certain properties about the game data file
+  replace <datafile>  Replace certain properties in the game data file
+  project             Subcommands that deal with projects
+

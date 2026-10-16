@@ -1,0 +1,107 @@
+== UndertaleModLib.Models.UndertaleSprite
+   prop UndertaleString Name { get=True set=True }
+   prop UInt32 Width { get=True set=True }
+   prop UInt32 Height { get=True set=True }
+   prop Int32 MarginLeft { get=True set=True }
+   prop Int32 MarginRight { get=True set=True }
+   prop Int32 MarginBottom { get=True set=True }
+   prop Int32 MarginTop { get=True set=True }
+   prop Boolean Transparent { get=True set=True }
+   prop Boolean Smooth { get=True set=True }
+   prop Boolean Preload { get=True set=True }
+   prop UInt32 BBoxMode { get=True set=True }
+   prop SepMaskType SepMasks { get=True set=True }
+   prop Int32 OriginX { get=True set=True }
+   prop Int32 OriginY { get=True set=True }
+   prop Int32 OriginXWrapper { get=True set=True }
+   prop Int32 OriginYWrapper { get=True set=True }
+   prop UndertaleSimpleList`1 Textures { get=True set=True }
+   prop ObservableCollection`1 CollisionMasks { get=True set=True }
+   prop UInt32 SVersion { get=True set=True }
+   prop SpriteType SSpriteType { get=True set=True }
+   prop Single GMS2PlaybackSpeed { get=True set=True }
+   prop AnimSpeedType GMS2PlaybackSpeedType { get=True set=True }
+   prop Boolean IsSpecialType { get=True set=True }
+   prop Int32 SpineVersion { get=True set=True }
+   prop Int32 SpineCacheVersion { get=True set=True }
+   prop String SpineJSON { get=True set=True }
+   prop String SpineAtlas { get=True set=True }
+   prop UndertaleSimpleList`1 SpineTextures { get=True set=True }
+   prop Boolean IsSpineSprite { get=True set=False }
+   prop Boolean SpineHasTextureData { get=True set=True }
+   prop Boolean IsYYSWFSprite { get=True set=False }
+   prop Int32 SWFVersion { get=True set=True }
+   prop UndertaleYYSWF YYSWF { get=True set=True }
+   prop Int32 VectorVersion { get=True set=True }
+   prop UndertaleObservableList`1 VectorShapes { get=True set=True }
+   prop Int32 VectorCollisionMaskWidth { get=True set=True }
+   prop Int32 VectorCollisionMaskHeight { get=True set=True }
+   prop UndertaleObservableList`1 VectorCollisionMaskRLEData { get=True set=True }
+   prop UndertaleObservableList`1 VectorFrameToShapeMap { get=True set=True }
+   prop String ProjectName { get=True set=False }
+   prop SerializableAssetType ProjectAssetType { get=True set=False }
+   prop Boolean ProjectExportable { get=True set=False }
+   field UndertaleSequence V2Sequence
+   field NineSlice V3NineSlice
+== UndertaleModLib.Models.UndertaleSprite+TextureEntry
+   prop UndertaleTexturePageItem Texture { get=True set=True }
+== UndertaleModLib.Models.UndertaleTexturePageItem
+   prop UndertaleString Name { get=True set=True }
+   prop UInt16 SourceX { get=True set=True }
+   prop UInt16 SourceY { get=True set=True }
+   prop UInt16 SourceWidth { get=True set=True }
+   prop UInt16 SourceHeight { get=True set=True }
+   prop UInt16 TargetX { get=True set=True }
+   prop UInt16 TargetY { get=True set=True }
+   prop UInt16 TargetWidth { get=True set=True }
+   prop UInt16 TargetHeight { get=True set=True }
+   prop UInt16 BoundingWidth { get=True set=True }
+   prop UInt16 BoundingHeight { get=True set=True }
+   prop UndertaleEmbeddedTexture TexturePage { get=True set=True }
+== UndertaleModLib.Models.UndertaleEmbeddedTexture
+   prop UndertaleString Name { get=True set=True }
+   prop UInt32 Scaled { get=True set=True }
+   prop UInt32 GeneratedMips { get=True set=True }
+   prop TexData TextureData { get=True set=True }
+   prop Boolean TextureExternal { get=True set=True }
+   prop Boolean TextureLoaded { get=True set=True }
+   prop Int32 TextureWidth { get=True set=True }
+   prop Int32 TextureHeight { get=True set=True }
+   prop Int32 IndexInGroup { get=True set=True }
+   prop UndertaleTextureGroupInfo TextureInfo { get=True set=True }
+== UndertaleModLib.Models.UndertaleFont
+   prop UndertaleString Name { get=True set=True }
+   prop UndertaleString DisplayName { get=True set=True }
+   prop Boolean EmSizeIsFloat { get=True set=True }
+   prop Single EmSize { get=True set=True }
+   prop Boolean Bold { get=True set=True }
+   prop Boolean Italic { get=True set=True }
+   prop UInt16 RangeStart { get=True set=True }
+   prop Byte Charset { get=True set=True }
+   prop Byte AntiAliasing { get=True set=True }
+   prop UInt32 RangeEnd { get=True set=True }
+   prop UndertaleTexturePageItem Texture { get=True set=True }
+   prop Single ScaleX { get=True set=True }
+   prop Single ScaleY { get=True set=True }
+   prop UInt32 Ascender { get=True set=True }
+   prop UInt32 SDFSpread { get=True set=True }
+   prop UInt32 LineHeight { get=True set=True }
+   prop UndertalePointerList`1 Glyphs { get=True set=True }
+   prop Int32 AscenderOffset { get=True set=True }
+   prop String ProjectName { get=True set=False }
+   prop SerializableAssetType ProjectAssetType { get=True set=False }
+   prop Boolean ProjectExportable { get=True set=False }
+-- sprAnyaTypewriterFont: W=9 H=9 textures=87 masks=0
+   frame 0: src=(5894,5969) 9x9 tgt=(0,0) 9x9 bbox=9x9 page=Texture 3
+   frame 1: src=(8182,5307) 8x9 tgt=(0,0) 8x9 bbox=9x9 page=Texture 1
+   frame 2: src=(2681,119) 8x9 tgt=(0,0) 8x9 bbox=9x9 page=Texture 3
+-- sprAnyaFancyFont: W=10 H=16 textures=55 masks=0
+   frame 0: src=(8181,1876) 9x16 tgt=(0,0) 9x16 bbox=10x16 page=Texture 3
+   frame 1: src=(8182,1544) 8x16 tgt=(0,0) 8x16 bbox=10x16 page=Texture 1
+   frame 2: src=(8181,3641) 9x16 tgt=(0,0) 9x16 bbox=10x16 page=Texture 1
+-- sprAnyaReviewFont: W=5 H=6 textures=73 masks=0
+   frame 0: src=(3381,3768) 4x6 tgt=(0,0) 4x6 bbox=5x6 page=Texture 1
+   frame 1: src=(5535,6563) 4x6 tgt=(0,0) 4x6 bbox=5x6 page=Texture 1
+   frame 2: src=(5179,4889) 4x6 tgt=(0,0) 4x6 bbox=5x6 page=Texture 1
+fntTiny: EmSize=5 LineHeight=0 Scale=(1,1) glyphs=97
+fntGameFont: EmSize=12 LineHeight=0 Scale=(1,1)

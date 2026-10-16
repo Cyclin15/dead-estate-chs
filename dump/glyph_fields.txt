@@ -1,0 +1,33 @@
+UndertaleFont.Glyph fields:
+  prop  UInt16 Character
+  prop  UInt16 SourceX
+  prop  UInt16 SourceY
+  prop  UInt16 SourceWidth
+  prop  UInt16 SourceHeight
+  prop  Int16 Shift
+  prop  Int16 Offset
+  prop  UndertaleSimpleListShort`1 Kerning
+  prop  Int16 UnknownAlwaysZero
+
+UndertaleFont fields/props:
+  prop  UndertaleString Name
+  prop  UndertaleString DisplayName
+  prop  Boolean EmSizeIsFloat
+  prop  Single EmSize
+  prop  Boolean Bold
+  prop  Boolean Italic
+  prop  UInt16 RangeStart
+  prop  Byte Charset
+  prop  Byte AntiAliasing
+  prop  UInt32 RangeEnd
+  prop  UndertaleTexturePageItem Texture
+  prop  Single ScaleX
+  prop  Single ScaleY
+  prop  UInt32 Ascender
+  prop  UInt32 SDFSpread
+  prop  UInt32 LineHeight
+  prop  UndertalePointerList`1 Glyphs
+  prop  Int32 AscenderOffset
+  prop  String ProjectName
+  prop  SerializableAssetType ProjectAssetType
+  prop  Boolean ProjectExportable

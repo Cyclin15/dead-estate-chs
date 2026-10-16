@@ -1,0 +1,342 @@
+{
+ "Font_YoYo_20": {
+  "em": 20,
+  "cellH": 31,
+  "capTop": 4,
+  "ascTop": 4,
+  "baseline": 23,
+  "descBottom": 28,
+  "bold": "False",
+  "italic": "False"
+ },
+ "Font_YoYo_30": {
+  "em": 30,
+  "cellH": 46,
+  "capTop": 6,
+  "ascTop": 6,
+  "baseline": 34,
+  "descBottom": 42,
+  "bold": "False",
+  "italic": "False"
+ },
+ "Font_YoYo_50": {
+  "em": 50,
+  "cellH": 77,
+  "capTop": 11,
+  "ascTop": 11,
+  "baseline": 58,
+  "descBottom": 72,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fntCryptic": {
+  "em": 12,
+  "cellH": 19,
+  "capTop": 3,
+  "ascTop": 3,
+  "baseline": 14,
+  "descBottom": 18,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fntGameFont": {
+  "em": 12,
+  "cellH": 20,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 14,
+  "descBottom": 17,
+  "bold": "True",
+  "italic": "False"
+ },
+ "fntGameFontBigger": {
+  "em": 20,
+  "cellH": 33,
+  "capTop": 7,
+  "ascTop": 6,
+  "baseline": 23,
+  "descBottom": 28,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fntGameFontBiggerBold": {
+  "em": 20,
+  "cellH": 33,
+  "capTop": 7,
+  "ascTop": 6,
+  "baseline": 23,
+  "descBottom": 28,
+  "bold": "True",
+  "italic": "False"
+ },
+ "fntGameFontBiggerBoldItalics": {
+  "em": 20,
+  "cellH": 33,
+  "capTop": 7,
+  "ascTop": 6,
+  "baseline": 23,
+  "descBottom": 28,
+  "bold": "True",
+  "italic": "True"
+ },
+ "fntGameFontBiggerItalics": {
+  "em": 20,
+  "cellH": 33,
+  "capTop": 7,
+  "ascTop": 6,
+  "baseline": 23,
+  "descBottom": 28,
+  "bold": "True",
+  "italic": "False"
+ },
+ "fntGameFontBiggest": {
+  "em": 39,
+  "cellH": 63,
+  "capTop": 13,
+  "ascTop": 11,
+  "baseline": 45,
+  "descBottom": 54,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fntGameFontBiggestBold": {
+  "em": 39,
+  "cellH": 63,
+  "capTop": 13,
+  "ascTop": 11,
+  "baseline": 46,
+  "descBottom": 55,
+  "bold": "True",
+  "italic": "False"
+ },
+ "fntGameFontBiggestBoldItalics": {
+  "em": 39,
+  "cellH": 63,
+  "capTop": 13,
+  "ascTop": 11,
+  "baseline": 46,
+  "descBottom": 55,
+  "bold": "True",
+  "italic": "True"
+ },
+ "fntGameFontBiggestItalics": {
+  "em": 39,
+  "cellH": 63,
+  "capTop": 13,
+  "ascTop": 11,
+  "baseline": 45,
+  "descBottom": 54,
+  "bold": "False",
+  "italic": "True"
+ },
+ "fntGameFontBold": {
+  "em": 12,
+  "cellH": 20,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 14,
+  "descBottom": 17,
+  "bold": "True",
+  "italic": "False"
+ },
+ "fntGameFontBoldItalics": {
+  "em": 12,
+  "cellH": 20,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 14,
+  "descBottom": 17,
+  "bold": "True",
+  "italic": "True"
+ },
+ "fntGameFontItalics": {
+  "em": 12,
+  "cellH": 20,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 14,
+  "descBottom": 17,
+  "bold": "True",
+  "italic": "True"
+ },
+ "fntGameFontItalicsBigger": {
+  "em": 20,
+  "cellH": 33,
+  "capTop": 7,
+  "ascTop": 6,
+  "baseline": 23,
+  "descBottom": 28,
+  "bold": "True",
+  "italic": "True"
+ },
+ "fntGameFontNormal": {
+  "em": 12,
+  "cellH": 20,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 14,
+  "descBottom": 17,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fntGameFontNormalBold": {
+  "em": 12,
+  "cellH": 20,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 14,
+  "descBottom": 17,
+  "bold": "True",
+  "italic": "False"
+ },
+ "fntGameFontNormalBoldItalics": {
+  "em": 12,
+  "cellH": 20,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 14,
+  "descBottom": 17,
+  "bold": "True",
+  "italic": "True"
+ },
+ "fntGameFontNormalItalics": {
+  "em": 12,
+  "cellH": 20,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 14,
+  "descBottom": 17,
+  "bold": "False",
+  "italic": "True"
+ },
+ "fntSmall": {
+  "em": 10,
+  "cellH": 16,
+  "capTop": 3,
+  "ascTop": 2,
+  "baseline": 10,
+  "descBottom": 12,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fntSmallBold": {
+  "em": 10,
+  "cellH": 16,
+  "capTop": 3,
+  "ascTop": 2,
+  "baseline": 10,
+  "descBottom": 12,
+  "bold": "True",
+  "italic": "False"
+ },
+ "fntSmallBoldItalics": {
+  "em": 10,
+  "cellH": 16,
+  "capTop": 3,
+  "ascTop": 2,
+  "baseline": 10,
+  "descBottom": 12,
+  "bold": "True",
+  "italic": "True"
+ },
+ "fntSmallItalics": {
+  "em": 10,
+  "cellH": 16,
+  "capTop": 3,
+  "ascTop": 2,
+  "baseline": 10,
+  "descBottom": 12,
+  "bold": "False",
+  "italic": "True"
+ },
+ "fntSmaller": {
+  "em": 8,
+  "cellH": 13,
+  "capTop": 3,
+  "ascTop": 3,
+  "baseline": 9,
+  "descBottom": 11,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fntSmallerBold": {
+  "em": 8,
+  "cellH": 13,
+  "capTop": 3,
+  "ascTop": 3,
+  "baseline": 9,
+  "descBottom": 11,
+  "bold": "True",
+  "italic": "False"
+ },
+ "fntSmallerBoldItalics": {
+  "em": 8,
+  "cellH": 13,
+  "capTop": 3,
+  "ascTop": 3,
+  "baseline": 9,
+  "descBottom": 11,
+  "bold": "True",
+  "italic": "True"
+ },
+ "fntSmallerItalics": {
+  "em": 8,
+  "cellH": 13,
+  "capTop": 3,
+  "ascTop": 3,
+  "baseline": 9,
+  "descBottom": 11,
+  "bold": "False",
+  "italic": "True"
+ },
+ "fntTiny": {
+  "em": 5,
+  "cellH": 7,
+  "capTop": 1,
+  "ascTop": 1,
+  "baseline": 4,
+  "descBottom": 5,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fntWeirdo": {
+  "em": 16,
+  "cellH": 25,
+  "capTop": 5,
+  "ascTop": 4,
+  "baseline": 17,
+  "descBottom": 21,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fnt_gm_15": {
+  "em": 15,
+  "cellH": 25,
+  "capTop": 4,
+  "ascTop": 4,
+  "baseline": 18,
+  "descBottom": 22,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fnt_gm_20": {
+  "em": 20,
+  "cellH": 31,
+  "capTop": 4,
+  "ascTop": 4,
+  "baseline": 23,
+  "descBottom": 28,
+  "bold": "False",
+  "italic": "False"
+ },
+ "fnt_gm_30": {
+  "em": 30,
+  "cellH": 46,
+  "capTop": 6,
+  "ascTop": 6,
+  "baseline": 34,
+  "descBottom": 42,
+  "bold": "False",
+  "italic": "False"
+ }
+}

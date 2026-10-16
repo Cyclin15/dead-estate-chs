@@ -1,0 +1,17 @@
+== Options props ==
+  ShaderExtensionFlag = -2147483648
+  ShaderExtensionVersion = 2
+  Info = ScreenKey, VariableErrors, FastCollisionCompatibility, EnableCopyOnWrite, LegacyJsonParsing, LegacyNumberConversion, LegacyOtherBehavior, AudioErrorBehavior
+  Scale = 0
+  WindowColor = 0
+  ColorDepth = 0
+  Resolution = 0
+  Frequency = 0
+  VertexSync = 0
+  Priority = 0
+  BackImage = UndertaleModLib.Models.UndertaleSprite+TextureEntry
+  FrontImage = UndertaleModLib.Models.UndertaleSprite+TextureEntry
+  LoadImage = UndertaleModLib.Models.UndertaleSprite+TextureEntry
+  LoadAlpha = 0
+  Constants = UndertaleModLib.UndertaleSimpleList`1[UndertaleModLib.Models.UndertaleOptions+Constant]
+  NewFormat = True

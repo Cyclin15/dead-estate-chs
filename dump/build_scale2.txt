@@ -1,0 +1,38 @@
+strings replaced: 4615
+font fntCryptic: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFont: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBigger: 2204 glyphs (2109 CJK), 2 sheet(s), ScaleX=2
+font fntGameFontBiggerBold: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBiggerBoldItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBiggerItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBiggest: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBiggestBold: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBiggestBoldItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBiggestItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBold: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontBoldItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontItalicsBigger: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontNormal: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontNormalBold: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontNormalBoldItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntGameFontNormalItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntSmall: 2206 glyphs (2111 CJK), 1 sheet(s), ScaleX=2
+font fntSmallBold: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntSmallBoldItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntSmaller: 2206 glyphs (2111 CJK), 1 sheet(s), ScaleX=2
+font fntSmallerBold: 2206 glyphs (2111 CJK), 1 sheet(s), ScaleX=2
+font fntSmallerBoldItalics: 2206 glyphs (2111 CJK), 1 sheet(s), ScaleX=2
+font fntSmallerItalics: 2206 glyphs (2111 CJK), 1 sheet(s), ScaleX=2
+font fntSmallItalics: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntTiny: 2205 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fntWeirdo: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fnt_gm_15: 2299 glyphs (2204 CJK), 1 sheet(s), ScaleX=2
+font fnt_gm_20: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font fnt_gm_30: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font Font_YoYo_20: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font Font_YoYo_30: 2204 glyphs (2109 CJK), 1 sheet(s), ScaleX=2
+font Font_YoYo_50: 2204 glyphs (2109 CJK), 2 sheet(s), ScaleX=2
+
+fontsDone=34 cjkGlyphs=71811 sheets=36
+wrote D:\Steam\steamapps\common\Dead Estate\_loc_work\out\data_scale2.win (113774764 bytes)

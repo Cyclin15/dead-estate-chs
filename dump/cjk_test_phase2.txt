@@ -1,0 +1,5 @@
+OK  CJK string survived at slot 785
+OK  glyph U+6B7B survived (shift=20, w=20)
+OK  glyph U+4EA1 survived (shift=20, w=20)
+font glyph count after reload: 193
+OK  raw UTF-8 bytes of the CJK string found at file offset 9631028

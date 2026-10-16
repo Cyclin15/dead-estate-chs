@@ -1,0 +1,3 @@
+logical lines: [(np.int64(46), np.int64(149)), (np.int64(198), np.int64(209))]
+--- line y46-149 (h=103) x37-389
+--- line y198-209 (h=11) x217-264

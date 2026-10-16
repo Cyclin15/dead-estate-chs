@@ -1,0 +1,274 @@
+[
+ {
+  "font": "Font_YoYo_20",
+  "em": 20,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "Font_YoYo_30",
+  "em": 30,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "Font_YoYo_50",
+  "em": 50,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 2
+ },
+ {
+  "font": "fntCryptic",
+  "em": 12,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFont",
+  "em": 12,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBigger",
+  "em": 20,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 2
+ },
+ {
+  "font": "fntGameFontBiggerBold",
+  "em": 20,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBiggerBoldItalics",
+  "em": 20,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBiggerItalics",
+  "em": 20,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBiggest",
+  "em": 39,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBiggestBold",
+  "em": 39,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBiggestBoldItalics",
+  "em": 39,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBiggestItalics",
+  "em": 39,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBold",
+  "em": 12,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontBoldItalics",
+  "em": 12,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontItalics",
+  "em": 12,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontItalicsBigger",
+  "em": 20,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontNormal",
+  "em": 12,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontNormalBold",
+  "em": 12,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontNormalBoldItalics",
+  "em": 12,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntGameFontNormalItalics",
+  "em": 12,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntSmall",
+  "em": 10,
+  "ss": 2,
+  "latin": 98,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntSmallBold",
+  "em": 10,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntSmallBoldItalics",
+  "em": 10,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntSmallItalics",
+  "em": 10,
+  "ss": 2,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntSmaller",
+  "em": 8,
+  "ss": 2,
+  "latin": 98,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntSmallerBold",
+  "em": 8,
+  "ss": 2,
+  "latin": 98,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntSmallerBoldItalics",
+  "em": 8,
+  "ss": 2,
+  "latin": 98,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntSmallerItalics",
+  "em": 8,
+  "ss": 2,
+  "latin": 98,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntTiny",
+  "em": 5,
+  "ss": 1,
+  "latin": 97,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fntWeirdo",
+  "em": 16,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fnt_gm_15",
+  "em": 15,
+  "ss": 1,
+  "latin": 191,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fnt_gm_20",
+  "em": 20,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ },
+ {
+  "font": "fnt_gm_30",
+  "em": 30,
+  "ss": 1,
+  "latin": 96,
+  "cjk": 2108,
+  "sheets": 1
+ }
+]

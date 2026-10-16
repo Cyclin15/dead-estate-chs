@@ -1,0 +1,2 @@
+total non-ascii names: 0
+colliding translations: 0

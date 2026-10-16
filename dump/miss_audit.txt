@@ -1,0 +1,1656 @@
+[5] 'Documentation'
+    (代码中未找到带引号引用)
+[8] 'Gif'
+    gml_GlobalScript_GifHx__1_.gml:2 global.mt_Gif = new gif_std_haxe_class(-1, "Gif");
+[175] 'Invalid header'
+    gml_GlobalScript_GifHx__1_.gml:329 throw "Invalid header";
+[181] '87a'
+    gml_GlobalScript_GifHx__1_.gml:345 case "87a":
+[182] '89a'
+    gml_GlobalScript_GifHx__1_.gml:348 case "89a":
+[261] 'Incorrect Graphic Control Extension block size!'
+    gml_GlobalScript_GifHx__1_.gml:590 throw "Incorrect Graphic Control Extension block size!";
+[274] 'Incorrect size of Plain Text Extension introducer block.'
+    gml_GlobalScript_GifHx__1_.gml:625 throw "Incorrect size of Plain Text Extension introducer block.";
+[308] 'Incorrect size of Application Extension introducer block.'
+    gml_GlobalScript_GifHx__1_.gml:699 throw "Incorrect size of Application Extension introducer block.";
+[311] 'NETSCAPE'
+    gml_GlobalScript_GifHx__1_.gml:716 if (_name == "NETSCAPE" && _version == "2.0" && _data.b[0] == 1)
+[866] 'Anya8Ball'
+    (代码中未找到带引号引用)
+[867] 'Book'
+    gml_GlobalScript_scrAnyaItems.gml:281 name = "Book";
+[889] 'Plunger'
+    gml_GlobalScript_scrAnyaItems.gml:325 name = "Plunger";
+[929] 'Meat'
+    gml_GlobalScript_scrAnyaItems.gml:407 name = "Meat";
+[943] 'Choker'
+    gml_GlobalScript_scrAnyaItems.gml:435 name = "Choker";
+[980] 'Sticker'
+    gml_GlobalScript_scrAnyaItems.gml:508 name = "Sticker";
+[1021] 'Cancel'
+    gml_GlobalScript_scrAnyaItems.gml:605 var oCancel = new AnyaItemOption("Cancel");
+    gml_Object_oAnyaClockMenu_Step_0.gml:13 var cancel = new AnyaOption("Cancel");
+[1025] 'Use'
+    gml_GlobalScript_scrAnyaItems.gml:618 var oUse = new AnyaItemOption("Use");
+    gml_Object_oAnyaPickupMenu_Create_0.gml:58 if (self.options[i].name == "Use")
+[1027] 'Discard'
+    gml_GlobalScript_scrAnyaItems.gml:619 var oDiscard = new AnyaItemOption("Discard");
+[1034] 'Examine'
+    gml_GlobalScript_scrAnyaItems.gml:651 var oUse = new AnyaItemOption("Examine");
+[1123] 'Section'
+    (代码中未找到带引号引用)
+[1360] 'Button'
+    (代码中未找到带引号引用)
+[1468] 'Menu'
+    (代码中未找到带引号引用)
+[1530] 'Blackout'
+    gml_GlobalScript_scrChallenges.gml:13 global.chLonesomeDark = new Challenge("Blackout", "The experienced one seems to have sharp eyes indeed...\n\nThe time ha
+[1543] 'Hemophiliac'
+    gml_GlobalScript_scrChallenges.gml:15 global.chHemophiliac = new Challenge("Hemophiliac", "A curse is necessary in order to deal with the bearded one properly
+[1549] 'Mutants'
+    gml_GlobalScript_scrChallenges.gml:16 global.chMutants = new Challenge("Mutants", "Frankly, I am without a clue about how to deal with the rowdy one or that o
+[1612] 'Uselessness'
+    gml_GlobalScript_scrChallenges.gml:47 global.chUnarmed = new Challenge("Uselessness", "The experienced one has had it too good for too long. His bullets shall
+[1626] 'Ununundead'
+    gml_GlobalScript_scrChallenges.gml:50 global.chUnunundead = new Challenge("Ununundead", "The conceited one is, for lack of a better word, done for.\n\nHis hea
+[1643] 'Status'
+    gml_GlobalScript_scrChallenges.gml:72 dataString = concat(string_replace_all(name, " ", ""), "Status");
+    gml_Object_oAnyaPauseMenu_Create_0.gml:18 status = new Section(ox, oy, w, h, "Status", 7820031);
+[1672] 'Challenge'
+    gml_Object_oPSNActivityTest_Create_0.gml:6 var a = [["Explore the mansion", "psnActivityExploreMansion"], ["Find the antidote", "psnActivityFindAntidote"], ["Rescu
+[1862] 'State'
+    gml_GlobalScript_scrCurses.gml:91 stateString = concat(arg1, "State");
+[1866] 'Curse'
+    (代码中未找到带引号引用)
+[1937] 'Bold'
+    gml_GlobalScript_scrDrawing.gml:42 var boldFont = asset_get_index(font_get_name(draw_get_font()) + "Bold");
+    gml_GlobalScript_scrStrings.gml:753 var boldFont = asset_get_index(font_get_name(draw_get_font()) + "Bold");
+[1941] 'Italics'
+    gml_GlobalScript_scrDrawing.gml:50 var italicsFont = asset_get_index(font_get_name(draw_get_font()) + "Italics");
+    gml_GlobalScript_scrStrings.gml:761 var italicsFont = asset_get_index(font_get_name(draw_get_font()) + "Italics");
+[2230] 'TRIUMPH'
+    gml_GlobalScript_scrEffects.gml:371 if (arg0 > 0 && true && getMedalUnlocked("TRIUMPH"))
+    gml_GlobalScript_scrPSN.gml:90 if (getMedalUnlocked("TRIUMPH"))
+[2352] 'Lighter'
+    gml_GlobalScript_scrItems.gml:35 createItem(UnknownEnum.Value_0, "Lighter", "Chance for shots to ♦1burn♦r enemies.", "With this thing, your bullets will 
+[2357] 'Eyedrops'
+    gml_GlobalScript_scrItems.gml:36 createItem(UnknownEnum.Value_1, "Eyedrops", "Increases your ♦5accuracy♦r.", "Put a couple of these in your eyes and you'
+[2362] 'Taser'
+    gml_GlobalScript_scrItems.gml:37 createItem(UnknownEnum.Value_2, "Taser", "Bullets have a chance to ♦2stun enemies.", "You'll be able to stop monsters in
+[2402] 'Map'
+    gml_GlobalScript_scrItems.gml:45 createItem(UnknownEnum.Value_10, "Map", "Reveals the ♦2entire map♦r of the current floor.", "This'll guide you well.", "
+    gml_Object_oAnyaPauseMenu_Create_0.gml:142 map = new Section(480 - status.fullWidth - ox, oy, w, h, "Map", 12756899);
+[2413] 'Lame.'
+    gml_GlobalScript_scrItems.gml:48 createItem(UnknownEnum.Value_13, "Bonker", "Chance for your shots to knock enemies further back.", "That's a priceless a
+[2417] 'Bonker'
+    gml_GlobalScript_scrItems.gml:48 createItem(UnknownEnum.Value_13, "Bonker", "Chance for your shots to knock enemies further back.", "That's a priceless a
+[2465] 'Boom.'
+    gml_GlobalScript_scrItems.gml:58 createItem(UnknownEnum.Value_23, "Gunpowder", "Increases the ♦2size♦r of all explosions.", "Boom.", "Heavens, doesn't it
+[2467] 'Gunpowder'
+    gml_GlobalScript_scrItems.gml:58 createItem(UnknownEnum.Value_23, "Gunpowder", "Increases the ♦2size♦r of all explosions.", "Boom.", "Heavens, doesn't it
+[2473] 'Cool.'
+    gml_GlobalScript_scrItems.gml:60 createItem(UnknownEnum.Value_25, "Demon Lung", "♦1Fire♦r will ♦1burn♦r enemies for a ♦2longer amount of time♦r and do ♦0
+[2488] 'Polisher'
+    gml_GlobalScript_scrItems.gml:62 createItem(UnknownEnum.Value_27, "Polisher", "Bullets ♦2travel faster♦r.", "That gun of yours looks like it could use a 
+[2493] 'Gross.'
+    gml_GlobalScript_scrItems.gml:64 createItem(UnknownEnum.Value_29, "Liquid Luck", "♦2Significantly increases your luck.", "It's not what it looks like.", 
+[2507] 'Ew.'
+    gml_GlobalScript_scrItems.gml:67 createItem(UnknownEnum.Value_32, "Beating Bomb", "Chance for enemies to ♦1explode on death♦r.", "What more could you wan
+[2516] 'Heartworm'
+    gml_GlobalScript_scrItems.gml:68 createItem(UnknownEnum.Value_33, "Heartworm", "Health pickups drop more often.", "Keep that thing away from your pets!",
+[2517] 'Cute.'
+    gml_GlobalScript_scrItems.gml:69 createItem(UnknownEnum.Value_34, "Friends 'til the End", "♦2Move faster♦r and ♦2slow down nearby enemies♦r while at ♦6♦s
+[2555] 'Gemini'
+    gml_GlobalScript_scrItems.gml:76 createItem(UnknownEnum.Value_41, "Gemini", "Chance to fire ♦2double♦r the normal number of projectiles while shooting.",
+[2577] 'Sledgehammer'
+    gml_GlobalScript_scrItems.gml:80 createItem(UnknownEnum.Value_45, "Sledgehammer", "Automatically ♦2destroys all the pots in a room♦r once it's cleared.",
+[2582] 'Bait'
+    gml_GlobalScript_scrItems.gml:81 createItem(UnknownEnum.Value_46, "Bait", "♦0♦sChunks♦r♦2 takes longer to move between rooms♦r.", "This should slow that 
+[2588] 'Bopeebosomething.'
+    gml_GlobalScript_scrItems.gml:83 createItem(UnknownEnum.Value_48, "Friday Night Pumpkin", "Every fourth consecutive shot ♦2deals more damage♦r.", "Can yo
+[2612] 'Stockpile'
+    gml_GlobalScript_scrItems.gml:87 createItem(UnknownEnum.Value_52, "Stockpile", "Receive a ♦2complete ammo refill♦r on your current weapon at the start of
+[2632] 'Medkit'
+    gml_GlobalScript_scrItems.gml:91 createItem(UnknownEnum.Value_56, "Medkit", "Receive a ♦6full heal♦r at the start of each floor.", "Who needs doctors or 
+[2637] 'Ambrosia'
+    gml_GlobalScript_scrItems.gml:92 createItem(UnknownEnum.Value_57, "Ambrosia", "♦6Fully heals you ♦rupon buying or picking up.", "This will heal all of yo
+[2682] 'Paycheck'
+    gml_GlobalScript_scrItems.gml:102 createItem(UnknownEnum.Value_67, "Paycheck", "Obtain a ♦2bonus coin♦r every time you ♦2break a pot♦r or ♦2kill an enemy♦
+[2686] 'Coupon'
+    gml_GlobalScript_scrItems.gml:103 createItem(UnknownEnum.Value_68, "Coupon", "♦225% off♦r all shop items starting from the next shop you visit.", "Applica
+[2725] 'Roids'
+    gml_GlobalScript_scrItems.gml:113 createItem(UnknownEnum.Value_78, "Roids", "♦0Significantly boosts your damage ♦rfor 3 seconds after entering a room.", "
+[2733] 'Revengeance'
+    gml_GlobalScript_scrItems.gml:115 createItem(UnknownEnum.Value_80, "Revengeance", "Release a ♦2♦s♦bbig ♦r♦2♦sexplosion♦r when you hit ♦6♦s1 HP♦r.", "Let '
+[2765] 'Backup'
+    gml_GlobalScript_scrItems.gml:123 createItem(UnknownEnum.Value_88, "Backup", "Staying in a room for a while will cause ♦s♦0bombs♦r to drop from the ceilin
+[2788] 'Scope'
+    gml_GlobalScript_scrItems.gml:129 createItem(UnknownEnum.Value_94, "Scope", "Bullets shoot farther.", "Enhance!", "How do you see through this thing? It's
+[2800] 'Snowglobe'
+    gml_GlobalScript_scrItems.gml:132 createItem(UnknownEnum.Value_97, "Snowglobe", "Chance for a ♦8snowstorm♦r to blow through a room upon entering it, ♦8♦sf
+[2810] 'Peapod'
+    gml_GlobalScript_scrItems.gml:135 createItem(UnknownEnum.Value_99, "Peapod", "All guns now fire ♦2rapidly♦r, but they'll do ♦0very little damage♦r.", "Sta
+[2862] 'Mitosis'
+    gml_GlobalScript_scrItems.gml:149 createItem(UnknownEnum.Value_113, "Mitosis", "Chance for bullets to burst into ♦2more bullets♦r on impact.", "Many from 
+[2863] 'Eugh.'
+    gml_GlobalScript_scrItems.gml:150 createItem(UnknownEnum.Value_114, "Fake Puke", "Shotguns fire ♦2double the projectiles with ♦0less accuracy and damage♦r
+[2872] 'Fwoosh.'
+    gml_GlobalScript_scrItems.gml:152 createItem(UnknownEnum.Value_116, "Arrow", "Bullets ♦2travel further♦r.", "Fwoosh.", "Fwoosh!", "", "", 100);
+[2874] 'Arrow'
+    gml_GlobalScript_scrItems.gml:152 createItem(UnknownEnum.Value_116, "Arrow", "Bullets ♦2travel further♦r.", "Fwoosh.", "Fwoosh!", "", "", 100);
+[2877] 'Tragedy'
+    gml_GlobalScript_scrItems.gml:153 createItem(UnknownEnum.Value_117, "Tragedy", "Upon ♦0taking damage♦r, you'll release a ♦2barrage of projectiles♦r.", "Wh
+[2880] 'Comedy'
+    gml_GlobalScript_scrItems.gml:154 createItem(UnknownEnum.Value_118, "Comedy", "Enemies will release a ♦2barrage of projectiles♦r at other enemies on death
+[2891] 'Bandolier'
+    gml_GlobalScript_scrItems.gml:157 createItem(UnknownEnum.Value_121, "Bandolier", "Weapons ♦2don't use any ammo♦r for the first 3 seconds after entering a 
+[2931] 'Slime'
+    gml_GlobalScript_scrItems.gml:167 createItem(UnknownEnum.Value_131, "Slime", "♦2Increases fire rate♦r and ♦2all your shots become bouncy♦r.", "Taken fresh
+[2935] 'Darts'
+    gml_GlobalScript_scrItems.gml:168 createItem(UnknownEnum.Value_132, "Darts", "One enemy is ♦2marked for death♦r at the start of every room♦r.", "Bullseye!
+[2939] 'Breezepods'
+    gml_GlobalScript_scrItems.gml:169 createItem(UnknownEnum.Value_133, "Breezepods", "♦wNightcore everything.", "Don't get earwax in them, dude.", "Only $500
+[2941] 'Heheh.'
+    gml_GlobalScript_scrItems.gml:170 createItem(UnknownEnum.Value_134, "♦3Fake Poo", "Hehe", "Heheh.", "Yuck!", "", "", 500);
+[2942] 'Hehe'
+    gml_GlobalScript_scrItems.gml:170 createItem(UnknownEnum.Value_134, "♦3Fake Poo", "Hehe", "Heheh.", "Yuck!", "", "", 500);
+[2955] 'Witch-B-Gone'
+    gml_GlobalScript_scrItems.gml:173 createItem(UnknownEnum.Value_137, "Witch-B-Gone", "Replaces the Witch with ♦2two free item chests♦r.", "A-aren't you gon
+[2963] 'BTGO'
+    gml_GlobalScript_scrItems.gml:175 createItem(UnknownEnum.Value_139, "BTGO", "Buying 3 items from the shopkeeper on the same floor ♦2gives you a free item 
+[2967] 'Duplicator'
+    gml_GlobalScript_scrItems.gml:176 createItem(UnknownEnum.Value_140, "Duplicator", "♦2Gives you three of the next item you pick up♦r.", "Basically cheating
+[2978] 'Compass'
+    gml_GlobalScript_scrItems.gml:179 createItem(UnknownEnum.Value_143, "Compass", "Reveals the location of ♦2shops, treasure rooms, boss rooms, and more♦r on
+[2994] 'Dumbbell'
+    gml_GlobalScript_scrItems.gml:183 createItem(UnknownEnum.Value_147, "Dumbbell", "Chance to fire a ♦2large, heavier projectile♦r.", "Pump some iron!", "Oh,
+[2998] 'Bloodthirst'
+    gml_GlobalScript_scrItems.gml:184 createItem(UnknownEnum.Value_148, "Bloodthirst", "Allows you to ♦0absorb blood♦r before it hits the floor, giving you ♦6
+[3009] 'UFO'
+    gml_GlobalScript_scrItems.gml:187 createItem(UnknownEnum.Value_151, "UFO", "A ♦2UFO buddy♦r that ♦rattacks enemies using its tractor beam♦r.", "Out of thi
+[3017] 'Holster'
+    gml_GlobalScript_scrItems.gml:189 createItem(UnknownEnum.Value_153, "Holster", "♦2Gives you an additional weapon slot.", "More firepower!", "How are you g
+[3021] 'Buzzy'
+    gml_GlobalScript_scrItems.gml:190 createItem(UnknownEnum.Value_154, "Buzzy", "Spawns a ♦2buzzsaw buddy♦r that ♦2rotates around you and damages enemies♦r."
+[3059] 'X-Ray'
+    gml_GlobalScript_scrItems.gml:200 createItem(UnknownEnum.Value_164, "X-Ray", "Allows you to find an ♦2extra secret room♦r on each floor.", "You can also u
+[3067] 'Flashbangs'
+    gml_GlobalScript_scrItems.gml:202 createItem(UnknownEnum.Value_166, "Flashbangs", "Allows pots and enemies to sometimes drop ♦2flashbangs♦r that ♦2stun al
+[3075] 'Mutagen'
+    gml_GlobalScript_scrItems.gml:204 createItem(UnknownEnum.Value_168, "Mutagen", "Boosts your ♦0damage♦r, but ♦0makes some enemies tougher♦r.", "I don't rea
+[3083] '♦s♦werror'
+    gml_GlobalScript_scrItems.gml:206 createItem(UnknownEnum.Value_170, "♦s♦werror", "Randomizes your secondary weapon every 3 seconds.", "Hey, this shouldn't
+[3086] '♦r'
+    gml_GlobalScript_scrItems.gml:207 createItem(UnknownEnum.Value_171, "Sorcery for Dummies", concat("Allows you to find and use ", "♦w", "♦6", "magical staf
+    gml_GlobalScript_scrStrings.gml:32 case "♦r":
+[3089] '♦w'
+    gml_GlobalScript_scrItems.gml:207 createItem(UnknownEnum.Value_171, "Sorcery for Dummies", concat("Allows you to find and use ", "♦w", "♦6", "magical staf
+    gml_GlobalScript_scrStrings.gml:37 case "♦w":
+[3106] 'Globe'
+    gml_GlobalScript_scrItems.gml:209 createItem(UnknownEnum.Value_173, "Globe", concat("♦2", "Reveals the entire map of every floor from now on", "♦r", ", bu
+[3111] '♦s'
+    gml_GlobalScript_scrItems.gml:210 createItem(UnknownEnum.Value_174, "IED", concat("Causes some pots to ", "♦1", "♦s", "explode", "♦r", " on destruction.")
+    gml_GlobalScript_scrStrings.gml:40 case "♦s":
+[3114] 'IED'
+    gml_GlobalScript_scrItems.gml:210 createItem(UnknownEnum.Value_174, "IED", concat("Causes some pots to ", "♦1", "♦s", "explode", "♦r", " on destruction.")
+[3127] 'Au'
+    gml_GlobalScript_scrItems.gml:212 createItem(UnknownEnum.Value_176, "Au", concat("Chance for ", "♦2", "golden enemies", "♦r", " to spawn that drop ", "♦2"
+[3136] 'Maggots.'
+    gml_GlobalScript_scrItems.gml:214 createItem(UnknownEnum.Value_178, "Eggy", "♦sMaggots.", "Maggots.", "Maggots?", "", "", 200);
+[3138] 'Eggy'
+    gml_GlobalScript_scrItems.gml:214 createItem(UnknownEnum.Value_178, "Eggy", "♦sMaggots.", "Maggots.", "Maggots?", "", "", 200);
+[3145] 'Handsaw'
+    gml_GlobalScript_scrItems.gml:215 createItem(UnknownEnum.Value_179, "Handsaw", concat("Enemies take ", "♦2", "2x damage", "♦r", " when they're at ", "♦0",
+[3166] 'Heatseeker'
+    gml_GlobalScript_scrItems.gml:218 createItem(UnknownEnum.Value_182, "Heatseeker", concat("Chance for shots to ", "♦2", "seek out and target", "♦r", " enem
+[3167] '...Creepy.'
+    gml_GlobalScript_scrItems.gml:219 createItem(UnknownEnum.Value_183, "Dummy", concat("Drop a dummy that ", "♦2", "distracts enemies", "♦r", " once per room
+[3173] 'Dummy'
+    gml_GlobalScript_scrItems.gml:219 createItem(UnknownEnum.Value_183, "Dummy", concat("Drop a dummy that ", "♦2", "distracts enemies", "♦r", " once per room
+[3247] 'Combustophile'
+    gml_GlobalScript_scrItems.gml:232 createItem(UnknownEnum.Value_196, "Combustophile", concat("Makes all ", "♦1", "♦s", "explosions", "♦r", "♦2", " larger",
+[3266] 'Triples'
+    gml_GlobalScript_scrItems.gml:235 createItem(UnknownEnum.Value_199, "Hourglass", concat("♦2", "Triples", "♦r", " the time it takes for pickups to disappea
+[3267] 'Hourglass'
+    gml_GlobalScript_scrItems.gml:235 createItem(UnknownEnum.Value_199, "Hourglass", concat("♦2", "Triples", "♦r", " the time it takes for pickups to disappea
+[3272] 'Stethoscope'
+    gml_GlobalScript_scrItems.gml:236 createItem(UnknownEnum.Value_200, "Stethoscope", concat("Allows you to ", "♦2", "see enemy health", "♦r", "."), "Hear th
+[3306] 'Flies'
+    gml_GlobalScript_scrItems.gml:245 createItem(UnknownEnum.Value_209, concat("♦2", "Flies"), concat("♦`", "♦w", "Significantly boosts movement speed and giv
+[3323] 'Lead'
+    gml_GlobalScript_scrItems.gml:248 createItem(UnknownEnum.Value_212, concat("Lead"), concat("Enemies spawn with ", "♦2", "less health", "♦r", " -- ", "♦0",
+[3337] 'Icky...'
+    gml_GlobalScript_scrItems.gml:251 createItem(UnknownEnum.Value_215, concat("Leech Pact"), concat("♦2", "Generate a little money", "♦r", " as long as you'r
+[3376] 'Poop.'
+    gml_GlobalScript_scrItems.gml:259 createItem(UnknownEnum.Value_223, "Gully", concat("Poop."), "Oh hell, not THIS guy.", "Foul bird.", "", "", 300);
+[3377] 'Gully'
+    gml_GlobalScript_scrItems.gml:259 createItem(UnknownEnum.Value_223, "Gully", concat("Poop."), "Oh hell, not THIS guy.", "Foul bird.", "", "", 300);
+[3388] 'Ominous.'
+    gml_GlobalScript_scrItems.gml:262 createItem(UnknownEnum.Value_226, "Purple Baby", concat("Shrinks some enemies and decreases their health."), "Ominous.",
+[3395] 'Gross...'
+    gml_GlobalScript_scrItems.gml:264 createItem(UnknownEnum.Value_227, "Trigger Finger", concat("♦2", "Significantly boosts fire rate", "♦r", ", but makes it
+[3396] 'Rotten.'
+    gml_GlobalScript_scrItems.gml:264 createItem(UnknownEnum.Value_227, "Trigger Finger", concat("♦2", "Significantly boosts fire rate", "♦r", ", but makes it
+[3399] '♦b'
+    gml_GlobalScript_scrItems.gml:264 createItem(UnknownEnum.Value_227, "Trigger Finger", concat("♦2", "Significantly boosts fire rate", "♦r", ", but makes it
+    gml_GlobalScript_scrStrings.gml:43 case "♦b":
+[3410] 'Calendar'
+    gml_GlobalScript_scrItems.gml:287 createItem(UnknownEnum.Value_229, "Calendar", calendarDesc, "A different effect for every day of the week!", "A differen
+[3438] 'Loplop'
+    gml_GlobalScript_scrItems.gml:294 createItem(UnknownEnum.Value_236, "Loplop", "♦wShows you secrets.", "I could really use a haircut...", "This little guy 
+[3449] 'Mosquito'
+    gml_GlobalScript_scrItems.gml:297 createItem(UnknownEnum.Value_239, "Mosquito", "Chance to ♦6boost maximum HP♦r upon killing enemies.", "Get it away!", "S
+[3464] 'Hellfire'
+    gml_GlobalScript_scrItems.gml:301 createItem(UnknownEnum.Value_243, "Hellfire", "♦s♦0Every floor is now burning♦r, ♦2boosts damage and makes all of your a
+[3472] 'Blindfold'
+    gml_GlobalScript_scrItems.gml:303 createItem(UnknownEnum.Value_245, "Blindfold", "♦s♦0Every floor is now dark♦r, ♦2receive more coins and reveal all floor
+[3488] 'Nail'
+    gml_GlobalScript_scrItems.gml:307 createItem(UnknownEnum.Value_249, "Nail", "Allows you to destroy enemy projectiles by shooting them.", "Just don't hit y
+[3495] 'Balloon'
+    gml_GlobalScript_scrItems.gml:309 createItem(UnknownEnum.Value_251, "Balloon", "♦2Increases speed and jump height, bullets gain damage as they travel.", "
+[3530] 'Detonator'
+    gml_GlobalScript_scrItems.gml:318 createItem(UnknownEnum.Value_260, "Detonator", "Use the special button to explode every corpse in the room.", "Blow them
+[3569] 'Sulfur'
+    gml_GlobalScript_scrItems.gml:328 createItem(UnknownEnum.Value_270, "Sulfur", "♦1♦sEnemies burst into flames on death.", "Smells horrible. Take it.", "Oh 
+[3577] 'Horseshoe'
+    gml_GlobalScript_scrItems.gml:330 createItem(UnknownEnum.Value_272, "Horseshoe", "Orbits you and knocks back enemies.", "Isn't it crazy that these get nai
+[3614] 'Aporia'
+    gml_GlobalScript_scrItems.gml:340 createItem(UnknownEnum.Value_282, "Aporia", "♦2Chance for item boxes to contain more item boxes, ♦r♦0secret rooms will n
+[3617] '♦w???♦r'
+    gml_GlobalScript_scrItems.gml:341 createItem(UnknownEnum.Value_283, "Useless Hand", "♦w???♦r", "It really is useless...\n...I think.", "Dunno what that do
+[3683] 'COLLECTOR'
+    gml_GlobalScript_scrItems.gml:460 unlockMedal("COLLECTOR");
+    gml_Object_game_Create_0.gml:220 createMedal("Collector", "Collect 15+ items in a single run.", sprAchCollector, "COLLECTOR", ["HOARDER"], UnknownEnum.Va
+[3684] 'HOARDER'
+    gml_GlobalScript_scrItems.gml:463 unlockMedal("HOARDER");
+    gml_Object_game_Create_0.gml:220 createMedal("Collector", "Collect 15+ items in a single run.", sprAchCollector, "COLLECTOR", ["HOARDER"], UnknownEnum.Va
+[3685] 'KLEPTO'
+    gml_GlobalScript_scrItems.gml:466 unlockMedal("KLEPTO");
+    gml_Object_game_Create_0.gml:221 createMedal("Hoarder", "Collect 25+ items in a single run.", sprAchHoarder, "HOARDER", ["KLEPTO"], UnknownEnum.Value_1);
+[3690] 'GIGATON'
+    gml_GlobalScript_scrItems.gml:498 unlockMedal("GIGATON");
+    gml_GlobalScript_scrMedals.gml:99 unlockParentMedal("BOSS_100", ["UNLOCK_JAIL_BOSS", "UNLOCK_STEALTH_BOSS", "CHALLENGE_21", "CLEAR_BOSS", "CLEAR_BOSS_TRUE
+[3810] 'Screen'
+    (代码中未找到带引号引用)
+[3856] 'Tunneler'
+    (代码中未找到带引号引用)
+[4153] 'LUMBERJACK'
+    gml_GlobalScript_scrMedals.gml:188 a = ["UNLOCK_TRAVIS_AXEL", "UNLOCK_AXEL_C", "CHALLENGE_22", "CLEAR_AXEL", "CLEAR_AXEL_TRUE", "CLEAR_AXEL_AWAKENING", "LU
+    gml_Object_bullet_Step_0.gml:56 unlockMedal("LUMBERJACK");
+[4306] 'CAMPFIRE'
+    gml_GlobalScript_scrPSN.gml:79 global.psnActivityEpilogue = "CAMPFIRE";
+    gml_Object_oEpilogueController_Destroy_0.gml:7 psnSetActivityAvailability([], ["CAMPFIRE"]);
+[4308] 'GOODNIGHT'
+    gml_GlobalScript_scrPSN.gml:80 if (getMedalUnlocked("GOODNIGHT"))
+    gml_Object_gallery_Create_0.gml:168 addGalleryPic(title1, "Title Screen Rough Sketch #7", "...And finally, one more for truly finishing the game.", "GOODNIG
+[4311] 'AWAKENING'
+    gml_GlobalScript_scrPSN.gml:85 if (getMedalUnlocked("AWAKENING"))
+    gml_Object_gallery_Create_0.gml:167 addGalleryPic(title2, "Title Screen Rough Sketch #6", "...And one more for defeating the Leviathan!", "AWAKENING");
+[4354] 'Dead-Estate-Settings'
+    gml_GlobalScript_scrSaveLoad.gml:55 if (arg1 == "Dead-Estate-Settings")
+    gml_Object_game_Other_72.gml:49 if (slotTitle == "Dead-Estate-Settings")
+[4366] 'Dead-Estate-Save-Data'
+    gml_GlobalScript_scrSaveLoad.gml:88 ps5StartSaveBuffer("Dead-Estate", "Dead-Estate-Save-Data", "Main story save data for Dead Estate", global.saveData, "s
+    gml_Object_game_Other_72.gml:16 if (slotTitle == "Dead-Estate-Save-Data" || slotTitle == "Dead-Estate-Assignment-Anya-Save-Data" || slotTitle == "Dead-E
+[4367] 'Dead-Estate'
+    gml_GlobalScript_scrSaveLoad.gml:88 ps5StartSaveBuffer("Dead-Estate", "Dead-Estate-Save-Data", "Main story save data for Dead Estate", global.saveData, "s
+[4514] 'Dead-Estate-Current-Run'
+    gml_GlobalScript_scrSaveLoad.gml:473 ps5StartSaveBuffer("Dead-Estate", "Dead-Estate-Current-Run", "Current run data for Dead Estate", global.currentRunData
+    gml_Object_game_Other_72.gml:16 if (slotTitle == "Dead-Estate-Save-Data" || slotTitle == "Dead-Estate-Assignment-Anya-Save-Data" || slotTitle == "Dead-E
+[4571] 'Dead-Estate-Assignment-Anya-Save-Data'
+    gml_GlobalScript_scrSaveLoad.gml:784 ps5StartSaveBuffer("Dead-Estate", "Dead-Estate-Assignment-Anya-Save-Data", "Save data for Dead Estate: Assignment Anya
+    gml_Object_game_Other_72.gml:16 if (slotTitle == "Dead-Estate-Save-Data" || slotTitle == "Dead-Estate-Assignment-Anya-Save-Data" || slotTitle == "Dead-E
+[4648] 'Side'
+    gml_GlobalScript_scrSprites.gml:305 function loadSpriteAssets(arg0, arg1, arg2 = ["Front", "3-4_Front", "Side", "3-4_Back", "Back", "3-4_Back", "Side", "3-4
+    gml_Object_oSpriteLoader_Create_0.gml:19 eastString: "Side",
+[4650] 'Back'
+    gml_GlobalScript_scrSprites.gml:305 function loadSpriteAssets(arg0, arg1, arg2 = ["Front", "3-4_Front", "Side", "3-4_Back", "Back", "3-4_Back", "Side", "3-4
+    gml_Object_oSpriteLoader_Create_0.gml:21 northString: "Back",
+[4651] 'Front'
+    gml_GlobalScript_scrSprites.gml:305 function loadSpriteAssets(arg0, arg1, arg2 = ["Front", "3-4_Front", "Side", "3-4_Back", "Back", "3-4_Back", "Side", "3-4
+    gml_Object_oSpriteLoader_Create_0.gml:17 southString: "Front",
+[4652] 'Idle'
+    gml_GlobalScript_scrSprites.gml:305 function loadSpriteAssets(arg0, arg1, arg2 = ["Front", "3-4_Front", "Side", "3-4_Back", "Back", "3-4_Back", "Side", "3-4
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:68 name: "Idle",
+[4653] 'Walk'
+    gml_GlobalScript_scrSprites.gml:305 function loadSpriteAssets(arg0, arg1, arg2 = ["Front", "3-4_Front", "Side", "3-4_Back", "Back", "3-4_Back", "Side", "3-4
+    gml_Object_chunks_Step_0.gml:139 if ((abs(verticalSpeed) >= lim && abs(horizontalSpeed) >= lim) || !string_pos("Walk", sprite_get_name(sprite_index
+[4654] 'Jump'
+    gml_GlobalScript_scrSprites.gml:305 function loadSpriteAssets(arg0, arg1, arg2 = ["Front", "3-4_Front", "Side", "3-4_Back", "Back", "3-4_Back", "Side", "3-4
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:83 name: "Jump",
+[4655] 'Damage'
+    gml_GlobalScript_scrSprites.gml:305 function loadSpriteAssets(arg0, arg1, arg2 = ["Front", "3-4_Front", "Side", "3-4_Back", "Back", "3-4_Back", "Side", "3-4
+    gml_Object_oSpriteLoader_Step_0.gml:13 variable_global_set(s.globalVariableName, createPlayerSprites(s.folderName, s.spritePrefix, [s.directions.southStr
+[4656] 'Death'
+    gml_GlobalScript_scrSprites.gml:305 function loadSpriteAssets(arg0, arg1, arg2 = ["Front", "3-4_Front", "Side", "3-4_Back", "Back", "3-4_Back", "Side", "3-4
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:98 name: "Death",
+[4686] '♦i'
+    gml_GlobalScript_scrStrings.gml:46 case "♦i":
+    gml_GlobalScript_scrWeapons.gml:123 createWeapon(97, "Vacuum Cleaner", concat("♦s", "♦i", "♦w", "WHHRRRRRR"), oVacuum, UnknownEnum.Value_6, "Suck 'em up!", 
+[4687] '♦k'
+    gml_GlobalScript_scrStrings.gml:49 case "♦k":
+    gml_Object_oAnyaIntroEvent_Step_0.gml:30 var str = concat("♦k", "inputSpecial", "♦r", " to equip/unequip mask.");
+[4746] 'TEReset'
+    (代码中未找到带引号引用)
+[4752] 'TEWave'
+    (代码中未找到带引号引用)
+[4755] 'TEShake'
+    (代码中未找到带引号引用)
+[4756] 'TEBold'
+    (代码中未找到带引号引用)
+[4757] 'TEItalics'
+    (代码中未找到带引号引用)
+[4763] 'TEButton'
+    (代码中未找到带引号引用)
+[4766] 'TEColor'
+    (代码中未找到带引号引用)
+[4769] 'TCRainbow'
+    (代码中未找到带引号引用)
+[4770] 'TCRed'
+    (代码中未找到带引号引用)
+[4771] 'TCOrange'
+    (代码中未找到带引号引用)
+[4772] 'TCYellow'
+    (代码中未找到带引号引用)
+[4773] 'TCGreen'
+    (代码中未找到带引号引用)
+[4774] 'TCAqua'
+    (代码中未找到带引号引用)
+[4775] 'TCBlue'
+    (代码中未找到带引号引用)
+[4776] 'TCViolet'
+    (代码中未找到带引号引用)
+[4777] 'TCWhite'
+    (代码中未找到带引号引用)
+[4778] 'TCGray'
+    (代码中未找到带引号引用)
+[4779] 'TCBlack'
+    (代码中未找到带引号引用)
+[4812] 'ESC'
+    gml_GlobalScript_scrStrings.gml:921 return "ESC";
+[4813] 'F1'
+    gml_GlobalScript_scrStrings.gml:924 return "F1";
+[4814] 'F2'
+    gml_GlobalScript_scrStrings.gml:927 return "F2";
+[4815] 'F3'
+    gml_GlobalScript_scrStrings.gml:930 return "F3";
+[4816] 'F4'
+    gml_GlobalScript_scrStrings.gml:933 return "F4";
+[4817] 'F5'
+    gml_GlobalScript_scrStrings.gml:936 return "F5";
+[4818] 'F6'
+    gml_GlobalScript_scrStrings.gml:939 return "F6";
+[4819] 'F7'
+    gml_GlobalScript_scrStrings.gml:942 return "F7";
+[4820] 'F8'
+    gml_GlobalScript_scrStrings.gml:945 return "F8";
+[4821] 'F9'
+    gml_GlobalScript_scrStrings.gml:948 return "F9";
+[4822] 'F10'
+    gml_GlobalScript_scrStrings.gml:951 return "F10";
+[4823] 'F11'
+    gml_GlobalScript_scrStrings.gml:954 return "F11";
+[4824] 'F12'
+    gml_GlobalScript_scrStrings.gml:957 return "F12";
+[4826] 'PAUSE'
+    gml_GlobalScript_scrStrings.gml:963 return "PAUSE";
+[4827] 'BACKSPACE'
+    gml_GlobalScript_scrStrings.gml:966 return "BACKSPACE";
+[4828] 'INS'
+    gml_GlobalScript_scrStrings.gml:969 return "INS";
+[4829] 'HOME'
+    gml_GlobalScript_scrStrings.gml:972 return "HOME";
+[4830] 'PGUP'
+    gml_GlobalScript_scrStrings.gml:975 return "PGUP";
+[4832] 'TAB'
+    gml_GlobalScript_scrStrings.gml:990 return "TAB";
+[4833] 'DEL'
+    gml_GlobalScript_scrStrings.gml:993 return "DEL";
+[4834] 'END'
+    gml_GlobalScript_scrStrings.gml:996 return "END";
+[4835] 'PGDN'
+    gml_GlobalScript_scrStrings.gml:999 return "PGDN";
+[4836] 'NUM0'
+    gml_GlobalScript_scrStrings.gml:1002 return "NUM0";
+[4837] 'NUM1'
+    gml_GlobalScript_scrStrings.gml:1005 return "NUM1";
+[4838] 'NUM2'
+    gml_GlobalScript_scrStrings.gml:1008 return "NUM2";
+[4839] 'NUM3'
+    gml_GlobalScript_scrStrings.gml:1011 return "NUM3";
+[4840] 'NUM4'
+    gml_GlobalScript_scrStrings.gml:1014 return "NUM4";
+[4841] 'NUM5'
+    gml_GlobalScript_scrStrings.gml:1017 return "NUM5";
+[4842] 'NUM6'
+    gml_GlobalScript_scrStrings.gml:1020 return "NUM6";
+[4843] 'NUM7'
+    gml_GlobalScript_scrStrings.gml:1023 return "NUM7";
+[4844] 'NUM8'
+    gml_GlobalScript_scrStrings.gml:1026 return "NUM8";
+[4845] 'NUM9'
+    gml_GlobalScript_scrStrings.gml:1029 return "NUM9";
+[4846] 'ENTER'
+    gml_GlobalScript_scrStrings.gml:1035 return "ENTER";
+[4847] 'LSHIFT'
+    gml_GlobalScript_scrStrings.gml:1038 return "LSHIFT";
+[4848] 'RSHIFT'
+    gml_GlobalScript_scrStrings.gml:1041 return "RSHIFT";
+[4849] 'SHIFT'
+    gml_GlobalScript_scrStrings.gml:1044 return "SHIFT";
+[4850] 'SPACE'
+    gml_GlobalScript_scrStrings.gml:1047 return "SPACE";
+[4851] 'LCTRL'
+    gml_GlobalScript_scrStrings.gml:1050 return "LCTRL";
+[4852] 'LALT'
+    gml_GlobalScript_scrStrings.gml:1053 return "LALT";
+[4853] 'RALT'
+    gml_GlobalScript_scrStrings.gml:1056 return "RALT";
+[4854] 'RCTRL'
+    gml_GlobalScript_scrStrings.gml:1059 return "RCTRL";
+[4855] 'LEFT'
+    gml_GlobalScript_scrStrings.gml:1062 return "LEFT";
+[4856] 'RIGHT'
+    gml_GlobalScript_scrStrings.gml:1065 return "RIGHT";
+[4857] 'UP'
+    gml_GlobalScript_scrStrings.gml:1068 return "UP";
+[4858] 'DOWN'
+    gml_GlobalScript_scrStrings.gml:1071 return "DOWN";
+[4864] 'MOUSE'
+    gml_GlobalScript_scrStrings.gml:1089 return "MOUSE";
+[4870] 'SELECT'
+    gml_GlobalScript_scrStrings.gml:1138 return "SELECT";
+[4871] 'START'
+    gml_GlobalScript_scrStrings.gml:1141 return "START";
+[4882] 'IV'
+    gml_GlobalScript_scrStrings.gml:1199 var roman_numerals = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"];
+[4884] 'IX'
+    gml_GlobalScript_scrStrings.gml:1199 var roman_numerals = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"];
+[4885] 'XL'
+    gml_GlobalScript_scrStrings.gml:1199 var roman_numerals = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"];
+[4887] 'XC'
+    gml_GlobalScript_scrStrings.gml:1199 var roman_numerals = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"];
+[4888] 'CD'
+    gml_GlobalScript_scrStrings.gml:1199 var roman_numerals = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"];
+[4889] 'CM'
+    gml_GlobalScript_scrStrings.gml:1199 var roman_numerals = ["M", "CM", "D", "CD", "C", "XC", "L", "XL", "X", "IX", "V", "IV", "I"];
+[4909] 'Handgun'
+    gml_GlobalScript_scrWeapons.gml:26 createWeapon(0, "Handgun", "Fires at a ♦2decent rate♦r and deals ♦2fair damage♦r.", handGun, UnknownEnum.Value_0, "Pew p
+[4912] 'Magnum'
+    gml_GlobalScript_scrWeapons.gml:27 createWeapon(1, "Magnum", "♦2Accurate♦r and ♦2high damage♦r, but ♦0fires slowly♦r.", magnum, UnknownEnum.Value_0, "Fancy
+[4915] 'SMG'
+    gml_GlobalScript_scrWeapons.gml:28 createWeapon(2, "SMG", "Has a ♦2fast fire rate♦r at the cost of ♦0low accuracy♦r and ♦0damage♦r.", smg, UnknownEnum.Valu
+[4921] 'Minigun'
+    gml_GlobalScript_scrWeapons.gml:30 createWeapon(4, "Minigun", "Fires at an ♦2♦sabsurdly fast rate♦r with the downside of ♦0extremely low accuracy♦r.", mini
+[4924] 'Shotgun'
+    gml_GlobalScript_scrWeapons.gml:31 createWeapon(5, "Shotgun", "Very effective with a ♦2high damage output♦r, but only at ♦0close range♦r and with a ♦0low f
+[4927] 'Auto-Shotgun'
+    gml_GlobalScript_scrWeapons.gml:32 createWeapon(6, "Auto-Shotgun", "♦2Fires faster♦r with ♦0less damage♦r than the standard shotgun.", autoShotGun, Unknown
+[4930] 'Mini-Shotgun'
+    gml_GlobalScript_scrWeapons.gml:33 createWeapon(7, "Mini-Shotgun", "♦2Very high fire rate♦r, but ♦0very low damage♦r and ♦0even less accuracy♦r.", miniShot
+[4933] 'Flamethrower'
+    gml_GlobalScript_scrWeapons.gml:34 createWeapon(8, "Flamethrower", "♦1Incendiary weapon ♦rthat does ♦0very little initial damage♦r, but is able to ♦1burn e
+[4966] 'Bomb'
+    gml_GlobalScript_scrWeapons.gml:45 createWeapon(19, "Bomb", "A ♦wbouncy♦r bomb that detonates shortly after being thrown or on impact.", bomb, UnknownEnum.
+[4972] 'Paddleball'
+    gml_GlobalScript_scrWeapons.gml:47 createWeapon(21, "Paddleball", "♦sExtreme paddle action.", paddleBall, UnknownEnum.Value_4, "One of the most powerful we
+[4986] 'Cannon'
+    gml_GlobalScript_scrWeapons.gml:52 createWeapon(26, "Cannon", "Fires a ♦0slow-moving♦r, ♦2large♦r, ♦2very high-damage♦r projectile. ♦0Slow reload speed♦r."
+[5001] 'Axe'
+    gml_GlobalScript_scrWeapons.gml:57 createWeapon(31, "Axe", "A ♦0slow-swinging♦r, ♦2high damage♦r woodcutter.", axe, UnknownEnum.Value_8, "Chop some trees w
+[5004] 'Hammer'
+    gml_GlobalScript_scrWeapons.gml:58 createWeapon(32, "Hammer", "Melee weapon that ♦0swings slow♦r but has a ♦2wide impact♦r.", hammer, UnknownEnum.Value_8, 
+[5010] 'Broadsword'
+    gml_GlobalScript_scrWeapons.gml:60 createWeapon(34, "Broadsword", "♦2Swings fast♦r with ♦0 low damage♦r.", sword, UnknownEnum.Value_8, "That sword is worth
+[5032] 'Crossbow'
+    gml_GlobalScript_scrWeapons.gml:68 createWeapon(42, "Crossbow", "A ♦2hard-hitting♦r, ♦0slow-reloading♦r weapon that fires bolts which ♦2penetrate enemies♦r
+[5039] 'Quacks.'
+    gml_GlobalScript_scrWeapons.gml:71 createWeapon(45, "Quacks", "Quacks.", quacks, UnknownEnum.Value_10, "Quacks.", "Quacks.", 100);
+[5040] 'Quacks'
+    gml_GlobalScript_scrWeapons.gml:71 createWeapon(45, "Quacks", "Quacks.", quacks, UnknownEnum.Value_10, "Quacks.", "Quacks.", 100);
+[5061] 'Chainsaw'
+    gml_GlobalScript_scrWeapons.gml:79 createWeapon(53, "Chainsaw", "This'll work.", chainsaw, UnknownEnum.Value_8, "Let 'er rip!", "", 400);
+[5064] 'Shuriken'
+    gml_GlobalScript_scrWeapons.gml:80 createWeapon(54, "Shuriken", "Pointy!", shuriken, UnknownEnum.Value_6, "You otaku...", "", 100);
+[5070] 'Boomerang'
+    gml_GlobalScript_scrWeapons.gml:82 createWeapon(56, "Boomerang", "Fwhoosh!", boomerang, UnknownEnum.Value_6, "It comes right back!", "", 250);
+[5125] 'Bone'
+    gml_GlobalScript_scrWeapons.gml:101 createWeapon(75, "Bone", "Spooky! Scary!", bone, UnknownEnum.Value_8, "No meat -- picked clean!", "", 100);
+[5128] 'Trumpet'
+    gml_GlobalScript_scrWeapons.gml:102 createWeapon(76, "Trumpet", "Play it proud!", trumpet, UnknownEnum.Value_6, "Didn't know you could play!", "", 100);
+[5152] 'Thumbtacks'
+    gml_GlobalScript_scrWeapons.gml:110 createWeapon(84, "Thumbtacks", concat("Don't step on any!"), oThumbtacks, UnknownEnum.Value_6, "Pointy!", "", 100);
+[5155] 'Record'
+    gml_GlobalScript_scrWeapons.gml:111 createWeapon(85, "Record", concat("♦w", "Groovy!"), oRecord, UnknownEnum.Value_6, "Jam out!", "", 250);
+[5158] 'Radioactive'
+    gml_GlobalScript_scrWeapons.gml:112 createWeapon(86, "Rad Hammer", concat("♦s", "♦3", "Radioactive", "♦r", " swings!"), oRadHammer, UnknownEnum.Value_8, "Ke
+[5194] 'Eliminator'
+    gml_GlobalScript_scrWeapons.gml:121 createWeapon(95, "Eliminator", concat("Fires a constant stream of ", "♦5", "lasers", "♦r", "."), oEliminator, UnknownEnu
+[5199] 'WHHRRRRRR'
+    gml_GlobalScript_scrWeapons.gml:123 createWeapon(97, "Vacuum Cleaner", concat("♦s", "♦i", "♦w", "WHHRRRRRR"), oVacuum, UnknownEnum.Value_6, "Suck 'em up!", 
+[5224] 'Eheheheh...'
+    gml_GlobalScript_scrWeapons.gml:130 createWeapon(104, "Rad Sex Gun", concat("Fires ", "♦2", "six", "♦3", " radioactive", "♦r", " bullets", "♦r", " at once."
+[5272] 'Knife'
+    gml_GlobalScript_scrWeapons.gml:145 createWeapon(119, "Knife", "Pointy!", oKnife, UnknownEnum.Value_8, "How sharp!", "How sharp!", 100);
+[5291] 'Devastating.'
+    gml_GlobalScript_scrWeapons.gml:152 createWeapon(126, "Flame Rail Gun", "Charge weapon that fires a ♦1flaming♦r beam.", oFlameRailGun, UnknownEnum.Value_5, 
+[5311] 'Jetpack'
+    gml_GlobalScript_scrWeapons.gml:158 createWeapon(132, "Jetpack", "Take off!", oJetPack, UnknownEnum.Value_6, "Ever wanted to fly?", "Ever wanted to fly?", 1
+[5320] 'Ssssssss.'
+    gml_GlobalScript_scrWeapons.gml:162 createWeapon(136, "Hot Iron", "♦1Super hot!♦r", oHotIron, UnknownEnum.Value_8, "Ssssssss.", "Ssssssss.", 180);
+[5343] 'Volcano'
+    gml_GlobalScript_scrWeapons.gml:169 createWeapon(143, "Volcano", "♦1Hot to the touch.♦r", oVolcano, UnknownEnum.Value_5, "Not a literal volcano, don't worry
+[5351] 'Long.'
+    gml_GlobalScript_scrWeapons.gml:172 createWeapon(146, "Punt Gun", "Long.", oPuntGun, UnknownEnum.Value_5, "Don't overcompensate.", "Don't overcompensate.", 
+[5424] 'UGC'
+    gml_RoomCC_Room_Steam_Main_1_Create.gml:1 text = "UGC";
+[5425] 'Social'
+    gml_RoomCC_Room_Steam_Main_2_Create.gml:1 text = "Social";
+[5426] 'Overlays'
+    gml_RoomCC_Room_Steam_Main_3_Create.gml:1 text = "Overlays";
+[5427] 'Networking'
+    gml_RoomCC_Room_Steam_Main_5_Create.gml:1 text = "Networking";
+[5433] 'Leaderboards'
+    gml_RoomCC_Room_Steam_Social_2_Create.gml:1 text = "Leaderboards";
+[5434] 'Stats'
+    gml_RoomCC_Room_Steam_Social_3_Create.gml:1 text = "Stats";
+[5435] 'Achievements'
+    gml_Object_Obj_Steam_Overlay_Achievements_Create_0.gml:3 text = "Achievements";
+    gml_RoomCC_Room_Steam_Social_4_Create.gml:1 text = "Achievements";
+[5436] 'Winner'
+    gml_RoomCC_Room_Steam_Social_5_Create.gml:1 text = "Winner";
+[5437] 'Champion'
+    gml_RoomCC_Room_Steam_Social_6_Create.gml:1 text = "Champion";
+[5439] 'Interstellar'
+    gml_RoomCC_Room_Steam_Social_7_Create.gml:1 text = "Interstellar";
+[5441] 'Orbiter'
+    gml_RoomCC_Room_Steam_Social_8_Create.gml:1 text = "Orbiter";
+[5443] 'Upload'
+    gml_RoomCC_Room_Steam_Social_Leaderboard_1_Create.gml:1 text = "Upload";
+[5444] 'Download'
+    gml_RoomCC_Room_Steam_Social_Leaderboard_2_Create.gml:1 text = "Download";
+[5574] 'ALTFLOOR1'
+    gml_Object_altFloor1Controller_Create_0.gml:31 psnChangeZone("ALTFLOOR1");
+[5596] 'ALTFLOOR2'
+    gml_Object_altFloor2Controller_Create_0.gml:20 psnChangeZone("ALTFLOOR2");
+[5609] 'RUNRUNRUN'
+    gml_Object_altFloor3Controller_Create_0.gml:18 unlockedTheMedal = getMedalUnlocked("RUNRUNRUN");
+    gml_Object_altFloor3Controller_Step_0.gml:25 unlockMedal("RUNRUNRUN");
+[5612] 'ALTFLOOR3'
+    gml_Object_altFloor3Controller_Create_0.gml:20 psnChangeZone("ALTFLOOR3");
+[5630] 'ALTFLOOR4'
+    gml_Object_altFloor4Controller_Create_0.gml:21 psnChangeZone("ALTFLOOR4");
+[5671] 'LOCKSMITH'
+    gml_Object_antidoteKey_Create_0.gml:9 unlockMedal("LOCKSMITH");
+    gml_Object_gallery_Create_0.gml:119 addGalleryPic(sprDadConceptSketches, "Dad Concept Sketches", "Some initial sketches of Cordelia's father, the mad scient
+[5744] 'BALCONY'
+    gml_Object_balconyController_Create_0.gml:23 psnChangeZone("BALCONY");
+[5882] 'Speed'
+    (代码中未找到带引号引用)
+[6127] 'EXTERMINATOR'
+    gml_Object_chunks_Destroy_0.gml:3 unlockMedal("EXTERMINATOR");
+    gml_Object_gallery_Create_0.gml:146 addGalleryPic(sprBabyChunks, "Little Chunks", "Chunks in his normal mouse form getting into some mischief!", "EXTERMINAT
+[6172] 'CHUNKS'
+    gml_Object_chunksBoss_PreCreate_0.gml:9 self.bossName = "CHUNKS";
+[6197] 'OK'
+    gml_Object_confirmBuildSave_Create_0.gml:6 makeOption("OK", -4, "", function()
+    gml_Object_confirmSaveDeletion_Create_0.gml:15 makeOption("OK", -4, "", function()
+[6240] 'Rumble'
+    gml_Object_controlSettingsMenu_Create_0.gml:54 var rumbleTerm = "Rumble";
+[6252] 'Z-Aiming'
+    gml_Object_controlSettingsMenu_Create_0.gml:70 makeOption("Z-Aiming", -4, "When enabled, your character will aim directly towards the crosshair even when jumping or fa
+[6347] 'DIAVOLA'
+    gml_Object_diavola_PreCreate_0.gml:11 self.bossName = "DIAVOLA";
+[6491] 'Health'
+    gml_Object_doctorMom_Create_0.gml:5 witchItem[0] = ["healthLevel", 0, 0, newProcessString("Health", 999), newProcessString("♦b♦6Health♦r determines how much
+    gml_Object_doctorWitch_Create_0.gml:10 witchItem[0] = ["healthLevel", 0, 0, newProcessString("Health", 999), newProcessString("♦b♦6Health♦r determines how much
+[6495] 'Agility'
+    gml_Object_doctorMom_Create_0.gml:6 witchItem[1] = ["agilityLevel", 0, 0, newProcessString("Agility", 999), newProcessString("♦b♦2Agility♦r affects your mov
+    gml_Object_doctorWitch_Create_0.gml:11 witchItem[1] = ["agilityLevel", 0, 0, newProcessString("Agility", 999), newProcessString("♦b♦2Agility♦r affects your mov
+[6499] 'Strength'
+    gml_Object_doctorMom_Create_0.gml:7 witchItem[2] = ["strengthLevel", 0, 0, newProcessString("Strength", 999), newProcessString("♦b♦0Strength♦r is a measure 
+    gml_Object_doctorWitch_Create_0.gml:12 witchItem[2] = ["strengthLevel", 0, 0, newProcessString("Strength", 999), newProcessString("♦b♦0Strength♦r is a measure 
+[6597] 'Groovy.'
+    gml_Object_enemy_Other_10.gml:74 var t = choose("Seeya!", "Rest in pieces.", "Groovy.", "Ugly fella, arntcha?", "Small time.", "I don't want what y
+    gml_Object_itemPickup_Step_0.gml:43 _sayString = choose("Strange.", "Hope nobody minds me taking this.", "Groovy.");
+[6605] 'Extinguished.'
+    gml_Object_enemy_Other_10.gml:93 t = "Extinguished.";
+[6654] 'Medals'
+    gml_Object_extrasMenu_Create_0.gml:26 makeOption("Medals", sprMedalsIcon, "", function()
+[6657] 'Records'
+    gml_Object_extrasMenu_Create_0.gml:50 makeOption("Records", sprRecordsIcon, "", function()
+    gml_Object_recordsMenu_PreCreate_0.gml:2 self.menuName = "Records";
+[6660] 'Movies'
+    gml_Object_extrasMenu_Create_0.gml:57 makeOption("Movies", sprMoviesIcon, "", function()
+[6664] 'Gallery'
+    gml_Object_extrasMenu_Create_0.gml:64 makeOption("Gallery", sprGalleryIcon, "", function()
+    gml_Object_oAnyaArtGalleryAreaName_Create_0.gml:6 name = "Gallery";
+[6672] 'Extras'
+    gml_Object_extrasMenu_PreCreate_0.gml:2 self.menuName = "Extras";
+    gml_Object_mainMenu_Create_0.gml:312 addTitleButton("Extras", function()
+[6696] '♦s4...'
+    gml_Object_finalBossEvent_Step_0.gml:145 sayOtherExt("♦s4...", finalIntercom, l);
+[6697] '♦s3...'
+    gml_Object_finalBossEvent_Step_0.gml:148 sayOtherExt("♦s3...", finalIntercom, l);
+[6698] '♦s2...'
+    gml_Object_finalBossEvent_Step_0.gml:151 sayOtherExt("♦s2...", finalIntercom, l);
+[6699] '♦s1!!'
+    gml_Object_finalBossEvent_Step_0.gml:154 sayOtherExt("♦s1!!", finalIntercom, 90);
+[6762] 'FLOOR1'
+    gml_Object_floor1Controller_Create_0.gml:40 psnChangeZone("FLOOR1");
+    gml_Object_oPSNTrophyTest_Step_0.gml:54 ds_map_add(udsMap, "zoneId", "FLOOR1");
+[6774] 'FLOOR2'
+    gml_Object_floor2Controller_Create_0.gml:54 psnChangeZone("FLOOR2");
+[6790] 'FLOOR3'
+    gml_Object_floor3Controller_Create_0.gml:41 psnChangeZone("FLOOR3");
+[6800] 'FLOOR4'
+    gml_Object_floor4Controller_Create_0.gml:48 psnChangeZone("FLOOR4");
+[6807] 'LABORATORY'
+    gml_Object_floor4Controller_PreCreate_0.gml:12 self.levelName = "LABORATORY";
+[6813] 'FLOOR5'
+    gml_Object_floor5Controller_Create_0.gml:10 psnChangeZone("FLOOR5");
+[6833] 'FLOOR6'
+    gml_Object_floor6Controller_Create_0.gml:33 psnChangeZone("FLOOR6");
+[6845] 'FINAL'
+    gml_Object_floor6Controller_PreCreate_0.gml:13 self.levelNumber = "FINAL";
+[6857] 'Pathetic.'
+    gml_Object_fuji_Create_0.gml:7 prohibitedWeaponText = ["Pathetic.", "Ugh. Is this a JOKE?!", "I've got plenty of guns right here!", "My fists pack more
+[6942] 'DIE'
+    gml_Object_gallery_Create_0.gml:148 addGalleryPic(sprMonsterSketches, "Monster Sketches", "A few rough sketches of some monster ideas made towards the begin
+    gml_Object_game_Create_0.gml:212 createMedal("Die", "Die.", sprAchDie, "DIE");
+[6952] 'MIDAS'
+    gml_Object_gallery_Create_0.gml:152 addGalleryPic(sprGalleryDoggy, "Doggy", "Snackers's doggy.", "MIDAS");
+    gml_Object_game_Create_0.gml:250 createMedal("Midas", "Break 10+ golden pots in a single run.", sprAchMidas, "MIDAS", [], UnknownEnum.Value_1);
+[6954] 'Doggy'
+    gml_Object_gallery_Create_0.gml:152 addGalleryPic(sprGalleryDoggy, "Doggy", "Snackers's doggy.", "MIDAS");
+[6956] 'Johnny'
+    gml_Object_gallery_Create_0.gml:153 addGalleryPic(sprJohnny, "Johnny", "A yelping, hybrid creature: part-dog, part-frog, part-goblin, 100% love. He grew win
+[7058] 'Nataleviathan'
+    gml_Object_gallery_Create_0.gml:201 addGalleryPic(shrimp_boss_sketch, "Nataleviathan", "A sketch of the Nataleviathan, a prematurely-born version of the Lev
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[7143] 'DREAMER'
+    gml_Object_gallery_Create_0.gml:240 addGalleryPic(DEAD_ESTATE___GOOD_NIGHT_UPDATE___PROMO_ART_2, "Goodnight Poster", "Fully-rendered poster for the Goodnigh
+    gml_Object_game_Create_0.gml:278 createMedal("Dreamer", "Fall asleep.", sprAchFallAsleep, "DREAMER", [], UnknownEnum.Value_0);
+[7164] 'BED'
+    gml_Object_gallery_Create_0.gml:250 addGalleryPic(dead_estate_anniversary_WIP, "Anniversary Poster WIP #1", "Line art for the third anniversary poster.", "B
+    gml_Object_game_Create_0.gml:277 createMedal("???", "Find a place to rest.", sprAchBed, "BED", [], UnknownEnum.Value_0);
+[7341] 'Butler'
+    gml_Object_game_Create_0.gml:88 createMedal("Butler", "Clear the Ground Floor.", sprAchClearFloor1, "CLEAR_FLOOR_1", ["CLEAR_FLOOR_2"], UnknownEnum.Valu
+[7344] 'Cultist'
+    gml_Object_game_Create_0.gml:89 createMedal("Cultist", "Clear the Upper Story.", sprAchClearFloor2, "CLEAR_FLOOR_2", ["CLEAR_FLOOR_3", "HOMERUN_HITTER"]
+[7346] 'Freako'
+    gml_Object_game_Create_0.gml:90 createMedal("Freako", "Clear the Attic Sanctum.", sprAchClearFloor3, "CLEAR_FLOOR_3", ["CLEAR_FLOOR_4"]);
+[7350] 'Groundskeeper'
+    gml_Object_game_Create_0.gml:92 createMedal("Groundskeeper", "Clear Dark Mood Woods.", sprAchClearAltFloor1, "CLEAR_ALT_FLOOR_1", ["CLEAR_ALT_FLOOR_2", 
+[7354] 'Director'
+    gml_Object_game_Create_0.gml:94 createMedal("Director", "Clear the Abandoned Set.", sprAchClearAltFloor3, "CLEAR_ALT_FLOOR_3", ["CLEAR_ALT_FLOOR_4"]);
+[7358] 'Slayer'
+    gml_Object_game_Create_0.gml:96 createMedal("Slayer", "Clear Exit Realm.", sprAchClearFloor6, "CLEAR_FLOOR_6", ["UNLOCK_MONSTER_MUMBA", "SPEED_DEMON"]);
+[7363] 'GLOBETROTTER'
+    gml_Object_game_Create_0.gml:98 createMedal("Acolyte", "Clear the Shrine.", sprAchClearShrine, "CLEAR_SHRINE", ["GLOBETROTTER", "KEEN_OBSERVATION"]);
+    gml_Object_oAwakeningEndingController_Create_0.gml:22 unlockMedal("GLOBETROTTER");
+[7365] 'Acolyte'
+    gml_Object_game_Create_0.gml:98 createMedal("Acolyte", "Clear the Shrine.", sprAchClearShrine, "CLEAR_SHRINE", ["GLOBETROTTER", "KEEN_OBSERVATION"]);
+[7367] 'CRACKED'
+    gml_Object_game_Create_0.gml:99 createMedal("Deep Sleeper", "Clear the Dream.", sprAchClearDream, "CLEAR_DREAM", ["CLEAR_MINDSCAPE", "CRACKED", "EVERY_N
+    gml_Object_oEgg_Destroy_0.gml:11 unlockMedal("CRACKED");
+[7378] 'Survivor'
+    gml_Object_game_Create_0.gml:101 createMedal("Survivor", "Clear the Nightmare.", sprAchClearNightmare, "CLEAR_NIGHTMARE", ["CLEAR_SHRINE", "SWIFT_EXECUTI
+[7518] 'Scrambled'
+    gml_Object_game_Create_0.gml:147 createMedal("Scrambled", "Complete Jumbled Mess.", sprAchChallenge4, "CHALLENGE_4", ["ALL_CHALLENGES"], UnknownEnum.Valu
+[7536] 'Chargeback'
+    gml_Object_game_Create_0.gml:153 createMedal("Chargeback", "Complete Mom's Credit Card.", sprAchChallenge10, "CHALLENGE_9", ["ALL_CHALLENGES"], UnknownEn
+[7544] 'Challenger'
+    gml_Object_game_Create_0.gml:156 createMedal("Challenger", "Complete every challenge.", sprAchAllChallenges, "ALL_CHALLENGES", [], UnknownEnum.Value_0);
+[7552] 'Struggler'
+    gml_Object_game_Create_0.gml:160 createMedal("Struggler", "Achieve a C rank in Assignment Anya.", sprAchAnyaRankC, "ANYA_RANK_C", [], UnknownEnum.Value_0
+[7568] 'Disarmed'
+    gml_Object_game_Create_0.gml:168 createMedal("Disarmed", "", sprAchAnyaArm, "ANYA_DISARMED", [], UnknownEnum.Value_0);
+[7592] 'Graduation'
+    gml_Object_game_Create_0.gml:179 createMedal("Graduation", "Get the true ending as Jules.", sprAchClearJulesTrue, "CLEAR_JULES_TRUE", ["ALL_TRUE_ENDINGS"
+[7598] 'Troublemaker'
+    gml_Object_game_Create_0.gml:182 createMedal("Troublemaker", "Get the true ending as Digby.", sprAchClearDigbyTrue, "CLEAR_DIGBY_TRUE", ["ALL_TRUE_ENDING
+[7606] 'Showdown'
+    gml_Object_game_Create_0.gml:186 createMedal("Showdown", "Get the true ending as Fuji.", sprAchClearFujiTrue, "CLEAR_FUJI_TRUE", ["ALL_TRUE_ENDINGS"]);
+[7638] 'Locksmith'
+    gml_Object_game_Create_0.gml:202 createMedal("Locksmith", "Assemble all four parts of the Silver Key.", sprAchLocksmith, "LOCKSMITH", ["WHATS_INSIDE"]);
+[7644] 'Exterminator'
+    gml_Object_game_Create_0.gml:205 createMedal("Exterminator", "Knock out Chunks.", sprAchExterminator, "EXTERMINATOR");
+[7652] 'SPEEDRUNNER'
+    gml_Object_gameEnding_Create_0.gml:31 unlockMedal("SPEEDRUNNER");
+    gml_Object_game_Create_0.gml:208 createMedal("Speedrunner", "Complete a run in 20 minutes or less.", sprAchSpeedRunner, "SPEEDRUNNER", [], UnknownEnum.Va
+[7654] 'Speedrunner'
+    gml_Object_game_Create_0.gml:208 createMedal("Speedrunner", "Complete a run in 20 minutes or less.", sprAchSpeedRunner, "SPEEDRUNNER", [], UnknownEnum.Va
+[7664] 'Die.'
+    gml_Object_game_Create_0.gml:212 createMedal("Die", "Die.", sprAchDie, "DIE");
+[7665] 'Die'
+    gml_Object_game_Create_0.gml:212 createMedal("Die", "Die.", sprAchDie, "DIE");
+[7669] 'MASSACRE'
+    gml_Object_game_Create_0.gml:214 createMedal("Massacre", "Kill 6+ enemies with less than a second gap between each kill.", sprAchMassacre, "MASSACRE", []
+    gml_Object_player_Step_0.gml:1456 unlockMedal("MASSACRE");
+[7671] 'Massacre'
+    gml_Object_game_Create_0.gml:214 createMedal("Massacre", "Kill 6+ enemies with less than a second gap between each kill.", sprAchMassacre, "MASSACRE", []
+[7672] 'AGAIN'
+    gml_Object_game_Create_0.gml:215 createMedal("Another Go-round", "Leap off of the balcony and loop your run.", sprAchAnotherGoRound, "ANOTHER_GO_ROUND", 
+    gml_Object_pitFallEvent_Step_0.gml:53 unlockMedal("AGAIN");
+[7685] 'Collector'
+    gml_Object_game_Create_0.gml:220 createMedal("Collector", "Collect 15+ items in a single run.", sprAchCollector, "COLLECTOR", ["HOARDER"], UnknownEnum.Va
+[7687] 'Hoarder'
+    gml_Object_game_Create_0.gml:221 createMedal("Hoarder", "Collect 25+ items in a single run.", sprAchHoarder, "HOARDER", ["KLEPTO"], UnknownEnum.Value_1);
+[7689] 'Klepto'
+    gml_Object_game_Create_0.gml:222 createMedal("Klepto", "Collect 35+ items in a single run.", sprAchKlepto, "KLEPTO", [], UnknownEnum.Value_1);
+[7716] 'Gigaton'
+    gml_Object_game_Create_0.gml:235 createMedal("Gigaton", "As BOSS, obtain 10+ explosive-related items.", sprAchGigaton, "GIGATON", []);
+[7718] 'Lumberjack'
+    gml_Object_game_Create_0.gml:236 createMedal("Lumberjack", "As Axel, deal 100+ damage in a single hit with your Hatchets.", sprAchLumberjack, "LUMBERJACK
+[7720] 'Commencement'
+    gml_Object_game_Create_0.gml:237 createMedal("Commencement", "Unlock all medals associated with Jules.", sprAch100Jules, "JULES_100", ["ALL_CHARACTERS_10
+[7746] 'Midas'
+    gml_Object_game_Create_0.gml:250 createMedal("Midas", "Break 10+ golden pots in a single run.", sprAchMidas, "MIDAS", [], UnknownEnum.Value_1);
+[7758] 'Rich'
+    gml_Object_game_Create_0.gml:256 createMedal("Rich", "Store $20,000 in the bank.", sprAchBank6, "BANK_6", [], UnknownEnum.Value_0);
+[7760] 'Rodent'
+    gml_Object_game_Create_0.gml:257 createMedal("Rodent", "Hold 10 Chunks Medallions at once.", sprAchCoins1, "CHUNKS_MEDALLIONS_1", ["CHUNKS_MEDALLIONS_2"]
+[7762] 'Vermin'
+    gml_Object_game_Create_0.gml:258 createMedal("Vermin", "Hold 50 Chunks Medallions at once.", sprAchCoins2, "CHUNKS_MEDALLIONS_2");
+[7771] 'UNBOUND'
+    gml_Object_game_Create_0.gml:262 createMedal("Uh-Oh...", "Trigger a Chunks mutation.", sprAchChunksMutation, "UH_OH", ["UNBOUND", "NICE_DOGGY"]);
+    gml_Object_oTentacleChunks_Destroy_0.gml:7 unlockMedal("UNBOUND");
+[7773] 'Uh-Oh...'
+    gml_Object_game_Create_0.gml:262 createMedal("Uh-Oh...", "Trigger a Chunks mutation.", sprAchChunksMutation, "UH_OH", ["UNBOUND", "NICE_DOGGY"]);
+[7775] 'Unbound'
+    gml_Object_game_Create_0.gml:263 createMedal("Unbound", "Defeat Tentacle Chunks.", sprAchTentacleChunks, "UNBOUND");
+[7781] 'Cracked'
+    gml_Object_game_Create_0.gml:266 createMedal("Cracked", "Destroy three eggs in one room before any of them hatch.", sprAchEgg, "CRACKED");
+[7790] 'Globetrotter'
+    gml_Object_game_Create_0.gml:270 createMedal("Globetrotter", "Complete a run where you visit all 4 main floors, all 4 alternate floors, the Shrine, and a
+[7793] 'RUNRUNRUNRUNRUNRUNRUNRUNRUN'
+    gml_Object_game_Create_0.gml:272 createMedal("RUNRUNRUNRUNRUN", "RUNRUNRUNRUNRUNRUNRUNRUNRUN", sprAchRunRunRun, "RUNRUNRUN");
+[7794] 'RUNRUNRUNRUNRUN'
+    gml_Object_game_Create_0.gml:272 createMedal("RUNRUNRUNRUNRUN", "RUNRUNRUNRUNRUNRUNRUNRUNRUN", sprAchRunRunRun, "RUNRUNRUN");
+[7799] 'Triumph'
+    gml_Object_game_Create_0.gml:274 createMedal("Triumph", "Kill Diavola.", sprAchTriumph, "TRIUMPH", ["CLEAR_ARENA", "UNLOCK_CURSES", "CHUNKS_MEDALLIONS_1"
+[7807] 'Dreamer'
+    gml_Object_game_Create_0.gml:278 createMedal("Dreamer", "Fall asleep.", sprAchFallAsleep, "DREAMER", [], UnknownEnum.Value_0);
+[7812] 'Awakening'
+    gml_Object_game_Create_0.gml:280 createMedal("Awakening", "Defeat the Leviathan.", sprAchAwakening, "AWAKENING", ["GLOBETROTTER", "POWER_NAP", "GLUTTON_F
+[7820] 'Goodnight'
+    gml_Object_game_Create_0.gml:283 createMedal("Goodnight", "Thanks for playing!", sprAchGoodnight, "GOODNIGHT", [], UnknownEnum.Value_0, "You can uninstal
+[7901] 'Jules'
+    gml_Object_game_Create_0.gml:572 global.character[UnknownEnum.Value_0] = _createCharacter("Jules", "", jules);
+    gml_Object_oDreamEndingCutsceneMenu_Create_0.gml:6 var arr = [[sprVideoIconAlbert, "Albert", "ALL_AWAKENING_ENDINGS", "finalEpilogue.mp4"], [sprVideoIconJules, "Jules", "C
+[7902] 'Jeff'
+    gml_Object_game_Create_0.gml:573 global.character[UnknownEnum.Value_1] = _createCharacter("Jeff", "", trucker);
+    gml_Object_oDreamEndingCutsceneMenu_Create_0.gml:6 var arr = [[sprVideoIconAlbert, "Albert", "ALL_AWAKENING_ENDINGS", "finalEpilogue.mp4"], [sprVideoIconJules, "Jules", "C
+[7903] 'Cordelia'
+    gml_Object_game_Create_0.gml:574 global.character[UnknownEnum.Value_2] = _createCharacter("Cordelia", "", witchPlayer);
+    gml_Object_newCharacterSelect_Create_0.gml:88 startCharacterCutscene("Cordelia", global.cutCordelia);
+[7904] 'Mumba'
+    gml_Object_game_Create_0.gml:575 global.character[UnknownEnum.Value_3] = _createCharacter("Mumba", "", mumba);
+    gml_Object_newCharacterSelect_Create_0.gml:89 startCharacterCutscene("Mumba", global.cutMumba);
+[7905] 'Digby'
+    gml_Object_game_Create_0.gml:576 global.character[UnknownEnum.Value_4] = _createCharacter("Digby", "", digby);
+    gml_Object_newCharacterSelect_Create_0.gml:90 startCharacterCutscene("Digby", global.cutDigby);
+[7906] 'Luis'
+    gml_Object_game_Create_0.gml:577 global.character[UnknownEnum.Value_5] = _createCharacter("Luis", "", luis);
+    gml_Object_newCharacterSelect_Create_0.gml:91 startCharacterCutscene("Luis", global.cutLuis);
+[7907] 'Lydia'
+    gml_Object_game_Create_0.gml:578 global.character[UnknownEnum.Value_6] = _createCharacter("Lydia", "", lydia);
+    gml_Object_newCharacterSelect_Create_0.gml:92 startCharacterCutscene("Lydia", global.cutLydia);
+[7908] 'Fuji'
+    gml_Object_game_Create_0.gml:579 global.character[UnknownEnum.Value_7] = _createCharacter("Fuji", "", fuji);
+    gml_Object_newCharacterSelect_Create_0.gml:93 startCharacterCutscene("Fuji", global.cutFuji);
+[7909] 'BOSS'
+    gml_Object_game_Create_0.gml:580 global.character[UnknownEnum.Value_8] = _createCharacter("BOSS", "", oBoss);
+    gml_Object_newCharacterSelect_Create_0.gml:95 startCharacterCutscene("BOSS", global.cutBOSS);
+[7910] 'Axel'
+    gml_Object_game_Create_0.gml:581 global.character[UnknownEnum.Value_9] = _createCharacter("Axel", "", oAxel);
+    gml_Object_newCharacterSelect_Create_0.gml:96 startCharacterCutscene("Axel", global.cutAxel);
+[7916] 'Stan'
+    gml_Object_game_Create_0.gml:587 global.character[UnknownEnum.Value_16] = _createCharacter("Stan", "", stan);
+[7924] 'Mumbear'
+    gml_Object_game_Create_0.gml:595 global.character[UnknownEnum.Value_24] = _createCharacter("Mumbear", "", oBearMumba);
+[7931] 'Anya'
+    gml_Object_game_Create_0.gml:602 global.character[UnknownEnum.Value_10] = _createCharacter("Anya", "", oAnya);
+[7935] 'Fishba'
+    gml_Object_game_Create_0.gml:606 global.character[UnknownEnum.Value_34] = _createCharacter("Fishba", "", oMumbaD);
+[7960] 'Default'
+    gml_Object_game_Create_0.gml:716 texture_prefetch("Default");
+    gml_Object_milkbarLadsIntro_Step_0.gml:9 if (timer > 60 && texture_is_ready("Default"))
+[8306] 'Hmm...'
+    gml_Object_itemPickup_Step_0.gml:39 _sayString = choose("...Alright.", "Could come in handy.", "Don't mind if I do.", "Hmm...");
+    gml_Object_weaponPickup_Step_0.gml:73 _sayString = choose("...Alright.", "Could come in handy.", "Don't mind if I do.", "Hmm...");
+[8309] '...Alright.'
+    gml_Object_itemPickup_Step_0.gml:39 _sayString = choose("...Alright.", "Could come in handy.", "Don't mind if I do.", "Hmm...");
+    gml_Object_weaponPickup_Step_0.gml:73 _sayString = choose("...Alright.", "Could come in handy.", "Don't mind if I do.", "Hmm...");
+[8311] 'Strange.'
+    gml_Object_itemPickup_Step_0.gml:43 _sayString = choose("Strange.", "Hope nobody minds me taking this.", "Groovy.");
+    gml_Object_weaponPickup_Step_0.gml:77 _sayString = choose("Strange.", "Hope nobody minds me taking this.", "Groovy.");
+[8313] 'Mmmm....'
+    gml_Object_itemPickup_Step_0.gml:48 _sayString = choose("Mmm??..", "Mmmm....", "Mm!!");
+    gml_Object_weaponPickup_Step_0.gml:82 _sayString = choose("Mmm??..", "Mmmm....", "Mm!!");
+[8364] 'KRAKEN'
+    gml_Object_kraken_PreCreate_0.gml:6 self.bossName = "KRAKEN";
+[8446] 'BOSSBedroom'
+    gml_Object_levelController_Create_0.gml:282 addSpecialScreenToQueue(UnknownEnum.Value_24, "BOSSBedroom", 0);
+    gml_Object_oWeakThrowBalcony_Create_0.gml:14 addScreen(UnknownEnum.Value_24, "BOSSBedroom", makerStart, makerStart - 3, false);
+[8496] 'Constructing'
+    gml_Object_levelController_Create_0.gml:726 generatingFloorText = concat(choose("Building", "Generating", "Assembling", "Constructing", "Putting together", "Erectin
+[8497] 'Assembling'
+    gml_Object_levelController_Create_0.gml:726 generatingFloorText = concat(choose("Building", "Generating", "Assembling", "Constructing", "Putting together", "Erectin
+[8498] 'Generating'
+    gml_Object_levelController_Create_0.gml:726 generatingFloorText = concat(choose("Building", "Generating", "Assembling", "Constructing", "Putting together", "Erectin
+[8499] 'Building'
+    gml_Object_levelController_Create_0.gml:726 generatingFloorText = concat(choose("Building", "Generating", "Assembling", "Constructing", "Putting together", "Erectin
+[8617] 'CLEARED'
+    gml_Object_levelTransitionController_Create_0.gml:57 clearString = newProcessString("CLEARED", 999);
+[8750] 'Continue'
+    gml_Object_mainMenu_Create_0.gml:283 addTitleButton("Continue", function()
+[8753] 'Play'
+    gml_Object_mainMenu_Create_0.gml:289 addTitleButton(isFirstButton ? "Play" : "New run", function()
+[8758] 'Challenges'
+    gml_Object_mainMenu_Create_0.gml:299 var challengeButton = addTitleButton("Challenges", function()
+[8762] 'Settings'
+    gml_Object_mainMenu_Create_0.gml:316 addTitleButton("Settings", function()
+    gml_Object_oAnyaPauseMenu_Create_0.gml:370 name = "Settings";
+[8764] 'Quit'
+    gml_Object_mainMenu_Create_0.gml:325 addTitleButton("Quit", function()
+    gml_Object_newGameOver_Create_0.gml:215 makeGameOverOption(choose("Quit", "Give up", "Throw in the towel"), 3);
+[8784] 'EMIZMTQSMBPMLZMIUMZ'
+    gml_Object_mainMenu_Step_0.gml:118 window_set_caption("EMIZMTQSMBPMLZMIUMZ");
+[8798] '♦b♦i'
+    gml_Object_medalsList_Create_0.gml:18 var t = "♦b♦i" + n + "♦" + "r" + "♦" + "/" + "♦" + "i" + "♦" + "r";
+[8871] 'Whatever.'
+    gml_Object_monsterMaker_Other_10.gml:9 toolTip = newProcessString(choose("Ow.", "Ouch.", "Yowch.", "Stop that.", "You'll regret that.", "Why are you doing this
+[8872] 'Okay.'
+    gml_Object_monsterMaker_Other_10.gml:9 toolTip = newProcessString(choose("Ow.", "Ouch.", "Yowch.", "Stop that.", "You'll regret that.", "Why are you doing this
+[8874] 'Owchie.'
+    gml_Object_monsterMaker_Other_10.gml:9 toolTip = newProcessString(choose("Ow.", "Ouch.", "Yowch.", "Stop that.", "You'll regret that.", "Why are you doing this
+[8875] 'Stop.'
+    gml_Object_monsterMaker_Other_10.gml:9 toolTip = newProcessString(choose("Ow.", "Ouch.", "Yowch.", "Stop that.", "You'll regret that.", "Why are you doing this
+[8884] 'Yowch.'
+    gml_Object_monsterMaker_Other_10.gml:9 toolTip = newProcessString(choose("Ow.", "Ouch.", "Yowch.", "Stop that.", "You'll regret that.", "Why are you doing this
+[8885] 'Ouch.'
+    gml_Object_monsterMaker_Other_10.gml:9 toolTip = newProcessString(choose("Ow.", "Ouch.", "Yowch.", "Stop that.", "You'll regret that.", "Why are you doing this
+[8886] 'Ow.'
+    gml_Object_monsterMaker_Other_10.gml:9 toolTip = newProcessString(choose("Ow.", "Ouch.", "Yowch.", "Stop that.", "You'll regret that.", "Why are you doing this
+[8968] 'Gauntlet'
+    gml_Object_musicPlayer_Create_0.gml:101 addTrack(bgmChallengeRoomTheme, "Gauntlet", "SPREE_KILLER");
+[8973] 'Polaroid'
+    gml_Object_musicPlayer_Create_0.gml:106 addTrack(bgmPolaroid, "Polaroid", "CLEAR_GAME_NORMAL");
+[8978] 'Hellmart'
+    gml_Object_musicPlayer_Create_0.gml:111 addTrack(bgmHellmart, "Hellmart", "UNLOCK_CURSES");
+[8979] 'Heavenmart'
+    gml_Object_musicPlayer_Create_0.gml:112 addTrack(bgmHeavenmart, "Heavenmart", "BUY_BLESSING");
+[8997] 'Safety'
+    gml_Object_musicPlayer_Create_0.gml:132 addTrack(bgmAnyaSafeRoom, "Safety", "CHALLENGE_1", sprPlayerListRed);
+[9083] 'NORMAL'
+    gml_Object_newCharacterSelect_Create_0.gml:191 diffSelect[1] = _addDifficulty("NORMAL", 3532515, newProcessString("♦b♦2Normal♦r♦/♦8Dead Estate's standard difficulty.",
+[9085] 'PAINFUL'
+    gml_Object_newCharacterSelect_Create_0.gml:194 diffSelect[array_length(diffSelect)] = _addDifficulty("PAINFUL", 2868451, newProcessString("♦b♦2Painful♦r♦/♦0♦iFaster en
+[9087] 'NIGHTMARE'
+    gml_Object_newCharacterSelect_Create_0.gml:198 diffSelect[array_length(diffSelect)] = _addDifficulty("NIGHTMARE", 2181854, newProcessString("♦b♦1Nightmare♦r♦/♦0♦iFewer
+    gml_Object_oNightmareController_Create_0.gml:45 psnChangeZone("NIGHTMARE");
+[9207] 'CURSES'
+    gml_Object_newCharacterSelect_Draw_64.gml:393 var curseText = "CURSES";
+[9227] 'FAILURE.'
+    gml_Object_newGameOver_Create_0.gml:26 gameOverText = choose("GAME OVER.", "YOU DIED.", "YOU FAILED.", "FAILURE.", "YOU'RE DEAD.", "BETTER LUCK NEXT TIME.", "S
+[9238] 'Retry'
+    gml_Object_newGameOver_Create_0.gml:214 makeGameOverOption(choose("Try again", "Give it another go", "Retry", "Start over"), 2);
+[9480] 'Ballroom'
+    gml_Object_oAnyaBallroomAreaName_Create_0.gml:6 name = "Ballroom";
+[9481] 'Bathroom'
+    gml_Object_oAnyaBathroomAreaName_Create_0.gml:6 name = "Bathroom";
+    gml_Object_oAnyaLevelController_Create_0.gml:294 name: "Bathroom",
+[9597] 'Cemetery'
+    gml_Object_oAnyaCemeteryAreaName_Create_0.gml:6 name = "Cemetery";
+    gml_Object_oAnyaLevelController_Create_0.gml:371 name: "Cemetery",
+[9688] 'Courtyard'
+    gml_Object_oAnyaCourtyardAreaName_Create_0.gml:6 name = "Courtyard";
+    gml_Object_oAnyaLevelController_Create_0.gml:183 name: "Courtyard",
+[9954] 'Moon'
+    gml_Object_oAnyaGalleryPaintingPuzzleGhost_Create_0.gml:6 correctScreens = [ds_map_find_value(allScreens, "Moon"), ds_map_find_value(allScreens, "Bat")];
+    gml_Object_oAnyaGalleryPaintingPuzzle_Create_0.gml:59 description = "Moon";
+[9956] 'Bat'
+    gml_Object_oAnyaGalleryPaintingPuzzleGhost_Create_0.gml:6 correctScreens = [ds_map_find_value(allScreens, "Moon"), ds_map_find_value(allScreens, "Bat")];
+    gml_Object_oAnyaGalleryPaintingPuzzle_Create_0.gml:67 description = "Bat";
+[9958] 'Apple'
+    gml_Object_oAnyaGalleryPaintingPuzzleSkeleton_Create_0.gml:6 correctScreens = [ds_map_find_value(allScreens, "Apple"), ds_map_find_value(allScreens, "Grapes")];
+    gml_Object_oAnyaGalleryPaintingPuzzle_Create_0.gml:75 description = "Apple";
+[9960] 'Grapes'
+    gml_Object_oAnyaGalleryPaintingPuzzleSkeleton_Create_0.gml:6 correctScreens = [ds_map_find_value(allScreens, "Apple"), ds_map_find_value(allScreens, "Grapes")];
+    gml_Object_oAnyaGalleryPaintingPuzzle_Create_0.gml:83 description = "Grapes";
+[9961] 'Chalice'
+    gml_Object_oAnyaGalleryPaintingPuzzleVampire_Create_0.gml:6 correctScreens = [ds_map_find_value(allScreens, "Ankh"), ds_map_find_value(allScreens, "Chalice")];
+    gml_Object_oAnyaGalleryPaintingPuzzle_Create_0.gml:91 description = "Chalice";
+[9962] 'Ankh'
+    gml_Object_oAnyaGalleryPaintingPuzzleVampire_Create_0.gml:6 correctScreens = [ds_map_find_value(allScreens, "Ankh"), ds_map_find_value(allScreens, "Chalice")];
+    gml_Object_oAnyaGalleryPaintingPuzzle_Create_0.gml:99 description = "Ankh";
+[10003] 'Inspect'
+    gml_Object_oAnyaGalleryPaintingPuzzle_Step_0.gml:153 var inspect = new AnyaOption("Inspect");
+[10060] 'Greenhouse'
+    gml_Object_oAnyaGreenhouseAreaName_Create_0.gml:6 name = "Greenhouse";
+    gml_Object_oAnyaLevelController_Create_0.gml:404 name: "Greenhouse",
+[10160] 'Kitchen'
+    gml_Object_oAnyaKitchenAreaName_Create_0.gml:6 name = "Kitchen";
+    gml_Object_oAnyaLevelController_Create_0.gml:480 name: "Kitchen",
+[10202] 'Library'
+    gml_Object_oAnyaLevelController_Create_0.gml:87 name: "Library",
+    gml_Object_oAnyaLibraryAreaName_Create_0.gml:6 name = "Library";
+[10341] 'Study'
+    gml_Object_oAnyaLevelController_Create_0.gml:457 name: "Study",
+    gml_Object_oAnyaStudyAreaName_Create_0.gml:6 name = "Study";
+[10346] 'Wardrobe'
+    gml_Object_oAnyaLevelController_Create_0.gml:469 name: "Wardrobe",
+    gml_Object_oAnyaWardrobeAreaName_Create_0.gml:6 name = "Wardrobe";
+[10361] 'BALLROOM'
+    gml_Object_oAnyaLevelController_Create_0.gml:510 name: "BALLROOM",
+[10371] 'Slaughterhouse'
+    gml_Object_oAnyaLevelController_Create_0.gml:534 name: "Slaughterhouse",
+    gml_Object_oAnyaSlaughterhouseAreaName_Create_0.gml:6 name = "Slaughterhouse";
+[10459] 'Loading'
+    gml_Object_oAnyaLevelController_Create_0.gml:772 generatingFloorText = "Loading";
+[10528] 'INVENTORY'
+    gml_Object_oAnyaPauseMenu_Create_0.gml:346 name = "INVENTORY";
+    gml_Object_oAnyaPickupMenu_Create_0.gml:6 inventory.name = "INVENTORY";
+[10542] 'HEALTHY'
+    gml_Object_oAnyaPauseMenu_Create_0.gml:436 var st = "HEALTHY";
+    gml_Object_oAnyaTextBoxMenu_Create_0.gml:246 var st = "HEALTHY";
+[10544] 'MODERATE'
+    gml_Object_oAnyaPauseMenu_Create_0.gml:451 st = "MODERATE";
+    gml_Object_oAnyaTextBoxMenu_Create_0.gml:261 st = "MODERATE";
+[10545] 'INJURED'
+    gml_Object_oAnyaPauseMenu_Create_0.gml:455 st = "INJURED";
+    gml_Object_oAnyaTextBoxMenu_Create_0.gml:265 st = "INJURED";
+[10570] 'Emb.'
+    gml_Object_oAnyaPedestalPuzzle_Step_0.gml:33 var useEmblem = new AnyaOption(concat("Insert ", string_replace(emblemNames[i], "Emblem", "Emb.")));
+[10571] 'Emblem'
+    gml_Object_oAnyaPedestalPuzzle_Step_0.gml:33 var useEmblem = new AnyaOption(concat("Insert ", string_replace(emblemNames[i], "Emblem", "Emb.")));
+[10589] 'Take'
+    gml_Object_oAnyaPickupMenu_Create_0.gml:35 var oTake = new AnyaItemOption("Take", repItem);
+[10611] 'Pool'
+    gml_Object_oAnyaPoolAreaName_Create_0.gml:6 name = "Pool";
+[10725] 'SAVE'
+    gml_Object_oAnyaSaveMenu_Create_0.gml:86 saveButton.name = "SAVE";
+[10726] 'BACK'
+    gml_Object_oAnyaSaveMenu_Create_0.gml:87 backButton.name = "BACK";
+[10864] 'Resume'
+    gml_Object_oAnyaTextBoxMenu_Create_0.gml:124 name = "Resume";
+[10890] 'CONTINUE'
+    gml_Object_oAnyaTitleScreen_Create_0.gml:37 name = "CONTINUE";
+[10892] 'QUIT'
+    gml_Object_oAnyaTitleScreen_Create_0.gml:47 name = "QUIT";
+[10934] 'Leviathan'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10935] 'Trayah'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10938] 'Chisai'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10940] 'Kraken'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10945] 'Experiment'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10946] 'Pierrot'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10948] 'Resident'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10949] 'Ultraclot'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10951] 'Prism'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10952] 'Imprisoned'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10957] 'Inhale'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10958] 'Bubble'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10959] 'Butterfly'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10960] 'Nohead'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10964] 'Bonefishy'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10968] 'Unundead'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10978] 'Rokurokubi'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10979] 'Tanuki'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10980] 'Oni'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10981] 'Nurikabe'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10982] 'Umibozu'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10983] 'Harakiri'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10984] 'Kappa'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10985] 'Imp'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10986] 'Cherub'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10993] 'Miasma'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10996] 'Wizard'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[10998] 'Peeper'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11000] 'Maneater'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11001] 'Fishy'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11002] 'Barnacle'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11003] 'Waterlogged'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11004] 'Tentacle'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11005] 'Shackle'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11006] 'Plaguespreader'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11007] 'Plagued'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11008] 'Mummy'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11010] 'Gnome'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11011] 'Bloodsucker'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11012] 'Bonethrow'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11013] 'Unburied'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11014] 'Vat'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11015] 'Mousetrap'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11021] 'Labrat'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11022] 'Ooz'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11024] 'Soldier'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11025] 'Longleg'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11026] 'Faceless'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11029] 'Kagu'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11030] 'Crawler'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11031] 'Axxon'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11032] 'Drop'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11033] 'Ball'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11034] 'Cageling'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11035] 'Ashley'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11039] 'Hulk'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11040] 'Twitchy'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11041] 'Stalker'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11042] 'Moth'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11043] 'Meltface'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11044] 'Infester'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11045] 'Infested'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11046] 'Pimple'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11047] 'Chesty'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11051] 'Megaclot'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11052] 'Superclot'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11053] 'Clot'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11055] 'Wormbo'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11057] 'Wormy'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11058] 'Zombie'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11059] 'Toilet'
+    gml_Object_oAwakeningEndingController_Create_0.gml:166 cast = [new CredChar("Julieta \"Jules\" Halili\n(Ico)", sprPlayerWalkSoutheast), new CredChar("Jeff Jefferson\n(Major)",
+[11091] 'Hibachi'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11093] 'Kyrodil'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11097] 'Flowuhpowuh'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11098] 'Shanni'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11100] 'Frosstyart'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11102] 'Crisppyboat'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11104] 'MKMaffo'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11106] 'Moawko'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11111] 'Spicy'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11112] 'Gel'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11113] 'Ico'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11115] 'Milkyace'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11116] 'Stradomyre'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11119] 'Jack'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11132] 'Loudspeaker'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11150] 'Major'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11151] 'Music'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11152] 'Programming'
+    gml_Object_oAwakeningEndingController_Create_0.gml:174 credits = [new CredSegment("Programming", ["Jack"]), new CredSegment("Music", ["Major"]), new CredSegment("Cutscene art"
+[11207] 'Cast'
+    gml_Object_oAwakeningEndingController_Draw_64.gml:53 draw_text(rsx, sy, "Cast");
+[11302] 'Worldender'
+    gml_Object_oBabyLevi_PreCreate_0.gml:2 self.bossTitle = "Worldender";
+[11303] 'LEVIATHAN'
+    gml_Object_oBabyLevi_PreCreate_0.gml:3 self.bossName = "LEVIATHAN";
+[11379] 'TRAYAH'
+    gml_Object_oBadauController_PreCreate_0.gml:2 self.bossName = "TRAYAH";
+[11447] 'Reset All'
+    gml_Object_Obj_Steam_Achievement_ResetAll_Create_0.gml:3 text = "Reset All";
+[11449] 'Delete'
+    gml_Object_Obj_Steam_File_Delete_Create_0.gml:3 text = "Delete";
+[11452] 'Read'
+    gml_Object_Obj_Steam_File_Read_Create_0.gml:3 text = "Read";
+[11455] 'Read from buffer'
+    gml_Object_Obj_Steam_File_ReadFromBuffer_Create_0.gml:3 text = "Read from buffer";
+[11461] 'Write'
+    gml_Object_Obj_Steam_File_Write_Create_0.gml:3 text = "Write";
+[11462] 'HELLO WORLD'
+    gml_Object_Obj_Steam_File_Write_Mouse_7.gml:1 var data = "HELLO WORLD";
+[11466] 'Write from buffer'
+    gml_Object_Obj_Steam_File_WriteFromBuffer_Create_0.gml:3 text = "Write from buffer";
+[11470] 'Wrote OK. Try the Read from buffer button'
+    gml_Object_Obj_Steam_File_WriteFromBuffer_Mouse_7.gml:6 show_message_async(ok ? "Wrote OK. Try the Read from buffer button" : "Failed to write the file");
+[11471] 'Failed to write the file'
+    gml_Object_Obj_Steam_File_WriteFromBuffer_Mouse_7.gml:6 show_message_async(ok ? "Wrote OK. Try the Read from buffer button" : "Failed to write the file");
+[11472] 'Write File'
+    gml_Object_Obj_Steam_File_WriteFromFile_Create_0.gml:3 text = "Write File";
+[11475] 'HELLO WORLD FROM FILE'
+    gml_Object_Obj_Steam_File_WriteFromFile_Mouse_7.gml:3 file_text_write_string(file, "HELLO WORLD FROM FILE");
+[11620] 'Around User'
+    gml_Object_Obj_Steam_Leaderboard_Download_AroundUser_Create_0.gml:2 text = "Around User";
+[11624] 'Friends'
+    gml_Object_Obj_Steam_Leaderboard_Download_Friends_Create_0.gml:2 text = "Friends";
+    gml_Object_Obj_Steam_Overlay_Friends_Create_0.gml:3 text = "Friends";
+[11626] 'General'
+    gml_Object_Obj_Steam_Leaderboard_Download_General_Create_0.gml:2 text = "General";
+[11643] 'Score'
+    gml_Object_Obj_Steam_Leaderboard_Upload_Create_0.gml:2 text = "Score";
+[11663] 'Search'
+    gml_Object_Obj_Steam_Networking_Join_Specific_Create_0.gml:2 text = "Search";
+[11664] 'Lobby Member Index:'
+    gml_Object_Obj_Steam_Networking_Join_Specific_Mouse_7.gml:1 request = get_string_async("Lobby Member Index:", "");
+    gml_Object_Obj_Steam_Networking_Lobby_setOwner_Mouse_7.gml:1 request = get_integer_async("Lobby Member Index:", 0);
+[11672] 'Refresh'
+    gml_Object_Obj_Steam_Networking_List_Create_0.gml:2 text = "Refresh";
+[11677] 'Chat'
+    gml_Object_Obj_Steam_Networking_Lobby_Chat_Create_0.gml:2 text = "Chat";
+[11699] 'Black'
+    gml_Object_Obj_Steam_Networking_Lobby_Color_Create_0.gml:4 array_text = ["Red", "Purple", "Blue", "Yellow", "Green", "Orange", "Black"];
+[11700] 'Orange'
+    gml_Object_Obj_Steam_Networking_Lobby_Color_Create_0.gml:4 array_text = ["Red", "Purple", "Blue", "Yellow", "Green", "Orange", "Black"];
+[11701] 'Green'
+    gml_Object_Obj_Steam_Networking_Lobby_Color_Create_0.gml:4 array_text = ["Red", "Purple", "Blue", "Yellow", "Green", "Orange", "Black"];
+[11702] 'Yellow'
+    gml_Object_Obj_Steam_Networking_Lobby_Color_Create_0.gml:4 array_text = ["Red", "Purple", "Blue", "Yellow", "Green", "Orange", "Black"];
+[11703] 'Blue'
+    gml_Object_Obj_Steam_Networking_Lobby_Color_Create_0.gml:4 array_text = ["Red", "Purple", "Blue", "Yellow", "Green", "Orange", "Black"];
+[11704] 'Purple'
+    gml_Object_Obj_Steam_Networking_Lobby_Color_Create_0.gml:4 array_text = ["Red", "Purple", "Blue", "Yellow", "Green", "Orange", "Black"];
+[11705] 'Red'
+    gml_Object_Obj_Steam_Networking_Lobby_Color_Create_0.gml:4 array_text = ["Red", "Purple", "Blue", "Yellow", "Green", "Orange", "Black"];
+[11708] 'Set Owner'
+    gml_Object_Obj_Steam_Networking_Lobby_setOwner_Create_0.gml:2 text = "Set Owner";
+[11720] 'Requesting lobbies.'
+    gml_Object_Obj_Steam_Networking_Lobby_Step_0.gml:3 show_debug_message("Requesting lobbies.");
+[11727] 'Got a greet!'
+    gml_Object_Obj_Steam_Networking_Lobby_Step_0.gml:37 show_debug_message("Got a greet!");
+[11728] 'Color'
+    (代码中未找到带引号引用)
+[11729] 'Unknown packet.'
+    gml_Object_Obj_Steam_Networking_Lobby_Step_0.gml:47 show_debug_message("Unknown packet.");
+[11739] 'Overlay'
+    gml_Object_Obj_Steam_Networking_Overlay_Create_0.gml:2 text = "Overlay";
+[11741] 'Create Lobby'
+    gml_Object_Obj_Steam_Networking_Create_0.gml:2 text = "Create Lobby";
+[11749] 'Creator'
+    gml_Object_Obj_Steam_Networking_Other_69.gml:11 steam_lobby_set_data("Creator", steam_get_persona_name());
+[11750] 'Initial ping:'
+    gml_Object_Obj_Steam_Networking_Other_69.gml:15 show_debug_message("Initial ping:" + string(steam_net_packet_send(steam_lobby_get_owner_id(), b)));
+[11756] 'Browser'
+    gml_Object_Obj_Steam_Overlay_Browser_Create_0.gml:3 text = "Browser";
+[11759] 'Community'
+    gml_Object_Obj_Steam_Overlay_Community_Create_0.gml:3 text = "Community";
+[11761] 'Players'
+    gml_Object_Obj_Steam_Overlay_Players_Create_0.gml:3 text = "Players";
+[11762] 'Store'
+    gml_Object_Obj_Steam_Overlay_Store_Create_0.gml:3 text = "Store";
+[11764] 'User'
+    gml_Object_Obj_Steam_Overlay_User_Create_0.gml:3 text = "User";
+    gml_Object_Obj_Steam_UGC_Query_User_Create_0.gml:2 text = "User";
+[11771] 'Pause Music'
+    gml_Object_Obj_Steam_Pause_Create_0.gml:2 text = "Pause Music";
+[11773] 'Play Next Track'
+    gml_Object_Obj_Steam_Play_Next_Create_0.gml:2 text = "Play Next Track";
+[11775] 'Play Previous Track'
+    gml_Object_Obj_Steam_Play_Previous_Create_0.gml:2 text = "Play Previous Track";
+[11777] 'Play Music'
+    gml_Object_Obj_Steam_Play_Create_0.gml:2 text = "Play Music";
+[11801] 'Failed to get user avatar'
+    gml_Object_Obj_Steam_ProfileImage_Other_69.gml:16 show_debug_message("Failed to get user avatar");
+[11802] 'Screenshot'
+    gml_Object_Obj_Steam_Screenshot_Create_0.gml:2 text = "Screenshot";
+[11804] 'Set Volume'
+    gml_Object_Obj_Steam_Set_Volume_Create_0.gml:2 text = "Set Volume";
+[11805] 'Volume(float):'
+    gml_Object_Obj_Steam_Set_Volume_Mouse_7.gml:1 request = get_integer_async("Volume(float):", 0);
+[11807] 'Average Speed'
+    gml_Object_Obj_Steam_Stat_AverageSpeed_Create_0.gml:2 text = "Average Speed";
+[11812] 'Feet Traveled'
+    gml_Object_Obj_Steam_Stat_FeetsTraveled_Create_0.gml:2 text = "Feet Traveled";
+[11842] 'File list:'
+    gml_Object_Obj_Steam_StorageInfo_Draw_0.gml:15 draw_text(50, 100 + (_i++ * 30), "File list:");
+[11848] 'App Ticket'
+    gml_Object_Obj_Steam_Ticket_Create_0.gml:2 text = "App Ticket";
+[11862] 'Create Item'
+    gml_Object_Obj_Steam_UGC_Create_Create_0.gml:3 text = "Create Item";
+[11876] 'Multi-player'
+    gml_Object_Obj_Steam_UGC_Create_Other_69.gml:10 var tagArray = ["Single-player", "Multi-player"];
+[11877] 'Single-player'
+    gml_Object_Obj_Steam_UGC_Create_Other_69.gml:10 var tagArray = ["Single-player", "Multi-player"];
+[11889] 'Version 1.2'
+    gml_Object_Obj_Steam_UGC_Create_Other_69.gml:22 requestId = steam_ugc_submit_item_update(updateHandle, "Version 1.2");
+[11896] 'Enter the action index (1-6):'
+    gml_Object_Obj_Steam_UGC_Item_Mouse_7.gml:2 request = get_integer_async("Enter the action index (1-6):", 0);
+[11898] 'Item Subscribe'
+    gml_Object_Obj_Steam_UGC_Item_Other_63.gml:10 show_debug_message("Item Subscribe");
+[11900] 'Item Unsubscribe'
+    gml_Object_Obj_Steam_UGC_Item_Other_63.gml:14 show_debug_message("Item Unsubscribe");
+[11902] 'Item Install Info'
+    gml_Object_Obj_Steam_UGC_Item_Other_63.gml:22 show_debug_message("Item Install Info");
+[11906] 'Item needs to be subscribed first'
+    gml_Object_Obj_Steam_UGC_Item_Other_63.gml:27 show_debug_message("Item needs to be subscribed first");
+[11911] 'Item Update Info'
+    gml_Object_Obj_Steam_UGC_Item_Other_63.gml:38 show_debug_message("Item Update Info");
+[11914] 'Item Details'
+    gml_Object_Obj_Steam_UGC_Item_Other_63.gml:50 show_debug_message("Item Details");
+[11916] 'Delete Item'
+    gml_Object_Obj_Steam_UGC_Item_Other_63.gml:54 show_debug_message("Delete Item");
+[11918] 'All'
+    gml_Object_Obj_Steam_UGC_Query_All_Create_0.gml:2 text = "All";
+[11924] 'Subs'
+    gml_Object_Obj_Steam_UGC_Subscribed_Create_0.gml:2 text = "Subs";
+[11937] 'Dynamic Steam Cloud callback ...'
+    gml_Object_Obj_Steam_Other_69.gml:4 show_debug_message("Dynamic Steam Cloud callback ...");
+[11949] 'Done.'
+    gml_Object_Obj_Steam_Other_69.gml:16 show_debug_message("Done.");
+[11957] 'You are not logged in to steam!!'
+    gml_Object_Obj_Steam_Draw_64.gml:7 draw_text_transformed(room_width / 2, room_height / 2, "You are not logged in to steam!!", 2, 2, 0);
+[11975] 'Southwest'
+    gml_Object_oBoss_Create_0.gml:15 generatePlayerSprites(spriteBaseName, ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwe
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:112 var dirs = ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwest"];
+[11976] 'West'
+    gml_Object_oBoss_Create_0.gml:15 generatePlayerSprites(spriteBaseName, ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwe
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:112 var dirs = ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwest"];
+[11977] 'Northwest'
+    gml_Object_oBoss_Create_0.gml:15 generatePlayerSprites(spriteBaseName, ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwe
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:112 var dirs = ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwest"];
+[11978] 'North'
+    gml_Object_oBoss_Create_0.gml:15 generatePlayerSprites(spriteBaseName, ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwe
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:112 var dirs = ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwest"];
+[11979] 'Northeast'
+    gml_Object_oBoss_Create_0.gml:15 generatePlayerSprites(spriteBaseName, ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwe
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:112 var dirs = ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwest"];
+[11980] 'East'
+    gml_Object_oBoss_Create_0.gml:15 generatePlayerSprites(spriteBaseName, ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwe
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:112 var dirs = ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwest"];
+[11981] 'Southeast'
+    gml_Object_oBoss_Create_0.gml:15 generatePlayerSprites(spriteBaseName, ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwe
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:112 var dirs = ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwest"];
+[11982] 'South'
+    gml_Object_oBoss_Create_0.gml:15 generatePlayerSprites(spriteBaseName, ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwe
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:112 var dirs = ["South", "Southeast", "East", "Northeast", "North", "Northwest", "West", "Southwest"];
+[12002] 'BRBoss'
+    (代码中未找到带引号引用)
+[12163] 'Mmmm...'
+    gml_Object_oCampfireMumba_Create_0.gml:7 quoteJeff = "Mmmm...";
+[12192] '-Preface-'
+    gml_Object_oChallengeBook_Create_0.gml:115 draw_text_transformed(tx, ty - 40, "-Preface-", -1, 1, 0);
+[12420] 'Folder'
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:29 answer = get_open_filename("Folder", "");
+[12423] 'What'
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:40 terminate("What");
+[12436] 'Corpse'
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:103 name: "Corpse",
+    gml_Object_player_Create_0.gml:111 var cs = asset_get_index(concat(arg0, "Corpse"));
+[12442] 'Land'
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:93 name: "Land",
+    gml_Object_player_Create_0.gml:129 n[5] = concat(arg0, "Land", d);
+[12445] 'Fall'
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:88 name: "Fall",
+    gml_Object_player_Create_0.gml:128 n[4] = concat(arg0, "Fall", d);
+[12457] 'Hurt'
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:109 name: "Hurt",
+    gml_Object_player_Create_0.gml:130 n[6] = concat(arg0, "Hurt", d);
+[12463] 'Done'
+    gml_Object_oCharacterSpriteSetBuilder_Step_0.gml:137 terminate("Done");
+[12488] 'CHISAI'
+    gml_Object_oChisai_PreCreate_0.gml:2 self.bossName = "CHISAI";
+[12586] 'CYBIL'
+    gml_Object_oCultBoss_PreCreate_0.gml:4 self.bossName = "CYBIL";
+[12594] 'Broke...'
+    gml_Object_oCultistMenu_Create_0.gml:65 cantBuyString = ["This is not a charity.", "Broke...", "Come back with a fatter wallet."];
+[12597] 'Mhm.'
+    gml_Object_oCultistMenu_Create_0.gml:67 thanksString = ["Mhm.", "Hope you're happy.."];
+[12600] 'Cheapskate.'
+    gml_Object_oCultistMenu_Create_0.gml:78 cantBuyString = ["Trying to cheap out on me?... After what YOU did to me?...", "Hmph. You're not getting that.", "Cheaps
+[12621] '♦b♦i♦w'
+    gml_Object_oCultShopkeeper_Create_0.gml:18 witchItem[i][UnknownEnum.Value_4] = newProcessString("♦b♦i♦w" + choose("???", "Who knows?", "Buy it and find out.", "Wha
+[12626] 'Hm...'
+    gml_Object_oCultShopkeeper_Create_0.gml:42 witchItem[i][UnknownEnum.Value_8] = choose("...", "The only way to find out what it is....is to pay up.", "Will you buy 
+[12635] 'Hmph.'
+    gml_Object_oCultShopkeeper_Other_4.gml:5 sayOther(choose("Oh... It's you.", "Who let you in?...", "Hmph.", "Is your father doing well? Heh.", "Hm? Can't find you
+[12639] 'You...'
+    gml_Object_oCultShopkeeper_Other_4.gml:14 sayOther(choose("You're lucky I'm so forgiving...", "I suppose I'll take the high road here...", "Hmph.", "Next time... 
+[12669] 'BACKPACK'
+    gml_Object_oDigbyPickup_Create_0.gml:9 name = "BACKPACK";
+    gml_Object_oDigbyPickup_Step_0.gml:17 if (string_pos("BACKPACK", digbyItemsString) && string_pos("SCOUT'S BADGE", digbyItemsString) && string_pos("BALLCAP", d
+[12672] 'BALLCAP'
+    gml_Object_oDigbyPickup_Step_0.gml:17 if (string_pos("BACKPACK", digbyItemsString) && string_pos("SCOUT'S BADGE", digbyItemsString) && string_pos("BALLCAP", d
+    gml_Object_oDigbysHat_Create_0.gml:6 name = "BALLCAP";
+[12778] 'DREAM'
+    gml_Object_oDreamController_Create_0.gml:51 psnChangeZone("DREAM");
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[12791] 'Albert'
+    gml_Object_oDreamEndingCutsceneMenu_Create_0.gml:6 var arr = [[sprVideoIconAlbert, "Albert", "ALL_AWAKENING_ENDINGS", "finalEpilogue.mp4"], [sprVideoIconJules, "Jules", "C
+[12846] 'EPILOGUE'
+    gml_Object_oEpilogueController_Create_0.gml:46 psnChangeZone("EPILOGUE");
+[12879] 'EXIT'
+    gml_Object_oFaithShopMenu_Create_0.gml:30 exitString = newProcessString("EXIT", w);
+    gml_Object_oFiliaShopMenu_Create_0.gml:27 exitString = newProcessString("EXIT", w);
+[12916] 'Use gamepad'
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:3 makeOption("Use gamepad", -4, "Switches between keyboard & mouse and gamepad as the game's input method.", function()
+[12919] 'Toggles aiming assistance for gamepads on and off.'
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:15 makeOption("Gamepad aim assist", -4, "Toggles aiming assistance for gamepads on and off.", function()
+[12920] 'Gamepad aim assist'
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:15 makeOption("Gamepad aim assist", -4, "Toggles aiming assistance for gamepads on and off.", function()
+[12923] 'Adjusts the speed that your crosshair moves with a gamepad.'
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:23 makeOption("Gamepad aim speed", -4, "Adjusts the speed that your crosshair moves with a gamepad.", function()
+[12924] 'Gamepad aim speed'
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:23 makeOption("Gamepad aim speed", -4, "Adjusts the speed that your crosshair moves with a gamepad.", function()
+[12927] "Adjusts the sensitivity of a gamepad's thumbsticks."
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:36 makeOption("Thumbstick deadzones", -4, "Adjusts the sensitivity of a gamepad's thumbsticks.", function()
+[12928] 'Thumbstick deadzones'
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:36 makeOption("Thumbstick deadzones", -4, "Adjusts the sensitivity of a gamepad's thumbsticks.", function()
+[12931] "Adjusts the intensity of the gamepad's rumble features."
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:49 makeOption("Rumble intensity", -4, "Adjusts the intensity of the gamepad's rumble features.", function()
+[12932] 'Rumble intensity'
+    gml_Object_oGamepadSettingsMenu_Create_0.gml:49 makeOption("Rumble intensity", -4, "Adjusts the intensity of the gamepad's rumble features.", function()
+[12968] 'HEALED'
+    gml_Object_oGreenHealOrb_Step_0.gml:47 var t = createTextEffect(x, bbox_bottom, z - sprite_height, "HEALED", 65280, 60);
+    gml_Object_oHealer_Step_0.gml:66 var t = createTextEffect(x, bbox_bottom, z - sprite_height, "HEALED", 65280, 60);
+[13251] 'HURRY'
+    gml_Object_oMassiveAttackTimer_Step_0.gml:52 text = "HURRY";
+[13252] 'BADASS'
+    gml_Object_oMassiveAttackTimer_Step_0.gml:71 text = choose("NICE", "WIN", "BADASS");
+[13253] 'WIN'
+    gml_Object_oMassiveAttackTimer_Step_0.gml:71 text = choose("NICE", "WIN", "BADASS");
+[13254] 'NICE'
+    gml_Object_oMassiveAttackTimer_Step_0.gml:71 text = choose("NICE", "WIN", "BADASS");
+[13267] 'MINDSCAPE'
+    gml_Object_oMindscapeController_Create_0.gml:50 psnChangeZone("MINDSCAPE");
+[13302] 'Corey'
+    gml_Object_oMomKitchen_Other_4.gml:15 if (string_pos("Corey", t))
+[13307] 'Chunks'
+    gml_Object_oMomKitchen_Other_4.gml:25 if (string_pos("Chunks", t))
+[13348] 'Mmm...'
+    gml_Object_oMomKitchen_Other_4.gml:106 sayOther(choose("Mmm mmm", "Mmm...", "Mmm?"), player);
+[13360] 'Guilty.'
+    gml_Object_oMomKitchen_Other_4.gml:129 var rt = "Guilty.";
+[13447] 'NATALEVIATHAN'
+    gml_Object_oNataleviathan_PreCreate_0.gml:6 self.bossName = "NATALEVIATHAN";
+[13631] 'Epilogue'
+    gml_Object_oPSNActivityTest_Create_0.gml:6 var a = [["Explore the mansion", "psnActivityExploreMansion"], ["Find the antidote", "psnActivityFindAntidote"], ["Rescu
+[13632] 'Wake up'
+    gml_Object_oPSNActivityTest_Create_0.gml:6 var a = [["Explore the mansion", "psnActivityExploreMansion"], ["Find the antidote", "psnActivityFindAntidote"], ["Rescu
+[13633] 'Rescue Albert'
+    gml_Object_oPSNActivityTest_Create_0.gml:6 var a = [["Explore the mansion", "psnActivityExploreMansion"], ["Find the antidote", "psnActivityFindAntidote"], ["Rescu
+[13634] 'Find the antidote'
+    gml_Object_oPSNActivityTest_Create_0.gml:6 var a = [["Explore the mansion", "psnActivityExploreMansion"], ["Find the antidote", "psnActivityFindAntidote"], ["Rescu
+[13635] 'Explore the mansion'
+    gml_Object_oPSNActivityTest_Create_0.gml:6 var a = [["Explore the mansion", "psnActivityExploreMansion"], ["Find the antidote", "psnActivityFindAntidote"], ["Rescu
+[13648] 'Make all activities available'
+    gml_Object_oPSNActivityTest_Create_0.gml:73 makeAllAvailable.name = "Make all activities available";
+[13651] 'Make all activities unavailable'
+    gml_Object_oPSNActivityTest_Create_0.gml:81 makeAllUnavailable.name = "Make all activities unavailable";
+[13654] 'Terminate activities'
+    gml_Object_oPSNActivityTest_Create_0.gml:89 terminateActivities.name = "Terminate activities";
+[13661] 'Awaiting output...'
+    gml_Object_oPSNTrophyTest_Create_0.gml:5 output = "Awaiting output...";
+[13669] 'Set activity'
+    gml_Object_oPSNTrophyTest_Step_0.gml:43 output = "Set activity";
+[13670] 'Activity set'
+    gml_Object_oPSNTrophyTest_Step_0.gml:44 showMessage("Activity set");
+[13673] 'JULES'
+    gml_Object_oPSNTrophyTest_Step_0.gml:55 ds_map_add(udsMap, "primaryActor", "JULES");
+    gml_Object_player_Create_0.gml:573 psnChangeActor("JULES");
+[13702] 'Game intent message received of type:'
+    gml_Object_oPSNTrophyTest_Other_75.gml:10 show_debug_message("Game intent message received of type:" + string(intent_type) + " with data:" + string(intent_data));
+[13707] 'Found launch activity ID:'
+    gml_Object_oPSNTrophyTest_Other_75.gml:15 show_debug_message("Found launch activity ID:" + string(activityid));
+[13708] 'Communication restricted'
+    gml_Object_oPSNTrophyTest_Other_75.gml:23 showMessage("Communication restricted");
+[13709] 'Communication unrestricted'
+    gml_Object_oPSNTrophyTest_Other_75.gml:27 showMessage("Communication unrestricted");
+[13744] 'Load local file, update cloud file'
+    gml_Object_oSaveDesyncHandler_Create_0.gml:26 makeOption("Load local file, update cloud file", -4, "This option will load the save file directly from your device.♦/Do
+[13748] 'Load cloud file, update local file'
+    gml_Object_oSaveDesyncHandler_Create_0.gml:34 makeOption("Load cloud file, update local file", -4, "This option will load the save file from the Steam cloud.♦/Doing t
+[13750] 'Save files desynced'
+    gml_Object_oSaveDesyncHandler_PreCreate_0.gml:2 self.menuName = "Save files desynced";
+[13803] 'OKO'
+    gml_Object_oSheep_PreCreate_0.gml:2 self.bossName = "OKO";
+[13805] 'SHRINE'
+    gml_Object_oShrineController_Create_0.gml:37 psnChangeZone("SHRINE");
+[13815] 'Slot'
+    (代码中未找到带引号引用)
+[13844] 'Side1'
+    gml_Object_oSpriteLoader_Create_0.gml:30 eastString: "Side1",
+[13847] 'Side2'
+    gml_Object_oSpriteLoader_Create_0.gml:34 westString: "Side2",
+[13884] 'Loading...'
+    gml_Object_oSpriteLoader_Draw_0.gml:14 var str = concat("Loading...", amt, "%");
+[13885] 'Exit'
+    gml_Object_oStressTester_Create_0.gml:7 exitButton.name = "Exit";
+[13888] 'Reset'
+    gml_Object_oStressTester_Create_0.gml:15 resetButton.name = "Reset";
+[13941] 'Give all medals'
+    gml_Object_oSwitchDevTool_Create_0.gml:40 giveAllMedals = new StartArea("Give all medals", -1);
+[13944] 'Stress test'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13946] 'True ending'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13947] 'Normal ending'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13948] 'Video test'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13949] 'Test'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13950] 'The Empty Space'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13951] 'Floor 5 (Ruined)'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13955] 'Restored Mansion'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13957] 'The Bathroom'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13960] 'Sacrifical Grounds'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13961] 'Floor 6'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13962] 'Alt Floor 4'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13963] 'Alt Floor 3'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13964] 'Alt Floor 2'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13965] 'Alt Floor 1'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13966] 'Floor 5'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13967] 'Balcony'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13971] 'Main menu'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13972] 'Game start'
+    gml_Object_oSwitchDevTool_Create_0.gml:51 startAreas = [new StartArea("Game start", rmMilkbarLadsIntro), new StartArea("Main menu", rmMainMenuNew), new StartArea(
+[13997] 'RIP'
+    gml_Object_oTimeAttackTimer_Step_0.gml:66 text = "RIP";
+[14005] '...Heeeelp...'
+    gml_Object_oToilet_Other_4.gml:6 sayOther(choose("Hello?... I-Is someone there?...", "...Heeeelp...", "...P-p-pass the TP?..."), self);
+[14028] 'Creepy...'
+    gml_Object_oUnfinishedBed_Create_0.gml:12 jeffQuote = "Creepy...";
+[14102] 'PAUSED'
+    gml_Object_pauseMenu_Create_0.gml:14 pauseText = "PAUSED";
+[14108] 'COWARD.'
+    gml_Object_pauseMenu_Create_0.gml:24 other.pauseText = choose("WHAT ARE YOU RUNNING FROM?", "UNPAUSE THE GAME.", "COWARD.", "YOU CAN'T HIDE FOREVER.", "YOU W
+[14145] 'PIERROT'
+    gml_Object_pierrot_PreCreate_0.gml:10 self.bossName = "PIERROT";
+[14197] 'SHIELDED'
+    gml_Object_player_Create_0.gml:442 with (createTextEffect(x, bbox_bottom, z - height - 8, "SHIELDED", 16777215, 120))
+[14213] 'JEFF'
+    gml_Object_player_Create_0.gml:577 psnChangeActor("JEFF");
+[14214] 'CORDELIA'
+    gml_Object_player_Create_0.gml:581 psnChangeActor("CORDELIA");
+[14215] 'DIGBY'
+    gml_Object_player_Create_0.gml:585 psnChangeActor("DIGBY");
+[14216] 'MUMBA'
+    gml_Object_player_Create_0.gml:589 psnChangeActor("MUMBA");
+[14217] 'LYDIA'
+    gml_Object_player_Create_0.gml:593 psnChangeActor("LYDIA");
+[14218] 'LUIS'
+    gml_Object_player_Create_0.gml:597 psnChangeActor("LUIS");
+[14219] 'FUJI'
+    gml_Object_player_Create_0.gml:601 psnChangeActor("FUJI");
+[14220] 'AXEL'
+    gml_Object_player_Create_0.gml:609 psnChangeActor("AXEL");
+[14221] 'ANYA'
+    gml_Object_player_Create_0.gml:613 psnChangeActor("ANYA");
+[14322] 'HEALTH'
+    gml_Object_player_Draw_64.gml:206 var _healthX = (sprite_get_xoffset(sprPlayerHealthVial) + (string_width("HEALTH") * 0.25) + _guiOffset + irandom_range(-
+[14333] 'WEAPON'
+    gml_Object_player_Draw_64.gml:238 var _gunText = "WEAPON";
+[14344] 'MAP'
+    gml_Object_player_Draw_64.gml:270 var _mapString = "MAP";
+[14354] 'MONEY'
+    gml_Object_player_Draw_64.gml:284 var _cashString = "MONEY";
+[14477] 'SACRIFICIAL'
+    gml_Object_sacrificialController_Create_0.gml:18 psnChangeZone("SACRIFICIAL");
+[14491] 'TIRED'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14492] 'SLEPT'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14493] 'WAKEN'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14494] 'AWAKE'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14495] 'DOZES'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14496] 'WINKS'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14497] 'READY'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14498] 'DRIFT'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14499] 'FLOAT'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14500] 'NIGHT'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14501] 'SLEEP'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14502] 'RESTS'
+    gml_Object_scaryWordle_Create_0.gml:18 answerString = choose("DREAM", "RESTS", "SLEEP", "NIGHT", "FLOAT", "DRIFT", "READY", "WINKS", "DOZES", "AWAKE", "WAKEN",
+[14674] 'ULTRACLOT'
+    gml_Object_ultraClot_PreCreate_0.gml:7 self.bossName = "ULTRACLOT";
+[14686] 'Fullscreen'
+    gml_Object_videoSettingsMenu_Create_0.gml:9 makeOption("Fullscreen", -4, "Toggles fullscreen mode on and off.", function()
+[14723] 'Instances'
+    gml_Object_warpZone_Step_0.gml:50 with (instance_create_layer(0, 0, "Instances", roomTransition))
+[14781] 'N-n-n-no...'
+    gml_Object_witch_Other_4.gml:22 say(choose("N-no...", "N-n-n-no..."));
+[14782] 'N-no...'
+    gml_Object_witch_Other_4.gml:22 say(choose("N-no...", "N-n-n-no..."));
+[14802] 'Mm...'
+    gml_Object_witch_Other_4.gml:47 say(choose("Mm mm", "Mmm", "Mm..."));
+[14803] 'Mmm'
+    gml_Object_witch_Other_4.gml:47 say(choose("Mm mm", "Mmm", "Mm..."));
+[14833] 'Seeya.'
+    gml_Object_witchMenu_Create_0.gml:177 byeString = ["Leavin' so soon?", "Seeya.", "Happy trails!"];
+[14858] 'Yup.'
+    gml_Object_witchMenu_Destroy_0.gml:46 say(choose("How'd ya know?", "Yup."));
+[14863] 'Leave.'
+    gml_Object_witchMenu_Destroy_0.gml:51 _byeString = choose("Not a chance.", "Hell no.", "Leave.", "Get out?");
+[14955] 'DUMMY'
+    gml_Object_wordBullet_Create_0.gml:2 text = choose("GO AWAY", "SHUT UP", "I HATE YOU", "YOU'RE STUPID", "MORON", "IDIOT", "DUMMY", "STEP OFF", "FRIG OFF");
+[14956] 'IDIOT'
+    gml_Object_wordBullet_Create_0.gml:2 text = choose("GO AWAY", "SHUT UP", "I HATE YOU", "YOU'RE STUPID", "MORON", "IDIOT", "DUMMY", "STEP OFF", "FRIG OFF");
+[14957] 'MORON'
+    gml_Object_wordBullet_Create_0.gml:2 text = choose("GO AWAY", "SHUT UP", "I HATE YOU", "YOU'RE STUPID", "MORON", "IDIOT", "DUMMY", "STEP OFF", "FRIG OFF");
+[14988] 'Steamworks'
+    (代码中未找到带引号引用)
+[16282] 'BG'
+    (代码中未找到带引号引用)
+[19430] 'Sprite1616'
+    (代码中未找到带引号引用)
+[19431] 'Sprite1659'
+    (代码中未找到带引号引用)
+[19432] 'Sprite1933'
+    (代码中未找到带引号引用)
+[19433] 'Sprite1947'
+    (代码中未找到带引号引用)
+[19434] 'Sprite1987'
+    (代码中未找到带引号引用)
+[19435] 'Sprite1989'
+    (代码中未找到带引号引用)
+[19436] 'Sprite2005'
+    (代码中未找到带引号引用)
+[19437] 'Sprite854'
+    (代码中未找到带引号引用)
+[21759] 'GMLive'
+    (代码中未找到带引号引用)
+[21762] 'MACROS'
+    (代码中未找到带引号引用)
+[22323] 'Arial'
+    (代码中未找到带引号引用)
+[22329] 'Calibri'
+    (代码中未找到带引号引用)
+[22355] 'Tiny'
+    (代码中未找到带引号引用)
+[22357] 'Consolas'
+    (代码中未找到带引号引用)
+[24354] 'Background'
+    (代码中未找到带引号引用)
+[25683] '.yytex'
+    (代码中未找到带引号引用)

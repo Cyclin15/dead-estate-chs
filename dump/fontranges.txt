@@ -1,0 +1,448 @@
+--- fnt_gm_15 (display=Arial) em=15 bold=False italic=False
+    RangeStart=32  RangeEnd=255  GlyphCount=191  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=6 sh=25 shift=6 off=0
+      char=33 (0x0021) sx=2 sy=83 sw=3 sh=25 shift=6 off=1
+      char=34 (0x0022) sx=7 sy=83 sw=7 sh=25 shift=7 off=0
+      char=35 (0x0023) sx=16 sy=83 sw=11 sh=25 shift=11 off=0
+      char=36 (0x0024) sx=29 sy=83 sw=11 sh=25 shift=11 off=0
+      char=37 (0x0025) sx=42 sy=83 sw=16 sh=25 shift=18 off=1
+      ...char=252 (0x00FC) sx=294 sy=29 sw=9 sh=25 shift=11 off=1
+      ...char=253 (0x00FD) sx=305 sy=29 sw=10 sh=25 shift=10 off=0
+      ...char=254 (0x00FE) sx=177 sy=56 sw=10 sh=25 shift=11 off=1
+      ...char=255 (0x00FF) sx=287 sy=110 sw=10 sh=25 shift=10 off=0
+    glyphs with Character > 255: 0
+--- fnt_gm_20 (display=Arial) em=20 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=8 sh=31 shift=8 off=0
+      char=33 (0x0021) sx=2 sy=134 sw=4 sh=31 shift=8 off=2
+      char=34 (0x0022) sx=240 sy=101 sw=8 sh=31 shift=10 off=1
+      char=35 (0x0023) sx=223 sy=101 sw=15 sh=31 shift=15 off=0
+      char=36 (0x0024) sx=207 sy=101 sw=14 sh=31 shift=15 off=0
+      char=37 (0x0025) sx=183 sy=101 sw=22 sh=31 shift=24 off=1
+      ...char=124 (0x007C) sx=160 sy=35 sw=3 sh=31 shift=7 off=2
+      ...char=125 (0x007D) sx=149 sy=35 sw=9 sh=31 shift=9 off=0
+      ...char=126 (0x007E) sx=160 sy=167 sw=14 sh=31 shift=16 off=1
+      ...char=9647 (0x25AF) sx=176 sy=167 sw=8 sh=31 shift=16 off=4
+    glyphs with Character > 255: 1
+--- fnt_gm_30 (display=Arial) em=30 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=11 sh=46 shift=11 off=0
+      char=33 (0x0021) sx=367 sy=98 sw=5 sh=46 shift=11 off=3
+      char=34 (0x0022) sx=353 sy=98 sw=12 sh=46 shift=14 off=1
+      char=35 (0x0023) sx=329 sy=98 sw=22 sh=46 shift=22 off=0
+      char=36 (0x0024) sx=307 sy=98 sw=20 sh=46 shift=22 off=1
+      char=37 (0x0025) sx=273 sy=98 sw=32 sh=46 shift=36 off=2
+      ...char=124 (0x007C) sx=76 sy=50 sw=4 sh=46 shift=10 off=3
+      ...char=125 (0x007D) sx=61 sy=50 sw=13 sh=46 shift=13 off=0
+      ...char=126 (0x007E) sx=427 sy=146 sw=21 sh=46 shift=23 off=1
+      ...char=9647 (0x25AF) sx=450 sy=146 sw=12 sh=46 shift=24 off=6
+    glyphs with Character > 255: 1
+--- fntCryptic (display=DejaVu Serif Condensed) em=12 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=5 sh=19 shift=5 off=0
+      char=33 (0x0021) sx=120 sy=44 sw=2 sh=19 shift=6 off=2
+      char=34 (0x0022) sx=114 sy=44 sw=4 sh=19 shift=7 off=1
+      char=35 (0x0023) sx=102 sy=44 sw=10 sh=19 shift=12 off=1
+      char=36 (0x0024) sx=93 sy=44 sw=7 sh=19 shift=9 off=1
+      char=37 (0x0025) sx=79 sy=44 sw=12 sh=19 shift=14 off=1
+      ...char=124 (0x007C) sx=250 sy=2 sw=1 sh=19 shift=5 off=2
+      ...char=125 (0x007D) sx=243 sy=2 sw=5 sh=19 shift=9 off=2
+      ...char=126 (0x007E) sx=120 sy=65 sw=9 sh=19 shift=12 off=2
+      ...char=9647 (0x25AF) sx=131 sy=65 sw=6 sh=19 shift=8 off=1
+    glyphs with Character > 255: 1
+--- fntGameFont (display=Calibri) em=12 bold=True italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=4 sh=20 shift=4 off=0
+      char=33 (0x0021) sx=79 sy=46 sw=2 sh=20 shift=5 off=1
+      char=34 (0x0022) sx=72 sy=46 sw=5 sh=20 shift=7 off=1
+      char=35 (0x0023) sx=62 sy=46 sw=8 sh=20 shift=8 off=0
+      char=36 (0x0024) sx=53 sy=46 sw=7 sh=20 shift=8 off=0
+      char=37 (0x0025) sx=40 sy=46 sw=11 sh=20 shift=12 off=0
+      ...char=124 (0x007C) sx=224 sy=2 sw=2 sh=20 shift=8 off=3
+      ...char=125 (0x007D) sx=218 sy=2 sw=4 sh=20 shift=6 off=1
+      ...char=126 (0x007E) sx=56 sy=68 sw=7 sh=20 shift=8 off=0
+      ...char=9647 (0x25AF) sx=65 sy=68 sw=9 sh=20 shift=16 off=3
+    glyphs with Character > 255: 1
+--- fntGameFontBigger (display=Calibri) em=20 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=6 sh=33 shift=6 off=0
+      char=33 (0x0021) sx=77 sy=107 sw=2 sh=33 shift=9 off=4
+      char=34 (0x0022) sx=68 sy=107 sw=7 sh=33 shift=11 off=2
+      char=35 (0x0023) sx=53 sy=107 sw=13 sh=33 shift=13 off=0
+      char=36 (0x0024) sx=40 sy=107 sw=11 sh=33 shift=14 off=1
+      char=37 (0x0025) sx=21 sy=107 sw=17 sh=33 shift=19 off=1
+      ...char=124 (0x007C) sx=79 sy=37 sw=2 sh=33 shift=12 off=5
+      ...char=125 (0x007D) sx=71 sy=37 sw=6 sh=33 shift=8 off=2
+      ...char=126 (0x007E) sx=162 sy=142 sw=12 sh=33 shift=13 off=1
+      ...char=9647 (0x25AF) sx=176 sy=142 sw=16 sh=33 shift=26 off=5
+    glyphs with Character > 255: 1
+--- fntGameFontBiggerBold (display=Calibri) em=20 bold=True italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=6 sh=33 shift=6 off=0
+      char=33 (0x0021) sx=129 sy=107 sw=4 sh=33 shift=9 off=3
+      char=34 (0x0022) sx=119 sy=107 sw=8 sh=33 shift=12 off=2
+      char=35 (0x0023) sx=104 sy=107 sw=13 sh=33 shift=13 off=0
+      char=36 (0x0024) sx=90 sy=107 sw=12 sh=33 shift=14 off=1
+      char=37 (0x0025) sx=70 sy=107 sw=18 sh=33 shift=20 off=1
+      ...char=124 (0x007C) sx=103 sy=37 sw=3 sh=33 shift=13 off=5
+      ...char=125 (0x007D) sx=93 sy=37 sw=8 sh=33 shift=9 off=1
+      ...char=126 (0x007E) sx=223 sy=142 sw=12 sh=33 shift=13 off=1
+      ...char=9647 (0x25AF) sx=237 sy=142 sw=16 sh=33 shift=26 off=5
+    glyphs with Character > 255: 1
+--- fntGameFontBiggerBoldItalics (display=Calibri) em=20 bold=True italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=6 sh=33 shift=6 off=0
+      char=33 (0x0021) sx=226 sy=107 sw=7 sh=33 shift=9 off=2
+      char=34 (0x0022) sx=215 sy=107 sw=9 sh=33 shift=12 off=3
+      char=35 (0x0023) sx=199 sy=107 sw=14 sh=33 shift=13 off=0
+      char=36 (0x0024) sx=184 sy=107 sw=13 sh=33 shift=14 off=0
+      char=37 (0x0025) sx=163 sy=107 sw=19 sh=33 shift=20 off=1
+      ...char=124 (0x007C) sx=132 sy=37 sw=7 sh=33 shift=13 off=3
+      ...char=125 (0x007D) sx=120 sy=37 sw=10 sh=33 shift=9 off=-1
+      ...char=126 (0x007E) sx=116 sy=177 sw=12 sh=33 shift=13 off=2
+      ...char=9647 (0x25AF) sx=130 sy=177 sw=16 sh=33 shift=26 off=5
+    glyphs with Character > 255: 1
+--- fntGameFontBiggerItalics (display=Calibri) em=20 bold=True italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=6 sh=33 shift=6 off=0
+      char=33 (0x0021) sx=129 sy=107 sw=4 sh=33 shift=9 off=3
+      char=34 (0x0022) sx=119 sy=107 sw=8 sh=33 shift=12 off=2
+      char=35 (0x0023) sx=104 sy=107 sw=13 sh=33 shift=13 off=0
+      char=36 (0x0024) sx=90 sy=107 sw=12 sh=33 shift=14 off=1
+      char=37 (0x0025) sx=70 sy=107 sw=18 sh=33 shift=20 off=1
+      ...char=124 (0x007C) sx=103 sy=37 sw=3 sh=33 shift=13 off=5
+      ...char=125 (0x007D) sx=93 sy=37 sw=8 sh=33 shift=9 off=1
+      ...char=126 (0x007E) sx=223 sy=142 sw=12 sh=33 shift=13 off=1
+      ...char=9647 (0x25AF) sx=237 sy=142 sw=16 sh=33 shift=26 off=5
+    glyphs with Character > 255: 1
+--- fntGameFontBiggest (display=Calibri) em=39 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=12 sh=63 shift=12 off=0
+      char=33 (0x0021) sx=463 sy=132 sw=5 sh=63 shift=17 off=7
+      char=34 (0x0022) sx=448 sy=132 sw=13 sh=63 shift=21 off=4
+      char=35 (0x0023) sx=422 sy=132 sw=24 sh=63 shift=26 off=1
+      char=36 (0x0024) sx=398 sy=132 sw=22 sh=63 shift=26 off=2
+      char=37 (0x0025) sx=363 sy=132 sw=33 sh=63 shift=37 off=2
+      ...char=124 (0x007C) sx=84 sy=67 sw=4 sh=63 shift=24 off=10
+      ...char=125 (0x007D) sx=69 sy=67 sw=13 sh=63 shift=16 off=3
+      ...char=126 (0x007E) sx=66 sy=262 sw=22 sh=63 shift=26 off=2
+      ...char=9647 (0x25AF) sx=90 sy=262 sw=30 sh=63 shift=50 off=10
+    glyphs with Character > 255: 1
+--- fntGameFontBiggestBold (display=Calibri) em=39 bold=True italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=12 sh=63 shift=12 off=0
+      char=33 (0x0021) sx=70 sy=197 sw=7 sh=63 shift=17 off=6
+      char=34 (0x0022) sx=52 sy=197 sw=16 sh=63 shift=23 off=3
+      char=35 (0x0023) sx=26 sy=197 sw=24 sh=63 shift=26 off=1
+      char=36 (0x0024) sx=2 sy=197 sw=22 sh=63 shift=26 off=2
+      char=37 (0x0025) sx=456 sy=132 sw=35 sh=63 shift=38 off=1
+      ...char=124 (0x007C) sx=127 sy=67 sw=6 sh=63 shift=25 off=9
+      ...char=125 (0x007D) sx=111 sy=67 sw=14 sh=63 shift=18 off=3
+      ...char=126 (0x007E) sx=183 sy=262 sw=24 sh=63 shift=26 off=1
+      ...char=9647 (0x25AF) sx=209 sy=262 sw=30 sh=63 shift=50 off=10
+    glyphs with Character > 255: 1
+--- fntGameFontBiggestBoldItalics (display=Calibri) em=39 bold=True italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=12 sh=63 shift=12 off=0
+      char=33 (0x0021) sx=264 sy=197 sw=13 sh=63 shift=17 off=4
+      char=34 (0x0022) sx=245 sy=197 sw=17 sh=63 shift=23 off=6
+      char=35 (0x0023) sx=216 sy=197 sw=27 sh=63 shift=26 off=0
+      char=36 (0x0024) sx=189 sy=197 sw=25 sh=63 shift=26 off=1
+      char=37 (0x0025) sx=151 sy=197 sw=36 sh=63 shift=38 off=2
+      ...char=124 (0x007C) sx=204 sy=67 sw=15 sh=63 shift=25 off=5
+      ...char=125 (0x007D) sx=183 sy=67 sw=19 sh=63 shift=18 off=-1
+      ...char=126 (0x007E) sx=465 sy=262 sw=23 sh=63 shift=26 off=4
+      ...char=9647 (0x25AF) sx=2 sy=327 sw=30 sh=63 shift=50 off=10
+    glyphs with Character > 255: 1
+--- fntGameFontBiggestItalics (display=Calibri) em=39 bold=False italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=12 sh=63 shift=12 off=0
+      char=33 (0x0021) sx=144 sy=197 sw=11 sh=63 shift=17 off=5
+      char=34 (0x0022) sx=126 sy=197 sw=16 sh=63 shift=21 off=6
+      char=35 (0x0023) sx=98 sy=197 sw=26 sh=63 shift=26 off=1
+      char=36 (0x0024) sx=72 sy=197 sw=24 sh=63 shift=26 off=1
+      char=37 (0x0025) sx=36 sy=197 sw=34 sh=63 shift=37 off=2
+      ...char=124 (0x007C) sx=162 sy=67 sw=13 sh=63 shift=24 off=6
+      ...char=125 (0x007D) sx=143 sy=67 sw=17 sh=63 shift=16 off=-1
+      ...char=126 (0x007E) sx=314 sy=262 sw=23 sh=63 shift=26 off=4
+      ...char=9647 (0x25AF) sx=339 sy=262 sw=30 sh=63 shift=50 off=10
+    glyphs with Character > 255: 1
+--- fntGameFontBold (display=Calibri) em=12 bold=True italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=4 sh=20 shift=4 off=0
+      char=33 (0x0021) sx=79 sy=46 sw=2 sh=20 shift=5 off=1
+      char=34 (0x0022) sx=72 sy=46 sw=5 sh=20 shift=7 off=1
+      char=35 (0x0023) sx=62 sy=46 sw=8 sh=20 shift=8 off=0
+      char=36 (0x0024) sx=53 sy=46 sw=7 sh=20 shift=8 off=0
+      char=37 (0x0025) sx=40 sy=46 sw=11 sh=20 shift=12 off=0
+      ...char=124 (0x007C) sx=224 sy=2 sw=2 sh=20 shift=8 off=3
+      ...char=125 (0x007D) sx=218 sy=2 sw=4 sh=20 shift=6 off=1
+      ...char=126 (0x007E) sx=56 sy=68 sw=7 sh=20 shift=8 off=0
+      ...char=9647 (0x25AF) sx=65 sy=68 sw=9 sh=20 shift=16 off=3
+    glyphs with Character > 255: 1
+--- fntGameFontBoldItalics (display=Calibri) em=12 bold=True italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=4 sh=20 shift=4 off=0
+      char=33 (0x0021) sx=130 sy=46 sw=4 sh=20 shift=5 off=0
+      char=34 (0x0022) sx=122 sy=46 sw=6 sh=20 shift=7 off=1
+      char=35 (0x0023) sx=112 sy=46 sw=8 sh=20 shift=8 off=0
+      char=36 (0x0024) sx=102 sy=46 sw=8 sh=20 shift=8 off=0
+      char=37 (0x0025) sx=89 sy=46 sw=11 sh=20 shift=12 off=0
+      ...char=124 (0x007C) sx=242 sy=2 sw=5 sh=20 shift=8 off=1
+      ...char=125 (0x007D) sx=234 sy=2 sw=6 sh=20 shift=6 off=-1
+      ...char=126 (0x007E) sx=134 sy=68 sw=7 sh=20 shift=8 off=1
+      ...char=9647 (0x25AF) sx=143 sy=68 sw=9 sh=20 shift=16 off=3
+    glyphs with Character > 255: 1
+--- fntGameFontItalics (display=Calibri) em=12 bold=True italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=4 sh=20 shift=4 off=0
+      char=33 (0x0021) sx=130 sy=46 sw=4 sh=20 shift=5 off=0
+      char=34 (0x0022) sx=122 sy=46 sw=6 sh=20 shift=7 off=1
+      char=35 (0x0023) sx=112 sy=46 sw=8 sh=20 shift=8 off=0
+      char=36 (0x0024) sx=102 sy=46 sw=8 sh=20 shift=8 off=0
+      char=37 (0x0025) sx=89 sy=46 sw=11 sh=20 shift=12 off=0
+      ...char=124 (0x007C) sx=242 sy=2 sw=5 sh=20 shift=8 off=1
+      ...char=125 (0x007D) sx=234 sy=2 sw=6 sh=20 shift=6 off=-1
+      ...char=126 (0x007E) sx=134 sy=68 sw=7 sh=20 shift=8 off=1
+      ...char=9647 (0x25AF) sx=143 sy=68 sw=9 sh=20 shift=16 off=3
+    glyphs with Character > 255: 1
+--- fntGameFontItalicsBigger (display=Calibri) em=20 bold=True italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=6 sh=33 shift=6 off=0
+      char=33 (0x0021) sx=226 sy=107 sw=7 sh=33 shift=9 off=2
+      char=34 (0x0022) sx=215 sy=107 sw=9 sh=33 shift=12 off=3
+      char=35 (0x0023) sx=199 sy=107 sw=14 sh=33 shift=13 off=0
+      char=36 (0x0024) sx=184 sy=107 sw=13 sh=33 shift=14 off=0
+      char=37 (0x0025) sx=163 sy=107 sw=19 sh=33 shift=20 off=1
+      ...char=124 (0x007C) sx=132 sy=37 sw=7 sh=33 shift=13 off=3
+      ...char=125 (0x007D) sx=120 sy=37 sw=10 sh=33 shift=9 off=-1
+      ...char=126 (0x007E) sx=116 sy=177 sw=12 sh=33 shift=13 off=2
+      ...char=9647 (0x25AF) sx=130 sy=177 sw=16 sh=33 shift=26 off=5
+    glyphs with Character > 255: 1
+--- fntGameFontNormal (display=Calibri) em=12 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=4 sh=20 shift=4 off=0
+      char=33 (0x0021) sx=18 sy=46 sw=1 sh=20 shift=5 off=2
+      char=34 (0x0022) sx=12 sy=46 sw=4 sh=20 shift=6 off=1
+      char=35 (0x0023) sx=2 sy=46 sw=8 sh=20 shift=8 off=0
+      char=36 (0x0024) sx=243 sy=24 sw=6 sh=20 shift=8 off=1
+      char=37 (0x0025) sx=231 sy=24 sw=10 sh=20 shift=11 off=0
+      ...char=124 (0x007C) sx=212 sy=2 sw=1 sh=20 shift=7 off=3
+      ...char=125 (0x007D) sx=206 sy=2 sw=4 sh=20 shift=5 off=0
+      ...char=126 (0x007E) sx=226 sy=46 sw=7 sh=20 shift=8 off=0
+      ...char=9647 (0x25AF) sx=235 sy=46 sw=9 sh=20 shift=16 off=3
+    glyphs with Character > 255: 1
+--- fntGameFontNormalBold (display=Calibri) em=12 bold=True italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=4 sh=20 shift=4 off=0
+      char=33 (0x0021) sx=79 sy=46 sw=2 sh=20 shift=5 off=1
+      char=34 (0x0022) sx=72 sy=46 sw=5 sh=20 shift=7 off=1
+      char=35 (0x0023) sx=62 sy=46 sw=8 sh=20 shift=8 off=0
+      char=36 (0x0024) sx=53 sy=46 sw=7 sh=20 shift=8 off=0
+      char=37 (0x0025) sx=40 sy=46 sw=11 sh=20 shift=12 off=0
+      ...char=124 (0x007C) sx=224 sy=2 sw=2 sh=20 shift=8 off=3
+      ...char=125 (0x007D) sx=218 sy=2 sw=4 sh=20 shift=6 off=1
+      ...char=126 (0x007E) sx=56 sy=68 sw=7 sh=20 shift=8 off=0
+      ...char=9647 (0x25AF) sx=65 sy=68 sw=9 sh=20 shift=16 off=3
+    glyphs with Character > 255: 1
+--- fntGameFontNormalBoldItalics (display=Calibri) em=12 bold=True italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=4 sh=20 shift=4 off=0
+      char=33 (0x0021) sx=130 sy=46 sw=4 sh=20 shift=5 off=0
+      char=34 (0x0022) sx=122 sy=46 sw=6 sh=20 shift=7 off=1
+      char=35 (0x0023) sx=112 sy=46 sw=8 sh=20 shift=8 off=0
+      char=36 (0x0024) sx=102 sy=46 sw=8 sh=20 shift=8 off=0
+      char=37 (0x0025) sx=89 sy=46 sw=11 sh=20 shift=12 off=0
+      ...char=124 (0x007C) sx=242 sy=2 sw=5 sh=20 shift=8 off=1
+      ...char=125 (0x007D) sx=234 sy=2 sw=6 sh=20 shift=6 off=-1
+      ...char=126 (0x007E) sx=134 sy=68 sw=7 sh=20 shift=8 off=1
+      ...char=9647 (0x25AF) sx=143 sy=68 sw=9 sh=20 shift=16 off=3
+    glyphs with Character > 255: 1
+--- fntGameFontNormalItalics (display=Calibri) em=12 bold=False italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=4 sh=20 shift=4 off=0
+      char=33 (0x0021) sx=74 sy=46 sw=3 sh=20 shift=5 off=1
+      char=34 (0x0022) sx=68 sy=46 sw=4 sh=20 shift=6 off=2
+      char=35 (0x0023) sx=59 sy=46 sw=7 sh=20 shift=8 off=1
+      char=36 (0x0024) sx=49 sy=46 sw=8 sh=20 shift=8 off=0
+      char=37 (0x0025) sx=37 sy=46 sw=10 sh=20 shift=11 off=1
+      ...char=124 (0x007C) sx=228 sy=2 sw=4 sh=20 shift=7 off=2
+      ...char=125 (0x007D) sx=220 sy=2 sw=6 sh=20 shift=5 off=-1
+      ...char=126 (0x007E) sx=57 sy=68 sw=7 sh=20 shift=8 off=1
+      ...char=9647 (0x25AF) sx=66 sy=68 sw=9 sh=20 shift=16 off=3
+    glyphs with Character > 255: 1
+--- fntSmall (display=Calibri) em=10 bold=False italic=False
+    RangeStart=32  RangeEnd=9734  GlyphCount=98  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=3 sh=16 shift=3 off=0
+      char=33 (0x0021) sx=100 sy=56 sw=1 sh=16 shift=4 off=1
+      char=34 (0x0022) sx=95 sy=56 sw=3 sh=16 shift=5 off=1
+      char=35 (0x0023) sx=87 sy=56 sw=6 sh=16 shift=6 off=0
+      char=36 (0x0024) sx=80 sy=56 sw=5 sh=16 shift=7 off=1
+      char=37 (0x0025) sx=69 sy=56 sw=9 sh=16 shift=9 off=0
+      ...char=126 (0x007E) sx=54 sy=20 sw=5 sh=16 shift=6 off=0
+      ...char=9647 (0x25AF) sx=45 sy=20 sw=7 sh=16 shift=13 off=3
+      ...char=9733 (0x2605) sx=110 sy=56 sw=11 sh=16 shift=13 off=1
+      ...char=9734 (0x2606) sx=55 sy=92 sw=10 sh=16 shift=13 off=1
+    glyphs with Character > 255: 3
+--- fntSmallBold (display=Calibri) em=10 bold=True italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=3 sh=16 shift=3 off=0
+      char=33 (0x0021) sx=17 sy=74 sw=2 sh=16 shift=4 off=1
+      char=34 (0x0022) sx=10 sy=74 sw=5 sh=16 shift=6 off=0
+      char=35 (0x0023) sx=2 sy=74 sw=6 sh=16 shift=6 off=0
+      char=36 (0x0024) sx=113 sy=56 sw=6 sh=16 shift=7 off=0
+      char=37 (0x0025) sx=103 sy=56 sw=8 sh=16 shift=9 off=0
+      ...char=124 (0x007C) sx=75 sy=20 sw=1 sh=16 shift=6 off=2
+      ...char=125 (0x007D) sx=69 sy=20 sw=4 sh=16 shift=4 off=0
+      ...char=126 (0x007E) sx=84 sy=92 sw=6 sh=16 shift=6 off=0
+      ...char=9647 (0x25AF) sx=92 sy=92 sw=7 sh=16 shift=13 off=3
+    glyphs with Character > 255: 1
+--- fntSmallBoldItalics (display=Calibri) em=10 bold=True italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=3 sh=16 shift=3 off=0
+      char=33 (0x0021) sx=43 sy=38 sw=4 sh=16 shift=4 off=1
+      char=34 (0x0022) sx=38 sy=38 sw=3 sh=16 shift=6 off=2
+      char=35 (0x0023) sx=30 sy=38 sw=6 sh=16 shift=6 off=0
+      char=36 (0x0024) sx=21 sy=38 sw=7 sh=16 shift=7 off=0
+      char=37 (0x0025) sx=11 sy=38 sw=8 sh=16 shift=9 off=0
+      ...char=124 (0x007C) sx=209 sy=2 sw=2 sh=16 shift=6 off=2
+      ...char=125 (0x007D) sx=202 sy=2 sw=5 sh=16 shift=4 off=0
+      ...char=126 (0x007E) sx=2 sy=56 sw=6 sh=16 shift=6 off=1
+      ...char=9647 (0x25AF) sx=10 sy=56 sw=7 sh=16 shift=13 off=3
+    glyphs with Character > 255: 1
+--- fntSmaller (display=Calibri) em=8 bold=False italic=False
+    RangeStart=32  RangeEnd=9734  GlyphCount=98  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=2 sh=13 shift=2 off=0
+      char=33 (0x0021) sx=63 sy=47 sw=2 sh=13 shift=4 off=1
+      char=34 (0x0022) sx=58 sy=47 sw=3 sh=13 shift=4 off=1
+      char=35 (0x0023) sx=51 sy=47 sw=5 sh=13 shift=5 off=0
+      char=36 (0x0024) sx=45 sy=47 sw=4 sh=13 shift=6 off=1
+      char=37 (0x0025) sx=36 sy=47 sw=7 sh=13 shift=8 off=0
+      ...char=126 (0x007E) sx=43 sy=17 sw=5 sh=13 shift=5 off=0
+      ...char=9647 (0x25AF) sx=35 sy=17 sw=6 sh=13 shift=11 off=2
+      ...char=9733 (0x2605) sx=73 sy=47 sw=8 sh=13 shift=10 off=1
+      ...char=9734 (0x2606) sx=117 sy=62 sw=8 sh=13 shift=10 off=1
+    glyphs with Character > 255: 3
+--- fntSmallerBold (display=Calibri) em=8 bold=True italic=False
+    RangeStart=32  RangeEnd=9734  GlyphCount=98  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=2 sh=13 shift=2 off=0
+      char=33 (0x0021) sx=83 sy=47 sw=2 sh=13 shift=4 off=1
+      char=34 (0x0022) sx=78 sy=47 sw=3 sh=13 shift=5 off=1
+      char=35 (0x0023) sx=71 sy=47 sw=5 sh=13 shift=5 off=0
+      char=36 (0x0024) sx=64 sy=47 sw=5 sh=13 shift=6 off=0
+      char=37 (0x0025) sx=54 sy=47 sw=8 sh=13 shift=8 off=0
+      ...char=126 (0x007E) sx=51 sy=17 sw=5 sh=13 shift=5 off=0
+      ...char=9647 (0x25AF) sx=43 sy=17 sw=6 sh=13 shift=11 off=2
+      ...char=9733 (0x2605) sx=94 sy=47 sw=8 sh=13 shift=10 off=1
+      ...char=9734 (0x2606) sx=23 sy=77 sw=8 sh=13 shift=10 off=1
+    glyphs with Character > 255: 3
+--- fntSmallerBoldItalics (display=Calibri) em=8 bold=True italic=True
+    RangeStart=32  RangeEnd=9734  GlyphCount=98  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=2 sh=13 shift=2 off=0
+      char=33 (0x0021) sx=16 sy=62 sw=3 sh=13 shift=4 off=1
+      char=34 (0x0022) sx=10 sy=62 sw=4 sh=13 shift=5 off=1
+      char=35 (0x0023) sx=2 sy=62 sw=6 sh=13 shift=5 off=0
+      char=36 (0x0024) sx=115 sy=47 sw=5 sh=13 shift=6 off=0
+      char=37 (0x0025) sx=105 sy=47 sw=8 sh=13 shift=8 off=0
+      ...char=126 (0x007E) sx=75 sy=17 sw=5 sh=13 shift=5 off=1
+      ...char=9647 (0x25AF) sx=67 sy=17 sw=6 sh=13 shift=11 off=2
+      ...char=9733 (0x2605) sx=29 sy=62 sw=8 sh=13 shift=10 off=1
+      ...char=9734 (0x2606) sx=100 sy=77 sw=8 sh=13 shift=10 off=1
+    glyphs with Character > 255: 3
+--- fntSmallerItalics (display=Calibri) em=8 bold=False italic=True
+    RangeStart=32  RangeEnd=9734  GlyphCount=98  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=2 sh=13 shift=2 off=0
+      char=33 (0x0021) sx=111 sy=47 sw=2 sh=13 shift=4 off=1
+      char=34 (0x0022) sx=105 sy=47 sw=4 sh=13 shift=4 off=1
+      char=35 (0x0023) sx=97 sy=47 sw=6 sh=13 shift=5 off=0
+      char=36 (0x0024) sx=90 sy=47 sw=5 sh=13 shift=6 off=0
+      char=37 (0x0025) sx=81 sy=47 sw=7 sh=13 shift=8 off=1
+      ...char=126 (0x007E) sx=62 sy=17 sw=5 sh=13 shift=5 off=1
+      ...char=9647 (0x25AF) sx=54 sy=17 sw=6 sh=13 shift=11 off=2
+      ...char=9733 (0x2605) sx=2 sy=62 sw=8 sh=13 shift=10 off=1
+      ...char=9734 (0x2606) sx=65 sy=77 sw=8 sh=13 shift=10 off=1
+    glyphs with Character > 255: 3
+--- fntSmallItalics (display=Calibri) em=10 bold=False italic=True
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=3 sh=16 shift=3 off=0
+      char=33 (0x0021) sx=8 sy=38 sw=2 sh=16 shift=4 off=2
+      char=34 (0x0022) sx=2 sy=38 sw=4 sh=16 shift=5 off=2
+      char=35 (0x0023) sx=246 sy=20 sw=7 sh=16 shift=6 off=0
+      char=36 (0x0024) sx=238 sy=20 sw=6 sh=16 shift=7 off=0
+      char=37 (0x0025) sx=228 sy=20 sw=8 sh=16 shift=9 off=1
+      ...char=124 (0x007C) sx=198 sy=2 sw=3 sh=16 shift=6 off=2
+      ...char=125 (0x007D) sx=191 sy=2 sw=5 sh=16 shift=4 off=-1
+      ...char=126 (0x007E) sx=213 sy=38 sw=6 sh=16 shift=6 off=1
+      ...char=9647 (0x25AF) sx=221 sy=38 sw=7 sh=16 shift=13 off=3
+    glyphs with Character > 255: 1
+--- fntTiny (display=Tiny) em=5 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=97  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=3 sh=7 shift=3 off=0
+      char=33 (0x0021) sx=101 sy=20 sw=1 sh=7 shift=2 off=0
+      char=34 (0x0022) sx=96 sy=20 sw=3 sh=7 shift=4 off=0
+      char=35 (0x0023) sx=88 sy=20 sw=6 sh=7 shift=7 off=0
+      char=36 (0x0024) sx=83 sy=20 sw=3 sh=7 shift=4 off=0
+      char=37 (0x0025) sx=77 sy=20 sw=4 sh=7 shift=5 off=0
+      ...char=125 (0x007D) sx=11 sy=11 sw=3 sh=7 shift=4 off=0
+      ...char=126 (0x007E) sx=5 sy=11 sw=4 sh=7 shift=5 off=0
+      ...char=127 (0x007F) sx=114 sy=11 sw=3 sh=7 shift=4 off=-1
+      ...char=9647 (0x25AF) sx=112 sy=29 sw=4 sh=7 shift=7 off=1
+    glyphs with Character > 255: 1
+--- fntWeirdo (display=Consolas) em=16 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=12 sh=25 shift=12 off=0
+      char=33 (0x0021) sx=51 sy=83 sw=4 sh=25 shift=12 off=4
+      char=34 (0x0022) sx=42 sy=83 sw=7 sh=25 shift=12 off=2
+      char=35 (0x0023) sx=28 sy=83 sw=12 sh=25 shift=12 off=0
+      char=36 (0x0024) sx=16 sy=83 sw=10 sh=25 shift=12 off=1
+      char=37 (0x0025) sx=2 sy=83 sw=12 sh=25 shift=12 off=0
+      ...char=124 (0x007C) sx=71 sy=29 sw=3 sh=25 shift=12 off=4
+      ...char=125 (0x007D) sx=61 sy=29 sw=8 sh=25 shift=12 off=2
+      ...char=126 (0x007E) sx=99 sy=110 sw=11 sh=25 shift=12 off=0
+      ...char=9647 (0x25AF) sx=112 sy=110 sw=13 sh=25 shift=20 off=4
+    glyphs with Character > 255: 1
+--- Font_YoYo_20 (display=Arial) em=20 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=8 sh=31 shift=8 off=0
+      char=33 (0x0021) sx=2 sy=134 sw=4 sh=31 shift=8 off=2
+      char=34 (0x0022) sx=240 sy=101 sw=8 sh=31 shift=10 off=1
+      char=35 (0x0023) sx=223 sy=101 sw=15 sh=31 shift=15 off=0
+      char=36 (0x0024) sx=207 sy=101 sw=14 sh=31 shift=15 off=0
+      char=37 (0x0025) sx=183 sy=101 sw=22 sh=31 shift=24 off=1
+      ...char=124 (0x007C) sx=160 sy=35 sw=3 sh=31 shift=7 off=2
+      ...char=125 (0x007D) sx=149 sy=35 sw=9 sh=31 shift=9 off=0
+      ...char=126 (0x007E) sx=160 sy=167 sw=14 sh=31 shift=16 off=1
+      ...char=9647 (0x25AF) sx=176 sy=167 sw=16 sh=31 shift=26 off=5
+    glyphs with Character > 255: 1
+--- Font_YoYo_30 (display=Arial) em=30 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=11 sh=46 shift=11 off=0
+      char=33 (0x0021) sx=367 sy=98 sw=5 sh=46 shift=11 off=3
+      char=34 (0x0022) sx=353 sy=98 sw=12 sh=46 shift=14 off=1
+      char=35 (0x0023) sx=329 sy=98 sw=22 sh=46 shift=22 off=0
+      char=36 (0x0024) sx=307 sy=98 sw=20 sh=46 shift=22 off=1
+      char=37 (0x0025) sx=273 sy=98 sw=32 sh=46 shift=36 off=2
+      ...char=124 (0x007C) sx=76 sy=50 sw=4 sh=46 shift=10 off=3
+      ...char=125 (0x007D) sx=61 sy=50 sw=13 sh=46 shift=13 off=0
+      ...char=126 (0x007E) sx=427 sy=146 sw=21 sh=46 shift=23 off=1
+      ...char=9647 (0x25AF) sx=450 sy=146 sw=23 sh=46 shift=39 off=8
+    glyphs with Character > 255: 1
+--- Font_YoYo_50 (display=Arial) em=50 bold=False italic=False
+    RangeStart=32  RangeEnd=9647  GlyphCount=96  Charset=0
+      char=32 (0x0020) sx=2 sy=2 sw=19 sh=77 shift=19 off=0
+      char=33 (0x0021) sx=151 sy=160 sw=9 sh=77 shift=19 off=5
+      char=34 (0x0022) sx=131 sy=160 sw=18 sh=77 shift=24 off=3
+      char=35 (0x0023) sx=92 sy=160 sw=37 sh=77 shift=37 off=0
+      char=36 (0x0024) sx=57 sy=160 sw=33 sh=77 shift=37 off=2
+      char=37 (0x0025) sx=2 sy=160 sw=53 sh=77 shift=60 off=3
+      ...char=124 (0x007C) sx=886 sy=2 sw=6 sh=77 shift=17 off=6
+      ...char=125 (0x007D) sx=864 sy=2 sw=20 sh=77 shift=22 off=1
+      ...char=126 (0x007E) sx=37 sy=239 sw=35 sh=77 shift=39 off=2
+      ...char=9647 (0x25AF) sx=74 sy=239 sw=39 sh=77 shift=65 off=13
+    glyphs with Character > 255: 1
+
+GeneralInfo:
+  BytecodeVersion=17
+  Major=2024 Minor=11 Build=0
+  Name=Dead_Estate
+  DisplayName=Dead Estate

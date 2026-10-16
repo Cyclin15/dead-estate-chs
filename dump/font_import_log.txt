@@ -1,0 +1,26 @@
+OK   fntGameFont: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBigger: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBiggerBold: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBiggerBoldItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBiggerItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBiggest: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBiggestBold: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBiggestBoldItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBiggestItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBold: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontBoldItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontNormal: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontNormalBold: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontNormalBoldItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntGameFontNormalItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntSmall: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntSmallBold: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntSmallBoldItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntSmaller: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntSmallerBold: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntSmallerBoldItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntSmallerItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+OK   fntSmallItalics: 187 glyphs (92 CJK), atlas 2048x2048, total glyphs=187
+
+fontsUpdated=24 glyphsTotal=4488 texturesAdded=24
